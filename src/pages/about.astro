@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const SITE = 'https://dogtur.com';
+---
+<BaseLayout
+  title="About Dog Tur | Dog Tur"
+  description="Dog Tur is an independent, experience-first guide for parents of senior dogs: honest advice and hands-on tested product reviews."
+  canonical={`${SITE}/about/`}
+>
+  <div class="wrap">
+    <h1>About Dog Tur</h1>
+    <p>
+      Dog Tur is an independent guide for people caring for aging dogs. We exist
+      because senior dogs are underserved: most pet content is written for
+      puppies and prime-age adults, while the questions that come with a gray
+      muzzle — arthritis, appetite changes, cognitive decline, end-of-life
+      decisions — get thin, generic answers.
+    </p>
+    <h2>What we do</h2>
+    <ul>
+      <li><strong>Experience-first guides.</strong> Every guide is written from research plus real experience with senior dogs — what actually worked, what didn't, and what to ask your vet.</li>
+      <li><strong>Hands-on product testing.</strong> Review picks are tested, not aggregated: foam compression-tested beds, load-tested ramps, wash-tested covers — with photos and measurements.</li>
+      <li><strong>No miracle claims.</strong> We don't promise cures, rank by commission, or publish health content without vet-aware framing.</li>
+    </ul>
+    <h2>What we are not</h2>
+    <p>
+      Dog Tur is <strong>not a veterinary authority</strong>. Health content on
+      this site describes signs to discuss with your veterinarian — it never
+      diagnoses your dog, prescribes dosages, or replaces professional care.
+      See our <a href="/editorial-policy/">editorial policy</a> for the full rules.
+    </p>
+    <h2>How we make money</h2>
+    <p>
+      Dog Tur is reader-supported. Some links on review and comparison pages are
+      affiliate links: if you buy through them, we may earn a commission at no
+      extra cost to you. Commissions never influence rankings or verdicts. Full
+      details on the <a href="/affiliate-disclosure/">affiliate disclosure</a> page.
+    </p>
+    <h2>Contact</h2>
+    <p>Questions, corrections, or testing suggestions: <a href="/contact/">contact us</a>.</p>
+  </div>
+</BaseLayout>

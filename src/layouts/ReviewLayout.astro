@@ -1,0 +1,98 @@
+---
+// ReviewLayout: for review / comparison pages (money pages).
+// Adds disclosure, methodology link, and Review JSON-LD with PLACEHOLDER
+// product data — must be replaced with real tested products before publish.
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import DisclosureBox from '../components/DisclosureBox.astro';
+import { render, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+  siblings: CollectionEntry<'articles'>[];
+}
+
+const { entry, siblings } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const SITE = 'https://dogtur.com';
+const published = d.status === 'published';
+
+const reviewLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Review',
+  // TODO: replace placeholder product with real tested products
+  itemReviewed: { '@type': 'Product', name: 'TODO: tested product name' },
+  author: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
+  publisher: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
+  reviewRating: {
+    '@type': 'Rating',
+    ratingValue: 'TODO',
+    bestRating: '10',
+    worstRating: '0',
+  },
+  reviewBody: 'TODO: testing verdict summary from hands-on testing.',
+};
+
+const crumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' },
+    { '@type': 'ListItem', position: 2, name: d.sectionName, item: `${SITE}/${d.sectionSlug}/` },
+    { '@type': 'ListItem', position: 3, name: d.title },
+  ],
+};
+---
+<BaseLayout
+  title={`${d.title} | Dog Tur`}
+  description={d.description}
+  canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
+  noindex={!published}
+  jsonLd={[reviewLd, crumbLd]}
+>
+  <div class="wrap">
+    <Breadcrumbs trail={[
+      { label: 'Home', href: '/' },
+      { label: d.sectionName, href: `/${d.sectionSlug}/` },
+      { label: d.title },
+    ]} />
+
+    {!published && (
+      <div class="draft-banner" role="note">
+        <strong>Writer brief — not published.</strong> This review page is
+        <code>planned</code> and noindexed. <strong>Do not publish without real
+        hands-on testing and original evidence (photos, measurements).</strong>
+        Fill the product data, scores, and verdicts, then set
+        <code>status: published</code>.
+      </div>
+    )}
+
+    <article>
+      <h1>{d.title}</h1>
+      <div class="byline">
+        <span class="avatar" aria-hidden="true">DT</span>
+        <div>
+          <strong>Dog Tur editorial team</strong>
+          <small>Hands-on tested · <a href="/methodology/">How we test</a> ·
+          <a href="/editorial-policy/">Editorial policy</a></small>
+        </div>
+      </div>
+
+      <DisclosureBox />
+
+      <Content />
+    </article>
+
+    {siblings.filter((s) => s.data.status === 'published').length > 0 && (
+      <aside class="related" aria-label="Related reviews and guides">
+        <h2>More in {d.sectionName}</h2>
+        <ul>
+          {siblings.filter((s) => s.data.status === 'published').map((s) => (
+            <li><a href={`/${s.data.sectionSlug}/${s.data.slug}/`}>{s.data.title}</a></li>
+          ))}
+        </ul>
+      </aside>
+    )}
+  </div>
+</BaseLayout>

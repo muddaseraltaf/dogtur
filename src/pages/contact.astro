@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const SITE = 'https://dogtur.com';
+---
+<BaseLayout
+  title="Contact | Dog Tur"
+  description="Contact Dog Tur: corrections, testing suggestions, and general questions."
+  canonical={`${SITE}/contact/`}
+>
+  <div class="wrap">
+    <h1>Contact</h1>
+    <p>
+      We read everything. Fastest topics: <strong>corrections</strong> (with the
+      article URL and what's wrong), <strong>testing suggestions</strong>
+      (products you'd like us to test with senior dogs), and
+      <strong>general questions</strong> about the site.
+    </p>
+    <div class="safety-box">
+      <strong>Please don't send medical questions about your dog.</strong>
+      We can't diagnose or advise on treatment — your veterinarian can, and
+      should. See our <a href="/editorial-policy/">editorial policy</a>.
+    </div>
+    <h2>Email</h2>
+    <p>
+      <!-- TODO: replace with the real contact address before launch -->
+      <strong>TODO:</strong> add the site's contact email address before launch
+      (e.g. <code>hello@dogtur.com</code>). This placeholder must not go live.
+    </p>
+    <h2>What to include</h2>
+    <ul>
+      <li>The page URL you're writing about.</li>
+      <li>What you expected vs. what you found.</li>
+      <li>For corrections: a source we can check (vet site, study, label photo).</li>
+    </ul>
+  </div>
+</BaseLayout>

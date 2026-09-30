@@ -1,0 +1,82 @@
+---
+// PillarLayout: long-form hub pages. Renders the pillar body plus a curated
+// hub index of all planned + published articles in the same section.
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { render, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+  hubArticles: CollectionEntry<'articles'>[];
+}
+
+const { entry, hubArticles } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const SITE = 'https://dogtur.com';
+const published = d.status === 'published';
+
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: d.title,
+  itemListElement: hubArticles
+    .filter((a) => a.data.status === 'published')
+    .map((a, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${SITE}/${a.data.sectionSlug}/${a.data.slug}/`,
+      name: a.data.title,
+    })),
+};
+---
+<BaseLayout
+  title={`${d.title} | Dog Tur`}
+  description={d.description}
+  canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
+  noindex={!published}
+  jsonLd={itemListLd}
+>
+  <div class="wrap">
+    <Breadcrumbs trail={[
+      { label: 'Home', href: '/' },
+      { label: d.sectionName, href: `/${d.sectionSlug}/` },
+      { label: d.title },
+    ]} />
+
+    {!published && (
+      <div class="draft-banner" role="note">
+        <strong>Writer brief — not published.</strong> Pillar hub brief; planned
+        and noindexed. Complete the full body (every hub promise kept), then set
+        <code>status: published</code>.
+      </div>
+    )}
+
+    <article>
+      <h1>{d.title}</h1>
+      <div class="byline">
+        <span class="avatar" aria-hidden="true">DT</span>
+        <div>
+          <strong>Dog Tur editorial team</strong>
+          <small>The hub for {d.sectionName.toLowerCase()} —
+          <a href="/editorial-policy/">editorial policy</a></small>
+        </div>
+      </div>
+
+      <Content />
+
+      <section class="related" aria-label={`All guides in ${d.sectionName}`}>
+        <h2>All guides in {d.sectionName}</h2>
+        <ul>
+          {hubArticles.map((a) => (
+            <li>
+              {a.data.status === 'published'
+                ? <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
+                : <span>{a.data.title} <em class="status-planned">(coming soon)</em></span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    </article>
+  </div>
+</BaseLayout>

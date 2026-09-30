@@ -1,0 +1,99 @@
+---
+// ArticleLayout: default layout for informational / comparison / pillar pages.
+// Emits Article + BreadcrumbList JSON-LD. Reviews use ReviewLayout instead.
+// Sibling links (from frontmatter) render a related-articles box.
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import DisclosureBox from '../components/DisclosureBox.astro';
+import { render, type CollectionEntry } from 'astro:content';
+
+interface Props {
+  entry: CollectionEntry<'articles'>;
+  siblings: CollectionEntry<'articles'>[];
+}
+
+const { entry, siblings } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const SITE = 'https://dogtur.com';
+
+const published = d.status === 'published';
+const moneyPage = d.type === 'review' || d.type === 'comparison';
+
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
+  author: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Dog Tur',
+    url: SITE,
+    logo: { '@type': 'ImageObject', url: `${SITE}/favicon.svg` },
+  },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE}/${d.sectionSlug}/${d.slug}/` },
+  inLanguage: 'en',
+};
+
+const crumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: SITE + '/' },
+    { '@type': 'ListItem', position: 2, name: d.sectionName, item: `${SITE}/${d.sectionSlug}/` },
+    { '@type': 'ListItem', position: 3, name: d.title },
+  ],
+};
+---
+<BaseLayout
+  title={`${d.title} | Dog Tur`}
+  description={d.description}
+  canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
+  noindex={!published}
+  jsonLd={[articleLd, crumbLd]}
+>
+  <div class="wrap">
+    <Breadcrumbs trail={[
+      { label: 'Home', href: '/' },
+      { label: d.sectionName, href: `/${d.sectionSlug}/` },
+      { label: d.title },
+    ]} />
+
+    {!published && (
+      <div class="draft-banner" role="note">
+        <strong>Writer brief — not published.</strong> This page is an internal
+        content brief with status <code>planned</code> and is noindexed. Flesh out
+        the outline, add the original element, disclosure, and internal links,
+        then set <code>status: published</code>.
+      </div>
+    )}
+
+    <article>
+      <h1>{d.title}</h1>
+      <div class="byline">
+        <span class="avatar" aria-hidden="true">DT</span>
+        <div>
+          <strong>Dog Tur editorial team</strong>
+          <small>Experience-first senior dog care guides · Reviewed against our
+          <a href="/editorial-policy/">editorial policy</a></small>
+        </div>
+      </div>
+
+      {moneyPage && <DisclosureBox />}
+
+      <Content />
+    </article>
+
+    {siblings.filter((s) => s.data.status === 'published').length > 0 && (
+      <aside class="related" aria-label="Related articles">
+        <h2>Keep reading in {d.sectionName}</h2>
+        <ul>
+          {siblings.filter((s) => s.data.status === 'published').map((s) => (
+            <li><a href={`/${s.data.sectionSlug}/${s.data.slug}/`}>{s.data.title}</a></li>
+          ))}
+        </ul>
+      </aside>
+    )}
+  </div>
+</BaseLayout>

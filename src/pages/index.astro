@@ -1,0 +1,93 @@
+---
+// Homepage: Organization + WebSite JSON-LD; seven section cards; latest launch queue.
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { SECTIONS } from '../data/sections';
+
+const SITE = 'https://dogtur.com';
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Dog Tur',
+    url: SITE,
+    logo: `${SITE}/favicon.svg`,
+    description: 'Independent, experience-first senior dog care guides and tested product reviews.',
+    sameAs: [],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Dog Tur',
+    url: SITE,
+    description: 'Senior dog care guides, tested gear reviews, and honest advice for aging dogs.',
+    inLanguage: 'en',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: { '@type': 'EntryPoint', urlTemplate: `${SITE}/search?q={search_term_string}` },
+      'query-input': 'required name=search_term_string',
+    },
+  },
+];
+
+const all = await getCollection('articles', ({ data }) => data.status === 'published');
+const queue = (await getCollection('articles'))
+  .filter((a) => a.data.publishQueue != null)
+  .sort((a, b) => (a.data.publishQueue ?? 0) - (b.data.publishQueue ?? 0));
+---
+<BaseLayout
+  title="Dog Tur — Senior Dog Care Guides & Tested Gear Reviews"
+  description="Experience-first guides for caring for your aging dog: health, nutrition, mobility, behavior, grooming, gear, and end-of-life — plus honestly tested product reviews."
+  canonical={SITE + '/'}
+  jsonLd={jsonLd}
+>
+  <section class="hero">
+    <div class="wrap">
+      <h1>Caring for your aging dog, done right.</h1>
+      <p class="lede">
+        Dog Tur is an independent guide for parents of senior dogs: honest health
+        explainers, nutrition advice, and product reviews tested with real aging
+        dogs — not rewritten spec sheets.
+      </p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <h2>Explore by topic</h2>
+    <div class="section-grid">
+      {SECTIONS.map((s) => (
+        <a class="section-card" href={`/${s.slug}/`}>
+          <span class={`role-tag ${s.role === 'core' ? 'role-core' : 'role-outer'}`}>
+            {s.role === 'core' ? 'Core' : 'Outer'}
+          </span>
+          <h3>{s.name}</h3>
+          <p>{s.blurb}</p>
+        </a>
+      ))}
+    </div>
+
+    <h2>Launch series — the first twelve</h2>
+    <p>
+      Our first twelve guides build the semantic core of the site: the pillar
+      hubs, flagship explainers, and the first hands-on-tested reviews.
+    </p>
+    <ol class="article-list">
+      {queue.map((a) => (
+        <li>
+          <span class="type-tag">{a.data.type}</span>
+          <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
+          {a.data.status !== 'published' && (
+            <span class="status-planned"> — writer brief, in progress</span>
+          )}
+        </li>
+      ))}
+    </ol>
+
+    {all.length === 0 && (
+      <p>
+        <em>The first guides are in the workshop — each one is being researched,
+        tested, and written from scratch before it goes live.</em>
+      </p>
+    )}
+  </div>
+</BaseLayout>

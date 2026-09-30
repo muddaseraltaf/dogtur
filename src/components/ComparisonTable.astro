@@ -1,0 +1,23 @@
+---
+// ComparisonTable: attribute-by-attribute comparison (the ⚖️ format).
+// Pass caption + columns + rows. Keep cells short; attributes > entities.
+interface Props {
+  caption: string;
+  columns: string[];
+  rows: string[][];
+  note?: string;
+}
+const { caption, columns, rows, note } = Astro.props;
+---
+<figure style="margin:1.4rem 0;overflow-x:auto;">
+  <table class="compare-table">
+    <caption>{caption}</caption>
+    <thead><tr>{columns.map((c) => <th scope="col">{c}</th>)}</tr></thead>
+    <tbody>
+      {rows.map((r) => (
+        <tr>{r.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td>{cell}</td>))}</tr>
+      ))}
+    </tbody>
+  </table>
+  {note && <figcaption style="font-size:.88rem;color:var(--muted);">{note}</figcaption>}
+</figure>

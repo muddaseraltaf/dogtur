@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const SITE = 'https://dogtur.com';
+---
+<BaseLayout
+  title="Editorial Policy | Dog Tur"
+  description="Dog Tur's editorial policy: research standards, vet-aware health rules, review independence, affiliate ethics, and corrections."
+  canonical={`${SITE}/editorial-policy/`}
+>
+  <div class="wrap">
+    <h1>Editorial policy</h1>
+    <h2>Source context</h2>
+    <p>
+      Dog Tur is an <strong>independent, experience-first senior-dog guide and
+      testing blog</strong> — not a veterinary authority. We write from
+      research and real experience, and we defer to veterinarians on medical
+      matters.
+    </p>
+    <h2>Health content rules (YMYL)</h2>
+    <ul>
+      <li><strong>No diagnosis at a distance.</strong> We describe signs and say "discuss with your vet" — we never diagnose your dog.</li>
+      <li><strong>No medication dosages.</strong> Medication content covers classes and vet conversations, never doses or schedules.</li>
+      <li><strong>No cure or miracle claims.</strong> Supplements and therapies are covered with honest evidence framing.</li>
+      <li><strong>Human painkiller warning.</strong> We explicitly warn against giving dogs human painkillers (e.g. ibuprofen, acetaminophen) unless a vet directs it.</li>
+      <li><strong>Vet review where feasible.</strong> Health articles are fact-checked by a veterinarian where possible, with a named reviewer byline.</li>
+    </ul>
+    <h2>Review independence</h2>
+    <ul>
+      <li>Rankings come from test results, never from commission rates.</li>
+      <li>Every review discloses affiliate relationships at the top of the page.</li>
+      <li>Negative findings are published. A product that fails testing gets a failing verdict.</li>
+      <li>No review publishes without hands-on testing and original evidence (photos, measurements).</li>
+    </ul>
+    <h2>Originality</h2>
+    <p>
+      Every article ships with an original element: custom data, tests,
+      photography, charts, or surveys. We do not publish rewritten aggregations
+      of other sites' content.
+    </p>
+    <h2>Corrections</h2>
+    <p>
+      Factual errors are corrected promptly with a dated correction note at the
+      top of the article. Report errors via the <a href="/contact/">contact page</a>.
+    </p>
+    <h2>Advertising</h2>
+    <p>
+      We do not sell sponsored placements inside editorial content. If that ever
+      changes, sponsored content will be labeled and kept separate from tested reviews.
+    </p>
+  </div>
+</BaseLayout>

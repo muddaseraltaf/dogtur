@@ -1,0 +1,91 @@
+---
+// BaseLayout: <head> meta, canonical, OG, JSON-LD slots.
+// Every page passes title + description. `jsonLd` takes an object/array
+// rendered as application/ld+json. Planned (unpublished) pages add noindex.
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  noindex?: boolean;
+  jsonLd?: object | object[];
+  ogImage?: string;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  noindex = false,
+  jsonLd,
+  ogImage = '/og-default.jpg',
+} = Astro.props;
+
+const SITE = 'https://dogtur.com';
+const pageUrl = canonical ?? `${SITE}${Astro.url.pathname}`;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={pageUrl} />
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
+  <!-- Open Graph / Twitter -->
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="Dog Tur" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={pageUrl} />
+  <meta property="og:image" content={`${SITE}${ogImage}`} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  {jsonLd && (
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  )}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/">Dog Tur<small>Informative Blog for Dog Parents</small></a>
+      <nav class="site-nav" aria-label="Sections">
+        <a href="/senior-dog-health/">Health</a>
+        <a href="/senior-dog-nutrition/">Nutrition</a>
+        <a href="/senior-dog-mobility/">Mobility</a>
+        <a href="/senior-dog-behavior/">Behavior</a>
+        <a href="/senior-dog-grooming/">Grooming</a>
+        <a href="/senior-dog-gear/">Gear</a>
+        <a href="/senior-dog-lifestyle/">Lifestyle</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <slot />
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <strong class="sans">Dog Tur</strong> — experience-first senior dog care guides and tested product reviews.
+      <nav aria-label="Trust pages">
+        <a href="/about/">About</a>
+        <a href="/methodology/">How we test</a>
+        <a href="/editorial-policy/">Editorial policy</a>
+        <a href="/affiliate-disclosure/">Affiliate disclosure</a>
+        <a href="/contact/">Contact</a>
+        <a href="/privacy-policy/">Privacy</a>
+      </nav>
+      <p>
+        Dog Tur is an independent guide for dog parents, not a veterinary authority.
+        Health content describes signs to discuss with your veterinarian — never diagnoses or dosages.
+        Some links are affiliate links; see our <a href="/affiliate-disclosure/">disclosure</a>.
+      </p>
+      <p>© {new Date().getFullYear()} Dog Tur. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

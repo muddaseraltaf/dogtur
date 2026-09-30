@@ -1,0 +1,18 @@
+---
+// ScoreCard: testing scorecard for review pages.
+// Rows: { label, score } — score is display text like "9/10" or "2.1 kg".
+// TODO: fill with real measured values after hands-on testing.
+interface Props {
+  title: string;
+  rows: { label: string; score: string }[];
+  verdict?: string;
+}
+const { title, rows, verdict } = Astro.props;
+---
+<section class="scorecard" aria-label="Testing scorecard">
+  <h3>{title}</h3>
+  {rows.map((r) => (
+    <div class="score-row"><span>{r.label}</span><span class="score">{r.score}</span></div>
+  ))}
+  {verdict && <p style="margin:.8rem 0 0;"><strong>Verdict:</strong> {verdict}</p>}
+</section>

@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const SITE = 'https://dogtur.com';
+---
+<BaseLayout
+  title="Privacy Policy | Dog Tur"
+  description="Dog Tur privacy policy: what data we collect (almost none) and how affiliate links work."
+  canonical={`${SITE}/privacy-policy/`}
+>
+  <div class="wrap">
+    <h1>Privacy policy</h1>
+    <p><em>Last updated: September 2026.</em></p>
+    <h2>What we collect</h2>
+    <p>
+      Dog Tur is a static website. We don't run user accounts, comments, or
+      newsletters (yet). We don't ask for your name, email, or dog's details to
+      read the site.
+    </p>
+    <h2>Analytics</h2>
+    <p>
+      <!-- TODO: confirm the analytics setup before launch -->
+      <strong>TODO:</strong> document the analytics tool in use (e.g. Cloudflare
+      Web Analytics, which is cookieless) before launch. If privacy-friendly,
+      analytics without cookies are used, no consent banner is needed; if a
+      cookie-based tool is added, this policy and the site must be updated.
+    </p>
+    <h2>Affiliate links</h2>
+    <p>
+      Clicking an affiliate link takes you to a retailer's site, which sets its
+      own cookies and applies its own privacy policy. We don't see or store
+      what you buy. See the <a href="/affiliate-disclosure/">affiliate disclosure</a>.
+    </p>
+    <h2>Contact</h2>
+    <p>
+      If you email us, we keep your message only long enough to respond.
+      Privacy questions: use the <a href="/contact/">contact page</a>.
+    </p>
+  </div>
+</BaseLayout>

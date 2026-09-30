@@ -1,0 +1,31 @@
+---
+// Article route: /{section}/{slug}/. Picks layout by article type:
+// review/comparison → ReviewLayout, pillar → PillarLayout, else ArticleLayout.
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import ReviewLayout from '../../layouts/ReviewLayout.astro';
+import PillarLayout from '../../layouts/PillarLayout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((entry) => ({
+    params: { section: entry.data.sectionSlug, slug: entry.data.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const all = await getCollection('articles');
+const hubArticles = all
+  .filter((a) => a.data.hub === entry.data.hub)
+  .sort((a, b) => a.data.title.localeCompare(b.data.title));
+const siblings = hubArticles.filter((a) => a.slug !== entry.slug);
+
+const Layout =
+  entry.data.type === 'review' || entry.data.type === 'comparison'
+    ? ReviewLayout
+    : entry.data.type === 'pillar'
+      ? PillarLayout
+      : ArticleLayout;
+---
+<Layout entry={entry} siblings={siblings} hubArticles={hubArticles} />

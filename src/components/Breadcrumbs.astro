@@ -1,0 +1,16 @@
+---
+// Breadcrumbs: Home / Section / Article. Rendered as an ordered list;
+// JSON-LD BreadcrumbList is added separately by the article layouts.
+interface Crumb { label: string; href?: string }
+const { trail } = Astro.props as { trail: Crumb[] };
+---
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol style="list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:.2rem;">
+    {trail.map((c, i) => (
+      <li>
+        {i > 0 && <span class="sep" aria-hidden="true">›</span>}
+        {c.href ? <a href={c.href}>{c.label}</a> : <span aria-current="page">{c.label}</span>}
+      </li>
+    ))}
+  </ol>
+</nav>

@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const SITE = 'https://dogtur.com';
+---
+<BaseLayout
+  title="How We Test | Dog Tur"
+  description="Dog Tur's hands-on testing methodology for senior dog product reviews: what we test, how we score, and what we refuse to publish."
+  canonical={`${SITE}/methodology/`}
+>
+  <div class="wrap">
+    <h1>How we test</h1>
+    <p>
+      Every product review on Dog Tur is based on hands-on testing — with real
+      senior dogs where possible. We do not publish reviews based on spec
+      sheets, manufacturer claims, or aggregated user reviews. No test, no
+      review.
+    </p>
+    <h2>Our testing principles</h2>
+    <ul>
+      <li><strong>Senior dogs first.</strong> Testers are aging dogs. A bed that works for a three-year-old athlete may fail a twelve-year-old with arthritis — we test for the dog the product is meant to serve.</li>
+      <li><strong>Measured, not vibes.</strong> Foam compression, weight loads, temperature consistency, wash durability — we measure what we can and photograph the rest.</li>
+      <li><strong>Real-world time.</strong> Products live with testers for days or weeks, not minutes. Sleep trials, daily walks, repeated washes.</li>
+      <li><strong>No pay-to-play.</strong> Brands cannot pay for placement or a better score. Loaned products are disclosed; most test units are purchased retail.</li>
+    </ul>
+    <h2>What a typical review includes</h2>
+    <ol>
+      <li><strong>Testing box:</strong> what we tested, for how long, with which dogs, dated.</li>
+      <li><strong>Scorecard:</strong> measured attributes with explicit scores.</li>
+      <li><strong>Pros and cons</strong> drawn from testing notes, not marketing copy.</li>
+      <li><strong>Comparison table</strong> against the category's real alternatives.</li>
+      <li><strong>Verdict:</strong> who it's for, who should skip it.</li>
+    </ol>
+    <h2>Corrections</h2>
+    <p>
+      If a test was wrong or a product changes, we re-test and update the
+      review with a dated correction note. See the
+      <a href="/editorial-policy/">editorial policy</a> for our corrections process.
+    </p>
+  </div>
+</BaseLayout>

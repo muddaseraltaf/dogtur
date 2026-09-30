@@ -1,0 +1,15 @@
+---
+// Faq: <details> FAQ block. Also powers FAQPage JSON-LD in article layouts
+// when `faqJsonLd` is passed to the layout.
+interface Props { items: { q: string; a: string }[]; }
+const { items } = Astro.props;
+---
+<section class="faq" aria-label="Frequently asked questions">
+  <h2>Frequently asked questions</h2>
+  {items.map((f) => (
+    <details>
+      <summary>{f.q}</summary>
+      <p>{f.a}</p>
+    </details>
+  ))}
+</section>

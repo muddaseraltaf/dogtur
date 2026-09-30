@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+# Draft/writer-brief pages are noindexed in-page; keep them crawlable so the
+# noindex is honored, but exclude any /draft or /preview paths if added later.
+Disallow: /draft/
+Disallow: /preview/
+
+Sitemap: https://dogtur.com/sitemap-index.xml
