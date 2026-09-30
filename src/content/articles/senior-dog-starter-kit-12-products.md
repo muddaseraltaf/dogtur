@@ -14,7 +14,7 @@ siblings: ["best-orthopedic-dog-beds-senior-dogs", "best-dog-ramps-senior-dogs",
 publishQueue: null
 originalElement: "Curated kit with test verdicts per item; internal-link aggregator to all money pages."
 entities: ["starter kit (bed, ramp, bowls, harness, supplements, grooming, safety)"]
-description: "Essential Senior-Dog Starter Kit: 12 Products Worth Buying First: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Essential Senior-Dog Starter Kit: 12 Products Worth Buying First: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

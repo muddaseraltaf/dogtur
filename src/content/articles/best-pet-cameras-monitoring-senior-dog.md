@@ -14,7 +14,7 @@ siblings: ["senior-dog-anxiety-causes-strategies", "senior-dog-pacing-at-night-s
 publishQueue: null
 originalElement: "Night-vision/alert-accuracy test; two-way audio test."
 entities: ["pet camera (night vision, alerts, two-way audio)"]
-description: "Best Pet Cameras for Monitoring a Senior Dog: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Pet Cameras for Monitoring a Senior Dog: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

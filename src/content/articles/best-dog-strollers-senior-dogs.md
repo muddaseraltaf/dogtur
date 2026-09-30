@@ -14,7 +14,7 @@ siblings: ["best-dog-ramps-senior-dogs", "how-to-exercise-senior-dog-safely"]
 publishQueue: null
 originalElement: "Maneuverability/fold test; real-outing photos with senior dogs."
 entities: ["stroller (weight capacity, wheel type, fold size, ventilation)"]
-description: "Best Dog Strollers for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Dog Strollers for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

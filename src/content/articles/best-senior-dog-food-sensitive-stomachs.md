@@ -14,7 +14,7 @@ siblings: ["best-dog-food-senior-dogs", "homemade-senior-dog-food-recipes", "bes
 publishQueue: null
 originalElement: "Ingredient + fiber analysis; stool-quality notes from feeding trial."
 entities: ["digestibility (fiber %, fat %, novel proteins)", "stool quality (trial notes)"]
-description: "Best Senior Dog Food for Sensitive Stomachs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Senior Dog Food for Sensitive Stomachs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

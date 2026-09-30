@@ -14,7 +14,7 @@ siblings: ["senior-dog-anxiety-causes-strategies", "senior-dog-pacing-at-night-s
 publishQueue: null
 originalElement: "Ingredient verification table; no medical claims; \"discuss with your vet\" framing."
 entities: ["calming ingredients (L-theanine, casein, valerian — evidence status)"]
-description: "Best Calming Supplements for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Calming Supplements for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["managing-incontinence-senior-dogs", "house-training-regression-senio
 publishQueue: null
 originalElement: "Leak/absorbency test; fit photos by size; skin-health notes."
 entities: ["diaper (absorbency, fit, washable vs disposable)", "skin health (change frequency)"]
-description: "Best Dog Diapers for Incontinent Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Dog Diapers for Incontinent Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

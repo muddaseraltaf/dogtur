@@ -14,7 +14,7 @@ siblings: ["best-raised-bowls-senior-dogs", "how-much-feed-senior-dog"]
 publishQueue: null
 originalElement: "Eating-time comparison test; senior-friendliness notes (whisker stress, snout shape)."
 entities: ["slow feeder (maze difficulty, material, senior suitability)"]
-description: "Best Slow-Feeder Bowls for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Slow-Feeder Bowls for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

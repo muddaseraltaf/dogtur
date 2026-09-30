@@ -14,7 +14,7 @@ siblings: ["best-dog-food-senior-dogs", "what-age-is-a-senior-dog"]
 publishQueue: null
 originalElement: "Size-specific formula comparison (kibble size, joint-support levels, kcal density)."
 entities: ["large-breed senior (joint support, kcal control)", "small-breed senior (kibble size, dental)"]
-description: "Best Senior Dog Food for Large Breeds and Small Breeds: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Senior Dog Food for Large Breeds and Small Breeds: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

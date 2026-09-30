@@ -14,7 +14,7 @@ siblings: ["raised-feeder-vs-floor-bowls", "best-slow-feeder-bowls-senior-dogs",
 publishQueue: null
 originalElement: "Height-comfort test by dog size; spill/stability test. Canonical review — the S6 comparison bridges here."
 entities: ["raised feeder (height, stability, material)", "dog size (ergonomic height)"]
-description: "Best Raised Food and Water Bowls for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Raised Food and Water Bowls for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

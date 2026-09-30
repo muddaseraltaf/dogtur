@@ -14,7 +14,7 @@ siblings: ["best-orthopedic-dog-beds-senior-dogs", "arthritis-in-senior-dogs"]
 publishQueue: null
 originalElement: "Temperature-consistency test (thermal readings); safety notes (auto-shutoff, chew-resistant cords)."
 entities: ["heated bed (heat type, temperature range, safety features)"]
-description: "Best Heated Dog Beds for Arthritic Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Heated Dog Beds for Arthritic Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

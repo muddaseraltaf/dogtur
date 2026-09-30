@@ -14,7 +14,7 @@ siblings: ["best-wet-dog-food-senior-dogs", "best-soft-treats-senior-dogs", "how
 publishQueue: null
 originalElement: "Picky-eater acceptance test with real senior dogs; photos."
 entities: ["topper (broth, freeze-dried, wet) (acceptance rate, sodium)"]
-description: "Best Dog Food Toppers for Picky Senior Eaters: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Dog Food Toppers for Picky Senior Eaters: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

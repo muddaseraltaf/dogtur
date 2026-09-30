@@ -14,7 +14,7 @@ siblings: ["senior-dog-mental-stimulation-enrichment", "dog-dementia-signs-canin
 publishQueue: null
 originalElement: "Engagement-time test with senior dogs (minutes of interest per toy); photos."
 entities: ["puzzle toy (difficulty level, durability, senior suitability)"]
-description: "Best Puzzle Toys for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Puzzle Toys for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

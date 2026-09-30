@@ -14,7 +14,7 @@ siblings: ["best-dog-food-toppers-picky-senior-dogs", "senior-dog-dental-disease
 publishQueue: null
 originalElement: "Texture/chew-ease test with senior dogs (including toothless); photos."
 entities: ["treat texture (softness, size)", "dental considerations"]
-description: "Best Soft Treats for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Soft Treats for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

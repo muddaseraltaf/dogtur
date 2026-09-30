@@ -14,7 +14,7 @@ siblings: ["best-dog-food-senior-dogs", "best-wet-dog-food-senior-dogs", "best-s
 publishQueue: null
 originalElement: "Kibble-size measurements + palatability notes with senior dogs; original photos."
 entities: ["kibble (size, hardness, shape)", "palatability (senior acceptance)"]
-description: "Best Dry Dog Food for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Dry Dog Food for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

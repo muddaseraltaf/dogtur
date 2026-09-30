@@ -14,7 +14,7 @@ siblings: ["best-shampoos-senior-dogs-sensitive-skin", "how-often-bathe-senior-d
 publishQueue: null
 originalElement: "Gentleness test on thin skin; coat-type suitability notes."
 entities: ["brush (bristle type, gentleness, coat suitability)"]
-description: "Best Brushes for Senior Dogs With Thinning Skin: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Brushes for Senior Dogs With Thinning Skin: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["dog-dementia-signs-canine-cognitive-dysfunction", "senior-dog-behavi
 publishQueue: null
 originalElement: "Real-world tracking-accuracy test; battery-life test."
 entities: ["GPS tracker (accuracy, battery, subscription cost, weight)"]
-description: "Best GPS Trackers for Senior Dogs That Wander: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best GPS Trackers for Senior Dogs That Wander: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

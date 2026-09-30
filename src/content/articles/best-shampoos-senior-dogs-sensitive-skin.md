@@ -14,7 +14,7 @@ siblings: ["how-often-bathe-senior-dog", "best-brushes-senior-dogs-thinning-skin
 publishQueue: null
 originalElement: "Lather/rinse/skin-reaction test notes with photos."
 entities: ["shampoo (pH, fragrance, oatmeal/aloe)", "skin reaction (trial notes)"]
-description: "Best Shampoos for Senior Dogs With Sensitive Skin: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Shampoos for Senior Dogs With Sensitive Skin: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

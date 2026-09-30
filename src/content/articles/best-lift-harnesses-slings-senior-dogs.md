@@ -14,7 +14,7 @@ siblings: ["best-harnesses-senior-dogs-mobility-issues", "help-senior-dog-weak-b
 publishQueue: null
 originalElement: "Lift-comfort test with real senior dogs; handler-ease notes; fit photos."
 entities: ["lift harness/sling (support points, padding, handle design)"]
-description: "Best Lift Harnesses and Slings for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Lift Harnesses and Slings for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

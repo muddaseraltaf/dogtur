@@ -14,7 +14,7 @@ siblings: ["best-dog-food-senior-dogs", "best-dry-dog-food-senior-dogs", "best-d
 publishQueue: null
 originalElement: "Texture/palatability test with photos; cost-per-day math."
 entities: ["wet food (texture, moisture %, protein)", "cost per day"]
-description: "Best Wet Dog Food for Senior Dogs: hands-on test results with real senior dogs — ranked by testing, not spec sheets."
+description: "Best Wet Dog Food for Senior Dogs: research-based buying guide; hands-on testing planned before any test claims are published."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable
