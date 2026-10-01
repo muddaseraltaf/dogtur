@@ -47,5 +47,6 @@ Dogtur covers the senior dog's full life: health and vet care, nutrition and fee
 - [Methodology](https://dogtur.com/methodology/): Exactly what goes into a Dogtur review today and our testing roadmap.
 - [Editorial Policy](https://dogtur.com/editorial-policy/): How we research, fact-check, and stay independent.
 - [Affiliate Disclosure](https://dogtur.com/affiliate-disclosure/): How Dogtur earns from affiliate links (Amazon Associates).
+- [Our Most Recommended Products](https://dogtur.com/recommended-products/): The single top pick from each buying guide — the short list.
 - [Contact](https://dogtur.com/contact/): Reach the Dogtur team.
 - [Privacy Policy](https://dogtur.com/privacy-policy/): No first-party analytics; Cloudflare processes standard anonymized web logs.

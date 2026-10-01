@@ -6,6 +6,7 @@ import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import HeroImage from '../components/HeroImage.astro';
 import DisclosureBox from '../components/DisclosureBox.astro';
+import RecommendedCTA from '../components/RecommendedCTA.astro';
 import { render, type CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -86,6 +87,8 @@ const crumbLd = {
       <DisclosureBox />
 
       <Content />
+
+      <RecommendedCTA />
     </article>
 
     {siblings.filter((s) => s.data.status === 'published').length > 0 && (

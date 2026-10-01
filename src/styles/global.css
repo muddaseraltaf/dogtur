@@ -121,6 +121,26 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
 .affiliate-btn.plain { background: #fff; color: var(--ink) !important; border: 2px solid var(--accent); box-shadow: none; }
 .affiliate-btn.plain:hover { background: var(--accent-soft); color: var(--ink) !important; }
 
+/* Recommended products: cards, grid, and the end-of-article CTA. */
+.product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.4rem; margin: 1.6rem 0; }
+.product-card { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: #fff; display: flex; flex-direction: column; }
+.product-card-img { display: block; aspect-ratio: 4 / 3; background: var(--accent-soft); }
+.product-card-img img { width: 100%; height: 100%; object-fit: contain; border-radius: 0; background: #fff; }
+.product-card-ph { display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; color: var(--accent); opacity: .55; }
+.product-card-body { padding: 1.1rem 1.2rem 1.2rem; display: flex; flex-direction: column; flex: 1; }
+.product-card-body h3 { margin: 0 0 .5rem; font-size: 1.1rem; }
+.product-card-why { font-size: .95rem; color: var(--muted); margin: 0 0 .7rem; flex: 1; }
+.product-card-guide { font-size: .85rem; margin: 0 0 .8rem; }
+.product-card-body .affiliate-btn { margin: 0; }
+
+.recommended-cta { border: 2px solid var(--accent); background: var(--accent-soft); border-radius: var(--radius);
+  padding: 1.2rem 1.4rem; margin: 2.2rem 0; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; }
+.recommended-cta strong { font-size: 1.15rem; display: block; margin-bottom: .3rem; }
+.recommended-cta p { margin: 0; font-size: .95rem; max-width: 34rem; }
+.cta-link { display: inline-block; padding: .7rem 1.4rem; background: var(--accent); color: #fff !important;
+  font-weight: 700; border-radius: var(--radius); text-decoration: none; white-space: nowrap; }
+.cta-link:hover { background: #256a41; color: #fff !important; }
+
 .hero-figure { margin: 1.2rem 0 1.8rem; }
 .hero-figure img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover;
   border-radius: var(--radius); display: block; }

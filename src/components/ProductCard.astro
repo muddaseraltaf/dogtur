@@ -1,0 +1,53 @@
+---
+// ProductCard: a recommended-product card with an image slot.
+// Images must be Amazon-sanctioned (SiteStripe / Product Advertising API
+// hotlinks) — never self-hosted Amazon product photos. When image is null,
+// a brand placeholder renders instead.
+import type { RecommendedProduct } from '../data/recommended';
+
+interface Props {
+  product: RecommendedProduct;
+  showGuide?: boolean;
+}
+
+const { product: p, showGuide = true } = Astro.props;
+const rel = p.plain ? 'nofollow noopener' : 'nofollow sponsored noopener';
+const label = p.plain ? 'View on Amazon' : 'Check price on Amazon';
+---
+<article class="product-card">
+  <a
+    class="product-card-img"
+    href={p.url}
+    target="_blank"
+    rel={rel}
+    aria-label={`${p.name} on Amazon`}
+  >
+    {p.image ? (
+      <img src={p.image} alt={p.name} loading="lazy" width="400" height="300" />
+    ) : (
+      <span class="product-card-ph" aria-hidden="true">
+        <svg viewBox="0 0 64 64" width="52" height="52" fill="currentColor">
+          <ellipse cx="32" cy="41" rx="12" ry="9.5" />
+          <circle cx="15" cy="27" r="6" />
+          <circle cx="25.5" cy="18.5" r="6" />
+          <circle cx="38.5" cy="18.5" r="6" />
+          <circle cx="49" cy="27" r="6" />
+        </svg>
+      </span>
+    )}
+  </a>
+  <div class="product-card-body">
+    <h3>{p.name}</h3>
+    <p class="product-card-why">{p.why}</p>
+    {showGuide && (
+      <p class="product-card-guide">
+        From our guide: <a href={p.guideHref}>{p.guideTitle}</a>
+      </p>
+    )}
+    <p>
+      <a class={p.plain ? 'affiliate-btn plain' : 'affiliate-btn'} href={p.url} target="_blank" rel={rel}>
+        {label}
+      </a>
+    </p>
+  </div>
+</article>

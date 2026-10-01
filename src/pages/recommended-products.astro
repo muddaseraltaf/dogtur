@@ -1,0 +1,54 @@
+---
+// /recommended-products/ — Dogtur's short list: the single top pick from
+// each buying guide. Research-based, not hands-on tested (yet).
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { RECOMMENDED } from '../data/recommended';
+
+const SITE = 'https://dogtur.com';
+
+const itemListLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Our most recommended products for senior dogs',
+  description:
+    'The single top pick from each Dogtur buying guide — research-based recommendations for parents of aging dogs.',
+  itemListElement: RECOMMENDED.map((p, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: p.name,
+    url: p.url,
+  })),
+};
+---
+<BaseLayout
+  title="Our Most Recommended Products for Senior Dogs | Dogtur"
+  description="The short list: the single top pick from each Dogtur buying guide — food, beds, ramps, supplements, and gear for aging dogs."
+  canonical={`${SITE}/recommended-products/`}
+  jsonLd={[itemListLd]}
+>
+  <div class="wrap">
+    <h1>Our most recommended products</h1>
+    <p class="lede">
+      Every buying guide on Dogtur compares a full shortlist. This page is the
+      cheat sheet: the <strong>single top pick from each guide</strong> — the
+      product we'd point a friend to first. Each card links to the full guide
+      so you can see the runners-up and the reasoning.
+    </p>
+    <aside class="disclosure-box" role="note" aria-label="Affiliate disclosure">
+      <strong>Affiliate disclosure:</strong> Dogtur is reader-supported. When you
+      buy through links on this page, we may earn a commission at no extra cost
+      to you. <a href="/affiliate-disclosure/">Read our full disclosure</a>.
+    </aside>
+    <div class="product-grid">
+      {RECOMMENDED.map((p) => <ProductCard product={p} />)}
+    </div>
+    <p class="sans" style="margin-top: 2rem;">
+      <em>
+        An honest note: these picks come from label analysis, specification
+        comparisons, and verified owner reviews — not hands-on testing yet.
+        That's on our roadmap; see <a href="/methodology/">how we research</a>.
+      </em>
+    </p>
+  </div>
+</BaseLayout>
