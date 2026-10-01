@@ -21,6 +21,14 @@ heroAlt: "Dog eating kibble from a white food bowl indoors"
 
 If you're filling poop bags faster than you can buy them, your dog's food is usually the reason. Dogs produce more waste when their food contains ingredients they can't fully digest — the undigested remainder passes straight through. The good news is that stool volume and firmness respond to a handful of concrete changes: a more digestible recipe, the right kind and amount of fiber, and honest portion control. This guide explains all three, shows you what to read on the label, and points to foods worth a closer look. It's part of our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/), which covers how aging changes a dog's digestive needs.
 
+## Key takeaways
+
+- Stool is mostly what your dog's body couldn't use — digestibility is the single biggest driver of stool volume, and a published beagle trial directly linked higher digestibility to lower daily fecal output.
+- Fiber is the lever most people get backwards: for less poop, keep total fiber modest (not zero) and lean toward fermentable prebiotic fibers like beet pulp, chicory root, and fructooligosaccharides rather than heavy insoluble bulk.
+- Before switching foods, fix the easy levers: overfeeding is a top cause of excess poop, keep treats and scraps under 10% of daily calories, and split food into two or three smaller meals.
+- Foods worth considering: Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice) — the strongest owner-review signal here (4.4 across 2,455 Chewy ratings, 77% positive on digestibility); Hill's Science Diet Sensitive Stomach & Skin; Diamond Naturals Chicken & Rice as the budget pick; Royal Canin Gastrointestinal as the prescription option for persistent issues. No hands-on feeding trials yet.
+- Transition over 7–10 days and give it two to three weeks before judging — and see your vet first if there's blood or mucus, black/tarry stools, diarrhea lasting more than a couple of days, vomiting, lethargy, or weight loss.
+
 ## How much poop is normal — and when should I worry?
 
 Most healthy dogs poop one to four times a day, and consistency of shape, firmness, and timing matters more than the exact count. Vets score stools on a 1-to-7 fecal scoring scale, where the healthy middle is a firm, segmented, log-shaped stool.

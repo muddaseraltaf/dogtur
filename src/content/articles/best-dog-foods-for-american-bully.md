@@ -21,6 +21,14 @@ heroAlt: "American bully sitting among autumn leaves"
 
 The American Bully is a study in contrasts: a dog built like a weightlifter, with the metabolism of a couch potato if you're not careful. Feeding one well means holding two ideas at once — enough quality protein to maintain that muscular build, and enough portion discipline to keep a naturally heavy dog lean. This guide covers the nutritional targets that matter for the breed type, the marketing claims that don't, and which formulas fit — framed for the dog's whole life, because Bullies age like other large, heavy breeds: faster than you'd expect. For the bigger picture, see our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).
 
+## Key takeaways
+
+- Feed 25–30% crude protein from named animal sources (beef, chicken, fish, or their meals) and 12–20% crude fat matched to activity, with portions anchored to your dog's *ideal* weight — and ignore the kidney myth: high protein doesn't damage healthy dogs' kidneys.
+- There is no such thing as "bully-specific" food: AAFCO has no breed-specific nutrient profile, so judge every bag on protein, fat, calorie density (kcal/cup), and the AAFCO statement — the rest is marketing.
+- The breed's biggest nutrition problem is overfeeding, not underfeeding: Bullies are easy keepers, and a 90-pound Bully eating 4 cups of a 535 kcal/cup formula gets over 2,100 kcal — measure every meal, learn body-condition scoring, and weigh monthly.
+- Formulas compared on label and spec: VICTOR Hi-Pro Plus (30/20, ~405 kcal/cup) for active Bullies; Bully Max 30/20 (~535 kcal/cup) for hard keepers and very active dogs; Bully Max 25/11 (25/11, 415 kcal/cup) as the smarter pick for the common case — a Bully that needs to lose weight; Diamond Naturals as the budget route. Hepper's testers named Taste of the Wild Wetlands best overall in 2026 (their testing, not ours). No hands-on feeding trials yet.
+- Skin issues are mostly environmental, not food: the only reliable diagnosis is an elimination-challenge trial with your vet (one novel or hydrolyzed protein, at least 8 weeks), and omega-3s are the best-supported nutritional lever for skin. On grain-free: the DCM association tracks with pulse-heavy diets (peas, lentils, chickpeas), not with the mere absence of grains.
+
 ## What should an American Bully actually eat?
 
 Aim for 25–30% crude protein from named animal sources (beef, chicken, fish, or their meals), 12–20% crude fat depending on activity level, and portions matched to your dog's ideal weight — not their current one. Look for an AAFCO statement for adult maintenance or all life stages, and expect to adjust as your Bully ages.

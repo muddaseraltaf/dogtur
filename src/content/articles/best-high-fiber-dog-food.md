@@ -23,6 +23,14 @@ Fiber is behind some of the most common dog-food searches — "high fiber dog fo
 
 This guide does what most fiber articles skip: it explains the *mechanisms*, shows you how to read the label honestly — the crude-fiber number is more misleading than most owners realize — and compares foods and supplements on label specifications (hands-on feeding trials are planned but haven't happened yet). If fiber is one piece of a broader feeding plan for an aging dog, start with our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/) and come back here for the fiber deep dive.
 
+## Key takeaways
+
+- The crude-fiber number on the label is a maximum that ignores soluble fiber entirely — treat it as a rough floor for insoluble fiber, not a measure of total fiber.
+- Match the fiber type to the problem: insoluble-heavy fiber for anal gland support (bulkier, firmer stools squeeze the glands), fermentable soluble fiber (inulin, FOS, beet pulp) for gut health.
+- Never compare a dry food's fiber percentage directly with a wet food's — convert to a dry-matter basis. Hill's w/d canned lists ~7% fiber as fed but lands around 22.7% on a dry-matter basis.
+- Typical bands: maintenance foods ~2–5% crude fiber max, weight-management formulas ~8–12%, veterinary therapeutic diets well over 10% (which belong under veterinary supervision).
+- Worth considering: Royal Canin Gastrointestinal High Fibre (veterinary diet, well over 10% crude fiber), Hill's Prescription Diet w/d Multi-Benefit (~22–23% dry-matter fiber), Nutro Natural Choice Healthy Weight (11% max crude fiber), and Glandex Soft Chews for anal glands (4.6 stars across ~1,470 Petco reviews).
+
 ## What does fiber actually do in a dog's body?
 
 Fiber is the part of plant ingredients a dog's own enzymes can't digest — it passes through largely intact, and that journey is where the benefits happen. Insoluble fibers (cellulose, wheat bran, peanut hulls) don't dissolve in water; they travel through nearly unchanged, adding bulk that keeps things moving. Soluble fibers (pectins, gums, inulin from chicory root) dissolve, slow digestion, and pull water into the gut.

@@ -24,6 +24,14 @@ Dogs don't cry about pain the way we do. They go quiet. They stop greeting you a
 
 This guide is the checklist we wish every senior-dog owner had on the fridge: the subtle signs of pain in dogs, how to tell pain apart from normal aging, the difference between acute and chronic pain, how vets actually measure pain in animals that can't speak — and the one thing you must never do. For the broader mobility picture, see our [senior dog mobility guide](/senior-dog-mobility/senior-dog-mobility-guide/).
 
+## Key takeaways
+
+- Dogs evolved to mask pain, so chronic pain in seniors shows up as behavior — withdrawal, new irritability, restlessness or panting at rest, appetite changes — not crying. Limping and yelping are late, obvious signs; most suffering is quieter than that.
+- Use the pattern rule: one off-day means little, but a two-week trend of three or four checklist signs means a vet visit. Keep a one-line daily log (a 1–5 comfort score plus notable signs) and film a 30-second gait video monthly — "stiff every morning for twenty minutes, then fine" is diagnostically useful in a way "she seems sore" isn't.
+- Normal aging is gradual, symmetrical, and stable; pain is a change with a direction — something got worse over weeks, with asymmetry or bad days and better days. And stiffness that eases with gentle movement suggests joints; weakness, toe-dragging, or knuckling suggests neurological causes.
+- Never give human painkillers: ibuprofen is no longer recommended in dogs at all (GI ulceration, hemorrhage, kidney damage), acetaminophen can destroy red blood cells and damage the liver, and aspirin is dangerous without veterinary direction. If your dog is suffering tonight, call your vet or an emergency clinic.
+- Vets assess pain with validated owner questionnaires — the Canine Brief Pain Inventory (CBPI) and the Liverpool Osteoarthritis in Dogs (LOAD) scale — built on the behavioral changes in this guide. And "she seems fine at the vet" doesn't overrule two weeks of home notes: adrenaline masks pain beautifully.
+
 ## How do I know if my senior dog is in pain?
 
 Start with this checklist. If you recognize several of these — especially ones that are *new* — treat it as pain until your vet says otherwise:

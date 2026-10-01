@@ -24,6 +24,14 @@ Your senior dog is still your dog — just a slower, sleepier, slightly more par
 
 This guide is Dogtur's behavior hub: how aging changes behavior, the normal-vs-warning-sign framework, why pain and sensory loss masquerade as "bad behavior," what canine cognitive dysfunction looks like (including new 2026 veterinary screening guidance), and how to support an aging mind. The dementia deep dive lives in [dog dementia: 10 signs of canine cognitive dysfunction](/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/); pain — the great mimic — has its own [pain signs checklist](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/).
 
+## Key takeaways
+
+- Triage with one rule: gradual, stable, and "still themselves" is aging; sudden, worsening, or out of character deserves a vet visit. Senior dogs typically sleep 16–18 hours a day, play in shorter bursts, and grow more selective socially — all normal.
+- Pain is the single most common cause of new behavior changes in senior dogs — the dog who growls when lifted has a sore spine, the one who soils the house can't posture without hurting. Rule out pain before labeling anything a behavior issue.
+- Canine cognitive dysfunction is far more common than owners realize: 28% of 11–12-year-olds and 68% of 15–16-year-olds showed at least one sign in Neilson's 2001 study. Vets screen with the DISHAA framework (disorientation, interaction, sleep–wake, house-soiling, activity, anxiety), and CCD is a diagnosis of exclusion — thyroid, pain, sensory loss, and UTIs get checked first.
+- New 2026 guidance changed the timeline: the CCDS Working Group recommends annual behavioral screening from age 7 (every 6 months from age 10) to establish a baseline before deviations stand out.
+- Support an aging mind with predictability (same routes, same meal times), enrichment (sniff walks, puzzle toys, two-minute training sessions), hand signals taught while hearing remains, nightlights, and one change at a time. Never punish confusion, fear, or house-soiling — it reliably makes anxiety worse.
+
 ## How does behavior change as dogs age?
 
 **Aging gradually reshapes behavior: dogs sleep more and in shifted patterns, play in shorter bursts, become more selective socially, learn more slowly, and often grow more anxious as their senses fade.** The hallmark of normal aging is that changes arrive slowly, stay stable, and the dog underneath them is still recognizably themselves.

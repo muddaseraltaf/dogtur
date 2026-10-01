@@ -24,6 +24,14 @@ The first sign is rarely dramatic. Your dog hesitates at the stairs they've boun
 
 Mobility decline is the most visible part of canine aging, and the most actionable. This guide covers why senior dogs lose mobility, how to recognize arthritis, what vets can actually do about it, the at-home changes that genuinely help — graded honestly against the evidence — and the hard question of when comfort care becomes the kindest option. For the pain-signs deep dive, see [how to tell if your senior dog is in pain](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/).
 
+## Key takeaways
+
+- Three processes usually combine to steal mobility: osteoarthritis (roughly 20% of dogs over one year old, climbing to about 80% of dogs over eight), age-related muscle loss that destabilizes joints, and sometimes neurological disease that mimics joint pain. Excess weight worsens all three — and simple aging itself is not a cause of arthritis, per VCA Hospitals.
+- Osteoarthritis has no cure — the goal is management, and the best results come from combining modalities (VCA). Vet options: NSAIDs as first-line therapy, the monthly anti-NGF injection Librela (FDA-approved 2023) for dogs that don't tolerate NSAIDs, gabapentin, Adequan injections, and supervised rehab. Joint supplements (glucosamine, chondroitin, omega-3s) are a reasonable add-on with mixed evidence — never a plan on their own.
+- Weight control is the highest-leverage intervention that costs nothing: the 2015 AAHA/AAFP Pain Management Guidelines call weight optimization chief among all modalities, with even 6.1–8.85% weight loss measurably improving clinical signs.
+- Ranked by impact, the home changes that work: control weight, short-and-frequent exercise (two or three 10–20-minute walks beat one exhausting hour), non-slip rugs on traffic paths, ramps instead of jumping, a dense-foam orthopedic bed, a support harness for weak hind ends, and keeping daily life on one level.
+- Two safety rules: never give human painkillers (ibuprofen, acetaminophen, and aspirin are all dangerous for dogs without veterinary direction), and learn the distinction — stiffness that improves with gentle movement points to arthritis, while weakness, toe-dragging, or knuckling points to neurological causes and a different treatment path.
+
 ## Why do senior dogs lose mobility?
 
 Three processes usually combine: osteoarthritis (cartilage loss and joint inflammation — the most common cause), age-related muscle loss that destabilizes joints, and sometimes neurological disease that mimics joint pain. Excess weight worsens all three. And notably, simple aging itself is not a cause of arthritis, according to [VCA Hospitals](https://vcahospitals.com/know-your-pet/arthritis-in-dogs).

@@ -24,6 +24,14 @@ Senior dogs don't need *more* stuff. They need the *right* stuff — gear chosen
 
 An honest note: Dogtur's verdicts here are **category guidance, not product picks**. The advice comes from veterinary guidance, published research, and owner-review data mined from public sources (all attributed) — not hands-on testing, which is in progress and not claimed. Our [methodology](/methodology/) explains how individual reviews will be tested. We run no affiliate programs: no product links, no paid placements.
 
+## Key takeaways
+
+- Buy by problem, not by aisle: fix sleep and traction first. The highest-leverage purchase is a genuinely supportive orthopedic bed — dense foam that passes the "press test" (push your knee in; if you feel the floor, so does the dog), washable cover, low entry edge. Seniors sleep 16–18 hours a day on arthritic joints.
+- The second-cheapest, fastest quality-of-life upgrade is traction: non-slip runners or yoga mats on the paths your dog actually walks, plus plug-in motion-sensor nightlights for nighttime navigation.
+- Know the evidence debates before you buy: raised bowls may help neck-pain dogs but a Purdue study linked them to ~110% higher bloat risk in large/giant deep-chested breeds (a vet conversation); most dogs won't tolerate traction booties; and "orthopedic" is an unregulated word — cheap beds fail on loft retention, not day-one comfort.
+- Not worth buying: calming beds or wraps with miracle claims, supplement-dusted "senior" treats (token doses do nothing — real doses, separately, on vet advice), cooling mats for most seniors, and gadgets that replace your attention.
+- On a budget, prioritize in tiers: under $50 first (runners, nightlights, washable waterproof bed pad), then save for the bed ($40 fiberfill that flattens in two months costs more per year than $120 dense foam that lasts three), then problem-specific gear (ramp, lift harness, GPS tracker) only when the problem appears.
+
 ## What products do senior dogs actually need?
 
 **Buy by problem, not by aisle.** Each aging problem maps to one or two gear categories. Fix sleep and traction first; add the rest as specific problems appear.

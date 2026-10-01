@@ -24,6 +24,14 @@ Switching your aging dog to a senior formula is one of the simplest upgrades you
 
 This guide is built differently from most buying lists. Alongside label analysis, it draws on two things competitors skip: peer-reviewed nutrition research on what "senior" food actually contains, and quantitative analysis of thousands of verified owner reviews. What it doesn't have — and won't pretend to have — is hands-on feeding-trial data. That's planned, and this page will be updated when it exists.
 
+## Key takeaways
+
+- There is no single best senior dog food — it depends on your dog's size, health, and appetite. For a healthy senior with no diagnosed conditions, widely respected starting points are Hill's Science Diet Adult 7+, Purina Pro Plan Bright Mind 7+, and Royal Canin Aging 8+/10+.
+- "Senior" is not a regulated life stage — AAFCO recognizes no official senior profile, so read the nutrient panel, not the front of the bag. A 2025 *Frontiers in Veterinary Science* study found senior and adult formulas nearly identical in protein (80.9 vs. 79.9 g per 1,000 kcal); the consistent differences were lower fat and calories.
+- Aim for roughly 28–32% protein on a dry-matter basis for a healthy senior (the range veterinarian Dr. Ernie Ward recommends, cited by the AKC) to protect against age-related muscle loss; reduced protein is appropriate only for diagnosed kidney disease, on your vet's call.
+- Watch the phosphorus and sodium trap: a Tufts study found sodium in senior-labeled foods ranged from 33 to 412 mg per 100 kcal (a twelve-fold spread) and phosphorus varied threefold — a "senior" label is no guarantee of heart- or kidney-friendly mineral levels.
+- These picks come from label analysis, 4,600+ verified Chewy owner reviews (e.g. Hill's 7+: 4.7 across ~2,500; Bright Mind 7+: 4.6 across ~2,200), and attributed peer-reviewed research (including Purina's published MCT feeding studies behind Bright Mind) — not from hands-on feeding trials, which are planned but haven't happened yet.
+
 ## What is the best dog food for senior dogs?
 
 There is no single best senior dog food — the right one depends on your dog's size, health, and appetite. For a healthy senior with no diagnosed conditions, widely respected starting points include Hill's Science Diet Adult 7+, Purina Pro Plan Bright Mind 7+, and Royal Canin Aging 8+/10+. Look for an AAFCO complete-and-balanced statement, roughly 28–32% protein on a dry-matter basis to protect aging muscle, and calories matched to a slower metabolism.

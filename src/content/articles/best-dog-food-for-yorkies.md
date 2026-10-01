@@ -21,6 +21,14 @@ heroAlt: "Yorkshire terrier resting on grass in sunlight"
 
 Yorkshire Terriers pack big-dog personality into a body that rarely tops seven pounds — and that tiny frame has specific nutritional needs. Standard kibble is physically hard for a Yorkie to pick up and chew, crowded teeth invite dental disease, and the long, silky coat demands real nutritional support. Because the breed is long-lived, most Yorkies spend years as seniors — which is why this guide sits in our senior nutrition section and bridges to our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).
 
+## Key takeaways
+
+- A Yorkie's food must work at toy-breed scale: small grippable kibble for a tiny muzzle, calorie-dense nutrition in very small portions (most adults need roughly 150–250 calories a day), dental support for crowded teeth, and omega-3/6 fatty acids plus biotin for the signature coat.
+- Yorkie puppies must eat often — three to four small meals a day, never hours without food — because hypoglycemia is a genuine emergency risk in tiny puppies; wobbliness, lethargy, or disorientation is a call-your-vet-now situation.
+- Foods worth considering: Royal Canin Yorkshire Terrier Adult (the breed-specific reference point; 4.8 across ~2,100 Chewy ratings — though one reviewer found the kibble slightly large for five-pound dogs) and Hill's Science Diet Small & Mini Adult (the vet-confidence alternative, backed by AAFCO feeding trials, 4.8 across ~3,900 ratings, controlled fat for the breed's pancreatitis susceptibility). No hands-on feeding trials yet.
+- Keep fat moderate: Yorkies are considered predisposed to pancreatitis, and high-fat diets are a known trigger — discuss anything above ~18% fat with your vet rather than grabbing the richest formula.
+- Toy breeds are typically senior around 10 years, and Yorkies commonly live well into their teens: soften textures for aging teeth, warm food slightly to release aroma for picky seniors, and weigh monthly — a few ounces of loss at four pounds is proportionally huge.
+
 ## What does a Yorkshire Terrier's body need from its food?
 
 A Yorkie's food must work at toy-breed scale: calorie-dense nutrition in very small portions, kibble small enough for a tiny muzzle, dental support for crowded teeth, omega fatty acids for the signature coat, and enough palatability to tempt a picky eater — with frequent small meals for puppies, who are prone to hypoglycemia.

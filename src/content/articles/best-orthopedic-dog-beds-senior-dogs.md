@@ -24,6 +24,13 @@ Senior dogs spend 14–18 hours a day on their bed — more time than they spend
 
 This is part of our [Senior Dog Gear & Products](/senior-dog-gear/essential-products-senior-dogs/) pillar, and it pairs directly with our [senior dog mobility guide](/senior-dog-mobility/senior-dog-mobility-guide/). If your dog is showing new stiffness, our guide to [how to tell if your senior dog is in pain](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/) is worth reading alongside this one — because a bed can only do its job once actual pain is being managed with your veterinarian.
 
+## Key takeaways
+
+- Top picks on specs: Big Barker (7" layered foam, 10-year no-flatten warranty, the only bed with a published clinical pilot study), PetFusion Ultimate (Wirecutter's pick, 4" solid CertiPUR-US foam, low entry), BullyBeds (7" foam, 20-year warranty), Bedsure (51,000+ Amazon reviews at 4.5★), FurHaven (budget), and Casper (firm support, 30-night trial).
+- Shop by foam density, not just thickness — look for 4+ lb/ft³ (anything under 4 tends to flatten within a year). Thickness guide: 3–4" for dogs under 25 lb, 4–6" for 25–60 lb, 6–7" for 60+ lb or any arthritic dog.
+- Entry height of 4–6 inches is the right range for seniors (over 8" requires a painful jump); a 3-sided bolster with an open front gives head support and a push-off edge without a climb-over problem.
+- Non-negotiables: removable machine-washable cover, waterproof liner, non-slip bottom — and remember "orthopedic" is unregulated, so verify the specs instead of trusting the label.
+
 ## What is the best orthopedic bed for a senior dog?
 
 The best orthopedic bed is a thick, high-density foam mattress — at least 4 inches of solid foam, ideally 6–7 for dogs over 50 pounds — with foam density of 4+ pounds per cubic foot, a removable washable cover, a waterproof liner, a non-slip bottom, and a low step-in edge. On manufacturer-published specs, the strongest contenders are Big Barker (7" layered foam, 10-year no-flatten warranty, studied at UPenn), PetFusion Ultimate (Wirecutter's pick, 4" solid CertiPUR-US foam, low entry), BullyBeds (7" foam, 20-year warranty), Bedsure (the mass-market favorite), FurHaven (budget), and Casper (firm support, arthritis-noted).

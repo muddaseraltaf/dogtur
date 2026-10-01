@@ -24,6 +24,14 @@ Most dogs are considered senior somewhere around 7–8 years old — but that's 
 
 This is the entity-definition page for Dogtur's senior dog: what "senior" actually means, how breed size moves the line, where seniority sits inside the full life-stage framework veterinarians use, and the regulatory nuance (from AAFCO) that most articles gloss over. For the full health picture once your dog qualifies, see our [senior dog health guide](/senior-dog-health/senior-dog-health-guide/).
 
+## Key takeaways
+
+- Most dogs are considered senior around 7–8 years old, but size moves the line dramatically: giant breeds around 6–7 years, large 7–9, medium 8–10, small 9–11, and toy breeds 11–12. The AAHA definition — the last 25% of estimated lifespan — is proportional, which is why it works across breeds.
+- Size is the single biggest predictor of canine aging, and it works backwards from most mammals: bigger dogs age faster. But life stage is a clinical judgment, not a birthday — your vet weighs body condition, joints, teeth, organs, and behavior, and a super-healthy 10-year-old may be treated as a mature adult rather than a senior.
+- The 2019 AAHA life-stage framework has five stages — puppy, young adult, mature adult, senior, end of life — and folded the old "geriatric" label into senior plus end of life. Most owners have never heard of "mature adult," the long middle stretch from about 3–4 years until seniority begins.
+- The "multiply by 7" dog-years rule was never a biological formula. A science-based alternative (Wang et al., 2020, from DNA methylation in Labradors): human age ≈ 16 × ln(dog age) + 31 — dogs sprint through youth and age more slowly after. The simpler vet rule of thumb: year one ≈ 15 human years, year two adds ~9, each year after adds ~4–5.
+- Once your dog qualifies as senior, three things shift: health monitoring steps up to twice-yearly exams with bloodwork, nutrition gets recalibrated (fewer calories, steady protein), and mobility needs daily attention. And the best-studied longevity intervention is unglamorous: in a landmark lifetime study of 48 Labradors, the leaner-fed dogs lived a median 1.8 years longer.
+
 ## At what age is a dog considered senior?
 
 Most dogs are considered senior at roughly 7–8 years of age, with the real range stretching from about 6 years for giant breeds to 10–11 years for small ones. The American Animal Hospital Association defines "senior" more precisely as the last 25% of a dog's estimated lifespan — which is why the number moves so much with size.

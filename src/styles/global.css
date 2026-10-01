@@ -143,3 +143,13 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
 .site-footer a { color: var(--muted); }
 .skip { position: absolute; left: -9999px; }
 .skip:focus { left: 1rem; top: 1rem; background: #fff; padding: .5rem 1rem; z-index: 99; }
+
+/* Mobile: keep the header tidy — one scrollable nav row, no tagline stack. */
+@media (max-width: 720px) {
+  .site-header .wrap { flex-wrap: wrap; row-gap: .55rem; }
+  .brand-text small { display: none; }
+  .site-nav { margin-left: 0; width: 100%; flex-wrap: nowrap; overflow-x: auto;
+    -webkit-overflow-scrolling: touch; scrollbar-width: none; padding-bottom: .15rem; }
+  .site-nav::-webkit-scrollbar { display: none; }
+  .site-nav a { white-space: nowrap; }
+}

@@ -1,8 +1,13 @@
 User-agent: *
 Allow: /
-# Draft/writer-brief pages are noindexed in-page; keep them crawlable so the
-# noindex is honored, but exclude any /draft or /preview paths if added later.
+
+# Unpublished writer briefs are excluded from the build entirely
+# (no URL, no sitemap entry) until their status becomes published.
+# Exclude any /draft or /preview paths if added later.
 Disallow: /draft/
 Disallow: /preview/
+
+# Structured site summary for LLMs and AI search
+# https://dogtur.com/llms.txt
 
 Sitemap: https://dogtur.com/sitemap-index.xml

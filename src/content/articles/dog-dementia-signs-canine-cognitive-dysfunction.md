@@ -24,6 +24,14 @@ She stands at the wrong side of the door. She stares at a wall you've watched he
 
 Canine cognitive dysfunction (CCD) — dog dementia — is one of the most common and most under-recognized conditions of very old dogs. This guide covers the 10 signs, the new 2026 veterinary guidelines for diagnosis and monitoring, how vets actually diagnose it, what can genuinely help (graded honestly by evidence), and how to care for a dog with dementia at home. For the broader behavior picture, see our [senior dog behavior changes guide](/senior-dog-behavior/senior-dog-behavior-changes-guide/).
 
+## Key takeaways
+
+- Veterinarians organize CCD signs with the DISHAA acronym — Disorientation, Interaction changes, Sleep–wake changes, House-soiling/learning/memory, Activity changes, Anxiety. One sign proves nothing; a cluster across categories, developing over months, is what vets screen for.
+- It's common: 28% of 11–12-year-olds and 68% of 15–16-year-olds showed impairment in at least one behavioral category (Neilson et al., 2001, published in JAVMA, 180 dogs aged 11–16).
+- The new 2026 CCDS guidelines move screening earlier: routine behavioral screening from age 7, and a full CCDS scale every 6 months from age 10.
+- There is no blood test or scan that confirms CCD in a living dog — diagnosis is a structured rule-out process. Sudden disorientation is a different problem and needs urgent veterinary evaluation, not a dementia workup.
+- There is no cure, but early intervention genuinely slows progression: selegiline (Anipryl) is the only FDA-approved medication for CCD, and enriched nutrition plus daily mental enrichment have controlled evidence behind them.
+
 ## What is canine cognitive dysfunction?
 
 **Canine cognitive dysfunction is a progressive neurodegenerative condition of aging dogs — a decline in learning, memory, perception, and awareness, with brain changes (including beta-amyloid plaques) strikingly similar to early Alzheimer's disease in humans.** It is a diagnosis of exclusion: vets arrive at it by ruling out the medical conditions that mimic it.

@@ -23,6 +23,14 @@ Boston Terriers are charming, comical, and — let's be honest — famously gass
 
 This guide sits inside our [senior dog nutrition pillar](/senior-dog-nutrition/senior-dog-nutrition-guide/) — Boston Terriers typically hit their senior years around 8–10, and everything here applies from puppyhood through gray-muzzle days, with senior notes where they matter.
 
+## Key takeaways
+
+- A Boston's gas has two sources: swallowed air from their flat brachycephalic face (aerophagia) and fermentation from poorly digested food — so a slow-feeder bowl matters as much as the food itself.
+- Prioritize digestibility: named animal protein, moderate (not high) fiber with prebiotic support, and guaranteed live probiotics where possible; skip gas-trigger ingredients like soy, peas, beans, dairy, and high-fat formulas, and transition foods over 7–10 days.
+- Choose small-bite kibble — short jaws, crowded teeth, and a gulp-first eating style make large, hard kibble awkward and encourage the gulping that drives aerophagia.
+- Foods worth considering: Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice) — digestibility-first with prebiotic fiber and live probiotics; Hill's Science Diet Sensitive Stomach & Skin for persistent soft stools; Diamond Naturals Small Breed as the budget meat-first pick with probiotics; Natural Balance L.I.D. only after your vet identifies a trigger. No hands-on feeding trials yet.
+- Keep them lean: the breed standard tops out around 25 pounds, and every extra pound makes breathing harder and stresses joints — and sudden, severe gas with vomiting, bloating, or appetite loss is a vet emergency, not "Boston Terrier gas."
+
 ## Why are Boston Terriers so gassy?
 
 **Boston Terriers swallow more air than other dogs — their short, flat (brachycephalic) faces and gulpy eating style mean air gets gulped down with every meal, and veterinary research confirms this air-swallowing directly drives their flatulence.** A [2026 veterinary review](https://www.mdpi.com/2076-2615/16/2/269) of brachycephalic airway syndrome notes that this excessive air-swallowing — aerophagia — can directly result in gastric distension and flatulence. A [2019 study in the Journal of Veterinary Internal Medicine](https://academic.oup.com/jvim/article/33/5/2183/8447899) similarly found that "excessive flatulence as a consequence of aerophagia" is often present in brachycephalic breeds. On top of that, Bostons tend toward sensitive stomachs, so poorly digested food ferments in the gut and adds a second source of gas.

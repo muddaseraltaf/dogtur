@@ -21,6 +21,14 @@ heroAlt: "Dog watching hopefully while its owner eats in a sunlit kitchen"
 
 A dog in the trash is not being "bad" — they're being a dog. Scavenging is one of the most deeply wired canine behaviors: a trash can smells like the greatest opportunity in the house, and any dog that has ever scored chicken bones from it has been powerfully rewarded for trying again. The fix is two-part: make the trash physically inaccessible, and train an alternative. The can does the heavy lifting while training catches up. If you're assembling a home that works for an aging dog, our [essential senior-dog products guide](/senior-dog-gear/essential-products-senior-dogs/) covers the rest of the kit — a dog-proof can is one of the quietest safety wins on the list.
 
+## Key takeaways
+
+- A locking lid is the defining feature — a manual slide lock (like the simplehuman 50-liter semi-round), a locking pedal, or a sensor lock (like the iTouchless PetGuard). Without a lock, a can is merely dog-resistant, and clever dogs learn pedals.
+- The picks worth shortlisting: the simplehuman 50-liter semi-round with slide lock (~$110–130, 4.6 stars across ~390 Home Depot reviews), the iTouchless 13-gallon sensor can with PetGuard lock ($60–110), the Tramontina 13-gallon step can (~$100, flush lid but no true lock), and the budget Sterilite 12.6-gallon locking-lid step can (under $40). For dogs that defeat everything, a pull-out bin inside a latched cabinet wins by architecture.
+- Your trash is a poison cabinet: chocolate, xylitol (also labeled birch sugar), grapes and raisins, onions and garlic, macadamia nuts, alcohol, coffee grounds, and cooked bones are all dangerous. If your dog eats trash, note what and how much, then call your vet or ASPCA Poison Control (1-888-426-4435) immediately — don't wait for symptoms, and don't induce vomiting unless told to.
+- Management first, training second: a single self-rewarded raid from an unsecured can undoes weeks of "leave it" practice. Secure the can now; teach "leave it" and "place" for the long term.
+- New scavenging in a senior dog can signal a medical issue, medication-driven hunger, or cognitive decline weakening old training — worth a vet check, not just a new can.
+
 ## Why do dogs raid the trash?
 
 **Because it works — dogs explore with their noses, and a kitchen bin broadcasts food smells constantly, so a single successful raid teaches them the trash is a slot machine that sometimes pays out in roast chicken.** Intermittent rewards create the most persistent behaviors in all of animal training, which is why scolding after the fact doesn't help: the dog connects your anger to your presence, not to the bin. "Stubborn" breeds aren't the issue — opportunity is.

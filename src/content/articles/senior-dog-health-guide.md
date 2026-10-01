@@ -24,6 +24,14 @@ A gray muzzle is not a diagnosis. Dogs age at wildly different speeds — a Grea
 
 This guide is the hub for everything Dogtur covers about senior dog health: when a dog becomes senior, how to tell normal aging from illness, the conditions that show up most often, how frequently to see the vet and what the screenings involve, what to track at home, how vaccinations and dental care shift with age, and how to plan for the final chapter. We are not veterinarians — we are an independent senior-dog guide that defers to them — and every health claim here is sourced from veterinary organizations and literature (AAHA, VCA Hospitals, the MSD Veterinary Manual, peer-reviewed studies).
 
+## Key takeaways
+
+- AAHA defines "senior" as the last 25% of a dog's estimated lifespan — roughly 6–7 years for giant breeds, 8–9 for large, 8–10 for medium, and 8–11 for small. But no vet decides care by the calendar: life stage is a clinical assessment of body condition, joints, organs, and behavior.
+- Old age is not a disease. Normal aging is gradual and symmetrical; illness announces itself as a change. The working policy: any noticeable change in an older dog is a vet conversation, not a shrug — "slowing down" is how owners describe arthritis and hypothyroidism alike, and most of those are treatable.
+- The screening rhythm: a wellness exam twice a year, with a comprehensive CBC and chemistry panel plus urinalysis every 6–12 months (2023 AAHA Senior Care Guidelines). The point is trend-spotting — a creatinine drifting from 1.1 to 1.6 over two years still deserves attention even inside the reference range.
+- At home, you're the monitoring system: weigh your dog every one to two months, loosely track water intake (VCA's ceiling is roughly 100 mL per kg of body weight per day — about 1.5 cups for a 10-pound dog), run your hands over the whole dog monthly for new lumps, and note behavior and mobility changes.
+- For the final chapter, use the HHHHHMM quality-of-life scale (hurt, hunger, hydration, hygiene, happiness, mobility, more good days than bad), scored 1–10 each — above 35 generally suggests acceptable quality of life. When bad days outnumber good ones for more than a week or two, it's time for a serious conversation with your veterinarian.
+
 ## What is a senior dog?
 
 A senior dog is a dog in the last 25% of its estimated lifespan, according to the American Animal Hospital Association's 2019 Canine Life Stage Guidelines — roughly 7–8 years for the average dog, 6–7 for giant breeds, and 8–11 for small ones, because size is the single biggest predictor of how fast a dog ages.

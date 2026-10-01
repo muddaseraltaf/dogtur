@@ -1,0 +1,51 @@
+# Dogtur
+
+> Dogtur is a research-based guide for parents of senior dogs: honest health explainers, nutrition advice, and product reviews — never presented as hands-on testing we haven't done. Health content describes signs to discuss with a veterinarian, never diagnoses or dosages.
+
+Dogtur covers the senior dog's full life: health and vet care, nutrition and feeding, mobility and joint pain, behavior and cognition, grooming and daily care, gear and products, and lifestyle, travel, and end-of-life. Reviews synthesize attributed independent testing, verified owner-review analysis, and label/spec verification. Some links are affiliate links (Amazon Associates); see https://dogtur.com/affiliate-disclosure/.
+
+## Senior Dog Health & Vet Care
+
+- [Senior Dog Health: The Complete Care Guide](https://dogtur.com/senior-dog-health/senior-dog-health-guide/): Normal aging vs illness, common senior conditions, vet visit schedules, bloodwork, dental care, and the real costs of senior vet care.
+- [What Age Is Considered a Senior Dog? (Breed-Size Chart)](https://dogtur.com/senior-dog-health/what-age-is-a-senior-dog/): Seniority onset by breed size (roughly 6 to 11 years), AAHA life stages, and the dog-years myth.
+
+## Senior Dog Nutrition & Feeding
+
+- [Senior Dog Nutrition: What to Feed an Aging Dog](https://dogtur.com/senior-dog-nutrition/senior-dog-nutrition-guide/): What aging changes, which nutrients matter most, and how to compare labels per 1,000 kcal.
+- [Best Dog Food for Senior Dogs](https://dogtur.com/senior-dog-nutrition/best-dog-food-senior-dogs/): Label analysis, verified owner-review data, and peer-reviewed studies on protein for aging dogs.
+- [Best High-Fiber Dog Food for Anal Glands & Weight](https://dogtur.com/senior-dog-nutrition/best-high-fiber-dog-food/): How fiber supports anal glands, weight, and digestion, and how to read crude-fiber labels honestly.
+- [Best Dog Food for Less Poop: Firm-Stool Feeding Guide](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-less-poop/): How digestibility, fiber type, and portion size shape stool volume and firmness.
+- [Best Dog Food for Allergies and Yeast Infections](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-allergies-and-yeast-infection/): A vet-guided guide to elimination diets, novel proteins, and why yeast is usually secondary.
+- [Best Dog Foods for Hypothyroidism](https://dogtur.com/senior-dog-nutrition/best-dog-foods-for-hypothyroidism/): No food treats hypothyroidism — diet's real job is weight loss, coat support, and timing around medication.
+- [Best Dog Food for Boston Terriers](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-boston-terrier/): Easy-digest foods and ingredient triggers for a gassy, air-swallowing breed.
+- [Best Dog Food for Yorkies](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-yorkies/): Tiny kibble, dental support, and coat nutrition for Yorkshire Terriers.
+- [Best Dog Foods for American Bully](https://dogtur.com/senior-dog-nutrition/best-dog-foods-for-american-bully/): 25–30% protein for muscle and strict portion control for a heavy frame.
+
+## Senior Dog Mobility, Joints & Pain
+
+- [Senior Dog Mobility Guide: Arthritis & Joint Pain](https://dogtur.com/senior-dog-mobility/senior-dog-mobility-guide/): Why aging dogs slow down, arthritis signs, evidence-graded relief options, and home changes.
+- [How to Tell If Your Senior Dog Is in Pain (Signs Checklist)](https://dogtur.com/senior-dog-mobility/how-to-tell-senior-dog-in-pain/): The subtle signs checklist, pain vs. aging, and validated pain scales.
+- [Best Joint Supplements for Senior Dogs](https://dogtur.com/senior-dog-mobility/best-joint-supplements-senior-dogs/): Joint supplements graded honestly on ingredient evidence and owner-review data.
+
+## Senior Dog Behavior & Cognition
+
+- [Senior Dog Behavior Changes: Normal or a Vet Visit?](https://dogtur.com/senior-dog-behavior/senior-dog-behavior-changes-guide/): What's normal aging vs. a vet visit, night pacing, and screening guidance.
+- [Dog Dementia: 10 Signs of Canine Cognitive Dysfunction](https://dogtur.com/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/): The 10 signs of CCD (DISHA checklist), how it progresses, and what helps.
+
+## Senior Dog Gear & Products
+
+- [Essential Products for Senior Dogs: Buying Guide](https://dogtur.com/senior-dog-gear/essential-products-senior-dogs/): Senior dog products by problem: beds, ramps, harnesses, feeding gear, traction, and safety.
+- [Best Orthopedic Dog Beds for Senior Dogs](https://dogtur.com/senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/): What makes an orthopedic bed truly supportive: foam density, thickness, and entry height.
+- [Best Dog Beds for Golden Retrievers](https://dogtur.com/senior-dog-gear/best-dog-beds-for-golden-retrievers/): Big, dense, washable beds compared on foam, sizing, and covers for 70-lb sprawlers.
+- [Best Dog Ramps for Senior Dogs](https://dogtur.com/senior-dog-gear/best-dog-ramps-senior-dogs/): Ramps compared on owner-review data, surface grip, and incline geometry.
+- [Best Dog-Proof Trash Cans for Kitchen Raiders](https://dogtur.com/senior-dog-gear/dog-proof-trash-cans/): Locking-lid trash cans compared with owner reviews and vet safety guidance on trash toxins.
+- [Best Waterproof Dog Collars That Won't Stink](https://dogtur.com/senior-dog-gear/best-waterproof-dog-collars/): Biothane, TPU, and PVC collar options compared.
+
+## Trust & Methods
+
+- [About Dogtur](https://dogtur.com/about/): Who we are and how we work — research-first guides, hands-on testing on the roadmap.
+- [Methodology](https://dogtur.com/methodology/): Exactly what goes into a Dogtur review today and our testing roadmap.
+- [Editorial Policy](https://dogtur.com/editorial-policy/): How we research, fact-check, and stay independent.
+- [Affiliate Disclosure](https://dogtur.com/affiliate-disclosure/): How Dogtur earns from affiliate links (Amazon Associates).
+- [Contact](https://dogtur.com/contact/): Reach the Dogtur team.
+- [Privacy Policy](https://dogtur.com/privacy-policy/): No first-party analytics; Cloudflare processes standard anonymized web logs.

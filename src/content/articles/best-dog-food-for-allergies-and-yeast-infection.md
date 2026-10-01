@@ -26,6 +26,14 @@ Part of our [senior dog nutrition series](/senior-dog-nutrition/senior-dog-nutri
 
 > **Read this first:** We are not your veterinarian. Allergies and yeast are medical topics, and this guide can't diagnose your dog. What follows is how veterinary dermatologists actually work these cases up — so you can buy food with a plan instead of guessing. Hands-on feeding trials are planned but haven't happened yet.
 
+## Key takeaways
+
+- True food allergies are much less common than marketing suggests — under 1% of skin disease cases and under 10% of all canine allergies — while environmental allergies are the likelier culprit behind chronic itching.
+- Yeast overgrowth (Malassezia) is usually secondary, not the driver: it's diagnosed by skin cytology and treated with veterinary antifungal therapy — no kibble "kills yeast," and the "starve the yeast" logic is mostly myth.
+- The only reliable food-allergy diagnosis is a strict 8–12 week elimination trial (a single novel protein or a prescription hydrolyzed-protein diet, nothing else) followed by a re-challenge — blood, saliva, and hair tests aren't reliable.
+- Grain-free is usually the wrong answer: grains are among the least common triggers (beef, dairy, and chicken top the list), and grain-free diets carry a documented potential association with dilated cardiomyopathy (DCM).
+- For the investigation phase or maintenance: prescription hydrolyzed diets (Royal Canin HP, Hill's z/d) for proper trials; over the counter, Natural Balance L.I.D. (4.5 stars across 1,814 Chewy ratings, 81% positive on "Allergen-Free") and Zignature's single novel proteins (Kangaroo: 4.5 across 1,291 ratings) — but no hands-on feeding trials have happened yet.
+
 ## What's the real difference between a food allergy, a food intolerance, and a yeast infection?
 
 **Direct answer:** A true food allergy is an immune-system attack on a dietary protein and is relatively uncommon. A food intolerance causes digestive upset without immune involvement. Yeast infection (Malassezia dermatitis) is usually *secondary* — an overgrowth of yeast that normally lives on dog skin, enabled by an underlying problem like allergies or trapped moisture. They can coexist and look alike — so diagnosis comes before any food switch.

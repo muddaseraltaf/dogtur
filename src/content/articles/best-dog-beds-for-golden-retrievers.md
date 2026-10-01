@@ -24,6 +24,14 @@ Golden Retrievers are 55–75 pounds of enthusiastic, muddy, shedding joy — an
 
 This guide sits in our [Senior Dog Gear & Products](/senior-dog-gear/essential-products-senior-dogs/) pillar, with the senior-golden angle front and center — because this breed ages into creaky joints earlier than many.
 
+## Key takeaways
+
+- Golden Retrievers are 55–75 pounds with a heavy orthopedic burden: roughly 1 in 5 shows hip dysplasia on OFA screening and 10–15% show elbow dysplasia — so buy a bed with senior joints in mind from day one.
+- The right bed is a large (42–48 inch) high-density foam mattress — at least 4 inches of solid foam, 6–7 inches for seniors or dogs over 60 pounds — with a removable washable cover, a waterproof liner, and a breathable (not plush) sleep surface.
+- Go firm-supportive, not soft: press your knee hard into the bed — if you can feel the floor through it, your 70-pound Golden will too.
+- Size up: measure your sleeping dog nose-to-tail and add 8–12 inches, and compare sleep-surface dimensions, not outer ones (bolster beds can run several inches smaller inside).
+- No winner is declared here — beds are compared on specifications, materials, and large-scale verified-purchase review data, since hands-on testing hasn't happened yet. Standouts: Big Barker (7" layered foam, 10-year no-flatten warranty, the only published pilot study) for seniors, and PetFusion Ultimate (Wirecutter's pick, low entry) as the mid-range choice.
+
 ## What is the best dog bed for a Golden Retriever?
 
 The best bed for a Golden Retriever is a large (42–48 inch) high-density foam mattress — at least 4 inches of solid foam, 6–7 for seniors or dogs over 60 pounds — with a removable machine-washable cover, a waterproof liner, and a breathable (not plush heat-trapping) sleep surface. On specs and observed owner data, the strongest options are Big Barker (7" layered foam, 10-year warranty, clinically studied), PetFusion Ultimate (Wirecutter's pick, low entry, replacement covers), Bedsure (51,000+ reviews, budget-mid), FurHaven (budget, Wirecutter-tested lounger), and the BarkBox Memory Foam Cuddler for dedicated curlers.
