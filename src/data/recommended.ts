@@ -21,7 +21,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-food-senior-dogs/',
     guideTitle: 'Best Dog Food for Senior Dogs',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/713uvvCtRXL._AC_SX679_.jpg',
   },
   {
     name: 'Nutramax Dasuquin with ASU',
@@ -30,7 +30,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-mobility/best-joint-supplements-senior-dogs/',
     guideTitle: 'Best Joint Supplements for Senior Dogs',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/61qaIflpy3L._AC_SX679_.jpg',
   },
   {
     name: 'Big Barker Orthopedic Dog Bed',
@@ -39,7 +39,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/',
     guideTitle: 'Best Orthopedic Dog Beds for Senior Dogs',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg',
   },
   {
     name: 'Gen7Pets Natural-Step Ramp (72")',
@@ -48,7 +48,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-gear/best-dog-ramps-senior-dogs/',
     guideTitle: 'Best Dog Ramps for Senior Dogs',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/81jnZyGaVPL._AC_SX679_.jpg',
   },
   {
     name: 'Hill\u2019s Science Diet Adult Sensitive Stomach & Skin',
@@ -75,7 +75,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-food-for-yorkies/',
     guideTitle: 'Best Dog Food for Yorkies',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/71hKPUkWkXL._AC_SX679_.jpg',
   },
   {
     name: 'VICTOR Hi-Pro Plus (30/20)',
@@ -84,7 +84,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-foods-for-american-bully/',
     guideTitle: 'Best Dog Foods for American Bullies',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/818ty+cyzCL._AC_SY879_.jpg',
   },
   {
     name: 'Hill\u2019s Science Diet Adult Perfect Weight',
@@ -93,7 +93,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-foods-for-hypothyroidism/',
     guideTitle: 'Best Dog Foods for Hypothyroidism',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg',
   },
   {
     name: 'Hill\u2019s Prescription Diet w/d Multi-Benefit',
@@ -102,7 +102,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-high-fiber-dog-food/',
     guideTitle: 'Best High-Fiber Dog Food',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/71WeIQSPjxL._AC_SX679_.jpg',
   },
   {
     name: 'Natural Balance L.I.D. Limited Ingredient',
@@ -111,7 +111,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-food-for-allergies-and-yeast-infection/',
     guideTitle: 'Best Dog Food for Allergies & Yeast',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg',
   },
   {
     name: 'Big Barker 7" Orthopedic (Large)',
@@ -120,7 +120,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-gear/best-dog-beds-for-golden-retrievers/',
     guideTitle: 'Best Dog Beds for Golden Retrievers',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg',
   },
   {
     name: 'Tuff Pupper Classic Heavy Duty Collar',
@@ -129,7 +129,7 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: true,
     guideHref: '/senior-dog-gear/best-waterproof-dog-collars/',
     guideTitle: 'Best Waterproof Dog Collars',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/71p-kAhn3VL._AC_SX679_.jpg',
   },
   {
     name: 'simplehuman 50L Semi-Round (Slide Lock)',
@@ -138,6 +138,6 @@ export const RECOMMENDED: RecommendedProduct[] = [
     plain: false,
     guideHref: '/senior-dog-gear/dog-proof-trash-cans/',
     guideTitle: 'Dog-Proof Trash Cans',
-    image: null,
+    image: 'https://m.media-amazon.com/images/I/41irVoMtywL._AC_SX679_.jpg',
   },
 ];
