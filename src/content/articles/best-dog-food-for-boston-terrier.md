@@ -93,11 +93,17 @@ Practical takeaway: scan ingredient lists for soybean meal, pea fiber, and dairy
 
 **Diamond Naturals Small Breed.** Budget-friendly, meat-first, with probiotics included. Bostons eat like much bigger dogs — the price per pound matters.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg" alt="Diamond Naturals Small Breed" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Natural Balance L.I.D.** If you and your vet have identified a specific protein your Boston doesn't tolerate, a limited-ingredient, single-protein recipe simplifies the ingredient list. Ingredient restriction belongs *after* veterinary diagnosis, not before it.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg" alt="Natural Balance L.I.D" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## Weight: the quiet Boston Terrier problem
 

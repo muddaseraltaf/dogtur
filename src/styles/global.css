@@ -121,6 +121,18 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
 .affiliate-btn.plain { background: #fff; color: var(--ink) !important; border: 2px solid var(--accent); box-shadow: none; }
 .affiliate-btn.plain:hover { background: var(--accent-soft); color: var(--ink) !important; }
 
+/* In-article product CTA: thumbnail + price button side by side. */
+.product-cta { display: flex; align-items: center; gap: 1rem; margin: 1rem 0 1.8rem; }
+.product-cta-img { flex: 0 0 120px; line-height: 0; }
+.product-cta-img img { width: 120px; height: 120px; object-fit: contain; background: #fff;
+  border: 1px solid var(--line); border-radius: var(--radius); }
+.product-cta > p { margin: 0; }
+.product-cta .affiliate-btn { margin: 0; }
+@media (max-width: 480px) {
+  .product-cta-img { flex-basis: 96px; }
+  .product-cta-img img { width: 96px; height: 96px; }
+}
+
 /* Recommended products: cards, grid, and the end-of-article CTA. */
 .product-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.4rem; margin: 1.6rem 0; }
 .product-card { border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: #fff; display: flex; flex-direction: column; }

@@ -83,15 +83,24 @@ Avoid foods built around unspecified "meat and bone meal," heavy cellulose fille
 
 **Diamond Naturals (Chicken & Rice).** A cage-free-chicken-and-rice formula with K9-strain probiotics and omega fatty acids — family-owned, made in the USA, and typically the most affordable of these options when premium sensitive-stomach lines stretch the budget.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71EbtyFq9FL._AC_SX679_.jpg" alt="Diamond Naturals (Chicken &amp; Rice)" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Wellness CORE (grain-free or wholesome-grains recipes).** A protein-forward line with probiotics and no by-products or artificial additives. If you lean toward grain-free, have the conversation with your vet first: regulators investigated a possible link between grain-free diets and heart disease in dogs, and while no definitive conclusion was reached, it's worth discussing your individual dog's risk.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3TiWoxX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3TiWoxX" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71K4hWJZmWL._AC_SX679_.jpg" alt="Wellness CORE (grain-free or wholesome-grains recipes)" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3TiWoxX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Royal Canin Gastrointestinal (veterinary diet).** For dogs whose stool problems persist despite quality over-the-counter foods, vets often reach for a prescription low-residue GI formula. A "discuss with your vet" option, not a casual switch.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3VgUL4t" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3VgUL4t" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/719T+tOnR8L._AC_SX679_.jpg" alt="Royal Canin Gastrointestinal (veterinary diet)" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3VgUL4t" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## How to transition without making things worse
 

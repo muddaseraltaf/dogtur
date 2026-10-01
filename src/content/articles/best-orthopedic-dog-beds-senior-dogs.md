@@ -104,7 +104,10 @@ What separates Big Barker from every other bed on this list is the research. In 
 
 **Worth a closer look if:** you have a large or giant senior and want the thickest foam, the longest track record, and the only bed with published clinical data behind it. Premium priced (around $240 for the Original).
 
-<p><a class="affiliate-btn" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### PetFusion Ultimate — the expert-tested all-rounder
 
@@ -114,7 +117,10 @@ This is the bed the professional testers kept coming back to. In Wirecutter's do
 
 **Worth a closer look if:** you want the most expert-validated mid-range option — proper foam, a liner, a washable cover, and easy senior access — without the premium price.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61M7gtoFuuL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### BullyBeds 3-Sided Bolster — the warranty leader
 
@@ -128,7 +134,10 @@ Bedsure's orthopedic bed is the mass-market answer: high-density egg-crate foam,
 
 **Worth a closer look if:** you want the most owner-validated budget-mid option, or a second bed for another room.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71H2ALDagcL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### FurHaven Ultra Plush Lounger — the budget pick, with a caveat
 
@@ -138,13 +147,19 @@ The caveat is the range. FurHaven sells everything from faux-fur memory-foam mat
 
 **Worth a closer look if:** budget is the constraint, or you need a smaller size the premium brands ignore — but verify the exact model's foam specs.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61i7aWVLKtL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Casper Dog Bed — the firm-support alternative
 
 In Wirecutter's testing, the Casper Dog Bed was noted as a strong option for older dogs and dogs with arthritis that need firm support, with easier assembly than similar multi-piece beds, a 30-night risk-free trial, and a one-year warranty ([Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-dog-bed/)). The caveats: narrow 2–3 inch bolsters (less of a nest feel), only three sizes (up to 90-lb dogs), and light colors that show grime. It's the pick for the owner who wants a human-mattress-brand feel and a trial period.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4yf7ToB" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4yf7ToB" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71USMB5fQkL._AC_SX679_.jpg" alt="Casper Dog Bed — the firm-support alternative" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4yf7ToB" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## What owner reviews actually say (and what they don't)
 

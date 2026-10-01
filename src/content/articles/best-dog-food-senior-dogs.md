@@ -118,7 +118,10 @@ Owner data backs the reputation: on Chewy, the 15-lb bag holds 4.7 stars across 
 
 **Worth a closer look if:** your senior is healthy overall and you want a dependable, vet-familiar baseline.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4yZUm4W" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4yZUm4W" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/713uvvCtRXL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4yZUm4W" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Purina Pro Plan Bright Mind 7+ — for the aging brain
 
@@ -128,7 +131,10 @@ On Chewy, Bright Mind holds 4.6 stars across roughly 2,200 verified ratings, wit
 
 **Worth a closer look if:** you're noticing early cognitive changes and want a diet formulated with that in mind. (See our guide to [dog dementia signs](/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/) to know what to watch for.)
 
-<p><a class="affiliate-btn" href="https://amzn.to/47rW0jT" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/47rW0jT" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81d01xWvn7L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/47rW0jT" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Royal Canin Aging 8+ / 10+ — size-specific formulas for very senior dogs
 
@@ -136,7 +142,10 @@ Royal Canin takes a different approach: separate formulas for small dogs (Aging 
 
 **Worth a closer look if:** your dog is 10+, a large or giant breed, or has age-related health concerns your vet is monitoring.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4z7fNRx" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4z7fNRx" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71Vwle9VItL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4z7fNRx" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Blue Buffalo Life Protection Formula Senior — the mainstream pick
 
@@ -144,7 +153,10 @@ Blue Buffalo's senior formula leads with real chicken, includes its "LifeSource 
 
 **Worth a closer look if:** you want a widely available, reasonably priced senior kibble from a major brand.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4z2JVgP" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4z2JVgP" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81nbZZ-BoIL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4z2JVgP" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Blue Buffalo Basics Limited-Ingredient Senior — for sensitive stomachs
 
@@ -158,7 +170,10 @@ Age Advantage is one of the few senior formulas built on a high-protein, grain-f
 
 **Worth a closer look if:** your senior is lean, active, or losing muscle, and your vet is comfortable with a grain-free approach.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4z8mjr5" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4z8mjr5" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61WWvreVVkL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4z8mjr5" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### Purina ONE SmartBlend Vibrant Maturity 7+ — the budget pick
 
@@ -166,7 +181,10 @@ The gap in most lists: nothing for tight budgets. Vibrant Maturity pairs real ch
 
 **Worth a closer look if:** price matters and you still want a research-backed formula rather than a mystery bag.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4z9zJTX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4z9zJTX" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71E01zmpseL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4z9zJTX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ### The Farmer's Dog — for picky eaters and maximum palatability
 

@@ -77,25 +77,40 @@ A Bully's skeleton carries a powerlifter's load on joints that dysplasia already
 
 **VICTOR Hi-Pro Plus (30/20).** 30% protein / 20% fat from beef, chicken, pork, and fish meals at about 405 kcal per cup, gluten-free, made in VICTOR's own Texas facility, AAFCO all-life-stages. Suits active Bullies; for a sedentary dog it's easy to overshoot, so measure carefully.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4hZn0fN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4hZn0fN" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/818ty+cyzCL._AC_SY879_.jpg" alt="VICTOR Hi-Pro Plus (30/20)" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4hZn0fN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Bully Max 30/20.** 30% protein, 20% fat, ~535 kcal per cup, no corn, wheat, soy, or poultry by-product meals, all life stages. Note from Chewy's product Q&A: it contains sorghum and brown rice — not grain-free, despite the performance branding. Genuinely too rich for a low-activity dog; a legitimate pick for hard keepers and very active Bullies.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4hxCsiO" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4hxCsiO" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/7120tzJSXiL._AC_SX679_.jpg" alt="Bully Max 30/20" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4hxCsiO" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Bully Max 25/11.** The interesting one: 25% protein with only 11% fat and 415 kcal per cup, marketed for lean muscle and weight management. For the far more common case — a Bully that needs to *lose* weight — this lower-fat profile makes more sense than the 30/20 most lists push.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4hG5ixH" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4hG5ixH" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71O9XhzCXUL._AC_SX679_.jpg" alt="Bully Max 25/11" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4hG5ixH" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Taste of the Wild Wetlands.** In [Hepper's 2026 hands-on roundup](https://articles.hepper.com/best-dog-food-for-american-bully/), their testers named this their best overall pick for the breed, citing 32% protein from duck and chicken meals, chelated minerals, and probiotics at a competitive price (their testing is theirs, not ours). Hepper's testers also flagged Victor Select as best value.
 
 **Diamond Naturals.** A budget-friendlier route to meat-first, high-protein feeding with probiotics included. Bullies eat a *lot*, and a lower price per pound is a real consideration — solid guaranteed-analysis numbers without the performance-brand markup.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71EbtyFq9FL._AC_SX679_.jpg" alt="Diamond Naturals" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Nulo Freestyle.** A high-meat, grain-free line (~30% protein, mostly from meat) with the BC30 probiotic for digestive support. A reasonable middle ground between budget and ultra-premium — though if you go grain-free, see the DCM section above and keep pulse content in check.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4xQN967" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4xQN967" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71D3gHumugL._AC_SX679_.jpg" alt="Nulo Freestyle" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4xQN967" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## What owners actually report: review-mining
 

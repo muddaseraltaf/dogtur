@@ -47,13 +47,19 @@ A standard nylon collar on a dog that swims is a slow-motion disaster: it stays 
 
 **Tuff Pupper Classic Heavy Duty.** The strong-dog option: a 3mm ballistic-polymer weave with a leather-like grain, rust-proof brass hardware, and a lifetime guarantee against defects. Its listing describes the weave as far stronger than nylon or leather — treat that as a manufacturer claim, not a verified result, since we found no independent test data for it. The hardware choice is genuinely good for wet use (brass doesn't rust), making it a reasonable pick for powerful pullers that destroy lesser collars. Typically a mid-budget option.
 
-<p><a class="affiliate-btn plain" href="https://www.amazon.com/dp/B0863X178G" target="_blank" rel="nofollow noopener">View on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://www.amazon.com/dp/B0863X178G" target="_blank" rel="nofollow noopener"><img src="https://m.media-amazon.com/images/I/71p-kAhn3VL._AC_SX679_.jpg" alt="Tuff Pupper Classic Heavy Duty" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn plain" href="https://www.amazon.com/dp/B0863X178G" target="_blank" rel="nofollow noopener">View on Amazon</a></p>
+</div>
 
 **Biothane collars from hunting and outdoor makers.** Classic Biothane remains the working-dog standard for reasons independent of any brand: it flexes in cold weather where some coatings stiffen, shrugs off mud and worse, and lasts for years. Small makers sell them in custom lengths, widths, and colors, often under $25 — the best route if you want a made-to-measure fit or a specific color, and the easiest way to get a martingale or hunting-style configuration in coated webbing.
 
 **CollarDirect waterproof (budget).** PVC-coated nylon webbing with a plastic buckle and D-ring — the cheapest way to try the concept or keep a spare in the beach bag. The core job (no absorption, no stink) is genuinely handled, but plastic hardware is the weak point in sun and saltwater, and adjustment can loosen over time. Fine as a second collar; not the one for a daily swimmer.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3VdfFS3" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3VdfFS3" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/7190mHaooUL._AC_SX679_.jpg" alt="CollarDirect waterproof (budget)" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3VdfFS3" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## What independent testing actually found
 

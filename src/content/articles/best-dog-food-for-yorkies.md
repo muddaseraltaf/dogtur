@@ -52,21 +52,33 @@ Three breed traits shape every food choice. First, metabolism: small breeds burn
 
 **Royal Canin Yorkshire Terrier Adult.** The breed-specific reference point: kibble shaped for the Yorkie's muzzle and bite, omega fatty acids plus biotin for the long coat, and sodium tripolyphosphate to help reduce tartar. On Chewy, the dry formula holds 4.8 out of 5 stars across roughly 2,100 ratings, and Chewy's AI-generated review summary reports about 92% positive mentions for palatability and 89% for digestibility. One honest wrinkle from a verified Chewy reviewer with two five-pound Yorkies: the kibble ran slightly large for her dogs, and she preferred Royal Canin's X-Small Adult for its smaller, rounder pieces — worth knowing if your Yorkie is on the tiny end of the breed.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71hKPUkWkXL._AC_SX679_.jpg" alt="Royal Canin Yorkshire Terrier Adult" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 In Geekfill's October 2026 side-by-side comparison of 10 small-breed formulas, the publication's team fed this formula to their own test Yorkie for 30 days and reported faster meal completion — they credited the kibble shape — and cite roughly 88% five-star ratings. That's their testing, not ours, but it's a useful data point.
 
 **Hill's Science Diet Small & Mini Adult.** The vet-confidence alternative: small kibble, prebiotic fiber for digestion, omega-6 fatty acids and vitamin E for skin and coat, and a formula backed by AAFCO feeding trials. On Chewy it carries 4.8 out of 5 stars across roughly 3,900 ratings, with Chewy's review summary showing about 92% positive mentions for digestibility and 90% for palatability. Bestie Paws, in their Yorkie food guide, ranks it as their top vet pick, noting its controlled fat content as appropriate for the breed's pancreatitis susceptibility.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Small &amp; Mini Adult" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Wellness CORE Small Breed.** A protein-forward, grain-free small-breed option with small kibble, probiotics, and omega fatty acids. The grain-free caveat applies: the FDA has investigated a potential link between grain-free diets and dilated cardiomyopathy, so discuss it with your vet first.
 
-<p><a class="affiliate-btn" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg" alt="Wellness CORE Small Breed" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 **Blue Buffalo Life Protection Small Breed.** A widely available small-breed recipe with real chicken first, small kibble, and the brand's antioxidant "LifeSource Bits." Geekfill's comparison notes owner reports of improved coat gloss within weeks of switching, drawn from roughly 20,000 Amazon reviews of the formula. A reasonable mid-priced option for the Yorkie that eats happily and digests well.
 
-<p><a class="affiliate-btn" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+<div class="product-cta">
+  <a class="product-cta-img" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg" alt="Blue Buffalo Life Protection Small Breed" width="120" height="120" loading="lazy" /></a>
+  <p><a class="affiliate-btn" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+</div>
 
 ## Feeding a Yorkie with dental disease
 
