@@ -97,6 +97,21 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
   padding: .9rem 1.1rem; margin: 1.4rem 0; font-size: .92rem; }
 .disclosure-box strong { color: #7a5c00; }
 
+/* Key takeaways TL;DR box: rendered from `## Key takeaways` + its bullet list. */
+#key-takeaways {
+  background: var(--accent-soft); border: 1px solid var(--accent); border-bottom: none;
+  border-radius: var(--radius) var(--radius) 0 0;
+  padding: .9rem 1.2rem .3rem; margin: 1.8rem 0 0; font-size: 1.2rem;
+}
+#key-takeaways::before { content: "⚡ "; }
+#key-takeaways + ul {
+  background: var(--accent-soft); border: 1px solid var(--accent); border-top: none;
+  border-radius: 0 0 var(--radius) var(--radius);
+  padding: .2rem 1.2rem 1rem 2.6rem; margin: 0 0 1.8rem;
+}
+#key-takeaways + ul li { margin-bottom: .45rem; }
+#key-takeaways + ul li::marker { color: var(--accent); }
+
 .affiliate-btn { display: inline-block; margin: .4rem 0 1.6rem; padding: .7rem 1.5rem;
   background: var(--accent); color: #fff !important; font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   font-weight: 700; font-size: 1rem; border-radius: var(--radius); text-decoration: none;
