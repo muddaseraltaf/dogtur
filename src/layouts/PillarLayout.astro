@@ -3,6 +3,7 @@
 // hub index of all planned + published articles in the same section.
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import HeroImage from '../components/HeroImage.astro';
 import { render, type CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -35,6 +36,7 @@ const itemListLd = {
   description={d.description}
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
+  ogImage={d.hero}
   jsonLd={itemListLd}
 >
   <div class="wrap">
@@ -62,6 +64,8 @@ const itemListLd = {
           <a href="/editorial-policy/">editorial policy</a></small>
         </div>
       </div>
+
+      <HeroImage hero={d.hero} heroAlt={d.heroAlt} />
 
       <Content />
 

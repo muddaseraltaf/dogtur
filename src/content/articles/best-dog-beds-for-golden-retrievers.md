@@ -16,6 +16,8 @@ originalElement: "Spec comparison tables from manufacturer-published data with c
 entities: ["golden retriever (size, weight, hip/elbow dysplasia prevalence, heat tolerance, shedding)", "dog bed (orthopedic foam, sizing, washable cover, breathability)", "memory foam (density, thickness, egg-crate)", "bed products (Big Barker, PetFusion, Bedsure, FurHaven, BarkBox) x (foam specs, sizes, warranty, price band)", "review-mined owner signals (Amazon ratings)", "CertiPUR-US foam", "crate sizing (42-inch crate)", "senior golden joints (entry height, ramp pairing)"]
 description: "Golden Retrievers need big, dense, washable beds built for 70-lb sprawlers. Compare top options on foam, sizing, and covers — with senior joints in mind."
 minutes: 13
+hero: "/images/best-dog-beds-for-golden-retrievers.jpg"
+heroAlt: "Golden retriever resting on a light-blue dog bed with a tennis ball"
 ---
 
 Golden Retrievers are 55–75 pounds of enthusiastic, muddy, shedding joy — and they are unusually hard on dog beds. A thin pad that works for a Beagle will bottom out under a Golden within months, leaving hips and elbows on the hard floor. Goldens also run warm, shed constantly, and swim whenever given the chance, so washability and breathability matter as much as cushioning. And the breed carries a real orthopedic burden: in OFA screening data, roughly 1 in 5 evaluated Golden Retrievers shows hip dysplasia and 10–15% show elbow dysplasia — which means a Golden's bed is doing joint work long before the dog turns gray. For the deep dive on support, see our guide to [orthopedic beds for senior dogs](/senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/); this one is about what the breed specifically demands.

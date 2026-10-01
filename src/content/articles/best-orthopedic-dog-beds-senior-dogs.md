@@ -16,6 +16,8 @@ originalElement: "Spec comparison tables from manufacturer-published data with c
 entities: ["orthopedic dog bed (unregulated label, foam density, thickness, CertiPUR-US)", "arthritis in senior dogs (bed as part of pain plan, not a treatment)", "foam density (pounds per cubic foot, flattening failure mode)", "memory foam vs. egg-crate vs. layered foam", "entry height and 3-sided bolster (step-in access for arthritic dogs)", "non-slip bottom (joint safety on hard floors)", "washable cover and waterproof liner", "bed products (Big Barker, PetFusion, BullyBeds, Bedsure, FurHaven, Casper) x (foam specs, sizes, warranty, price band)", "University of Pennsylvania pilot study (Big Barker, owner-reported outcomes)", "Wirecutter test findings (PetFusion, FurHaven, Casper, K&H cot)", "review-mined owner signals (Amazon ratings)", "bed sizing by dog weight, placement, replacement timing"]
 description: "What makes an orthopedic bed truly supportive for arthritic seniors: foam density, thickness, entry height — plus honest brand comparisons and review data."
 minutes: 15
+hero: "/images/best-orthopedic-dog-beds-senior-dogs.jpg"
+heroAlt: "Black-and-white dog sleeping curled up on a bed"
 ---
 
 Senior dogs spend 14–18 hours a day on their bed — more time than they spend doing anything else, including walking, eating, or being at the vet. For an arthritic dog, those hours are either joint recovery or joint punishment, and the difference comes down to what's inside the mattress. A genuinely supportive bed is one of the highest-impact, lowest-risk purchases in senior dog care. It belongs in the same conversation as ramps, rugs, and weight management — which is exactly how this guide treats it.

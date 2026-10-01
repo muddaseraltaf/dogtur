@@ -16,6 +16,8 @@ originalElement: "At-home mobility support checklist (printable-style table) and
 entities: ["osteoarthritis (prevalence, symptoms, diagnosis, treatment classes)", "pain (behavioral indicators, validated pain scales)", "NSAIDs (veterinary-only; human painkillers toxic)", "anti-NGF monoclonal antibody (bedinvetmab/Librela)", "mobility aids (ramp, harness, orthopedic bed, non-slip flooring, braces)", "at-home management (weight control, exercise, environment)", "sarcopenia (age-related muscle loss)", "degenerative myelopathy (neurological differential)", "quality of life assessment (HHHHHMM scale)"]
 description: "Senior dog mobility guide: why aging dogs slow down, arthritis signs, evidence-graded relief options, home changes that work, and when to call the vet."
 minutes: 13
+hero: "/images/senior-dog-mobility-guide.jpg"
+heroAlt: "Dog in a harness walking outdoors with its owner"
 ---
 
 The first sign is rarely dramatic. Your dog hesitates at the stairs they've bounded up for a decade. They take a beat longer to stand after a nap. They still want the walk — they just can't quite do the walk they used to.

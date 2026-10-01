@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["dietary fiber (soluble, insoluble)", "crude fiber (guaranteed analysis maximum)", "total dietary fiber (TDF)", "dry matter basis conversion", "anal glands (stool bulk support)", "prebiotics (FOS, inulin, beet pulp)", "psyllium husk", "satiety (weight management)", "fermentability (SCFA production)"]
 description: "How fiber supports anal glands, weight, and digestion, how to read crude-fiber labels honestly, and which high-fiber foods and supplements are worth trying."
 minutes: 10
+hero: "/images/best-high-fiber-dog-food.jpg"
+heroAlt: "Brown dog eating kibble from a white bowl"
 ---
 
 Fiber is behind some of the most common dog-food searches — "high fiber dog food for anal glands," "fiber for weight loss," "fiber for diabetes." In the right amount and form, it firms stools so anal glands empty naturally, helps overweight dogs feel full on fewer calories, and feeds beneficial gut bacteria. In the wrong amount, or for the wrong dog, it just makes more poop — or dilutes calories a dog desperately needs.

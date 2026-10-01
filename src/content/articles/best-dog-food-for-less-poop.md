@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["dog stool (frequency, firmness, volume)", "digestibility (nutrient absorption)", "low-residue diet", "soluble vs insoluble fiber", "prebiotic fiber", "probiotics", "crude fiber", "fecal scoring scale", "portion size and meal frequency", "AAFCO complete-and-balanced statement"]
 description: "Less poop comes from more digestible food. Learn how digestibility, fiber type, and portion size shape stool volume — and which foods are worth a look."
 minutes: 10
+hero: "/images/best-dog-food-for-less-poop.jpg"
+heroAlt: "Dog eating kibble from a white food bowl indoors"
 ---
 
 If you're filling poop bags faster than you can buy them, your dog's food is usually the reason. Dogs produce more waste when their food contains ingredients they can't fully digest — the undigested remainder passes straight through. The good news is that stool volume and firmness respond to a handful of concrete changes: a more digestible recipe, the right kind and amount of fiber, and honest portion control. This guide explains all three, shows you what to read on the label, and points to foods worth a closer look. It's part of our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/), which covers how aging changes a dog's digestive needs.

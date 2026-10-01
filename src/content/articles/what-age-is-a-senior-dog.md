@@ -16,6 +16,8 @@ originalElement: "Dog Tur seniority data table (size class x approximate senior 
 entities: ["dog (chronological age, size class, life stage)", "AAFCO (recognized life stages — note: no official \"senior\" stage)", "AAHA (senior = last 25% of estimated lifespan; 2019 life-stage framework)", "seniority (onset age by size)", "mature adult (life stage preceding senior)", "young adult (life stage)", "mixed-breed dog (adult weight predicts aging)", "geriatric (end-of-life term, older frameworks)"]
 description: "At what age is a dog considered senior? It depends on size — roughly 6 to 11 years. Breed-size chart, AAHA life stages, the dog-years myth, and vet guidance."
 minutes: 11
+hero: "/images/what-age-is-a-senior-dog.jpg"
+heroAlt: "Close-up of an elderly dog's grey-muzzled face"
 ---
 
 Most dogs are considered senior somewhere around 7–8 years old — but that's a population average hiding a huge spread. A Great Dane is geriatric at an age when a Dachshund is in its prime. The honest answer to "when is my dog a senior?" is: it depends on size, genetics, and what your vet sees in the exam room.

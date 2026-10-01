@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["Yorkshire Terrier (breed nutrition)", "kibble size (small-breed)", "dental health (tartar)", "omega fatty acids + biotin (coat)", "calorie density", "AAFCO small-breed statement", "hypoglycemia (toy-breed puppies)", "pancreatitis (fat sensitivity)", "tracheal collapse (feeding posture)", "senior life-stage transition"]
 description: "Yorkshire Terriers need tiny kibble, dental support, and coat nutrition. See which breed-specific and small-breed foods suit Yorkies — including seniors."
 minutes: 10
+hero: "/images/best-dog-food-for-yorkies.jpg"
+heroAlt: "Yorkshire terrier resting on grass in sunlight"
 ---
 
 Yorkshire Terriers pack big-dog personality into a body that rarely tops seven pounds — and that tiny frame has specific nutritional needs. Standard kibble is physically hard for a Yorkie to pick up and chew, crowded teeth invite dental disease, and the long, silky coat demands real nutritional support. Because the breed is long-lived, most Yorkies spend years as seniors — which is why this guide sits in our senior nutrition section and bridges to our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).

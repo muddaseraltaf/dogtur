@@ -48,6 +48,10 @@ const articles = defineCollection({
     description: z.string(),
     /** Estimated reading time; set when published */
     minutes: z.number().optional(),
+    /** Hero image path (e.g. /images/slug.jpg) — rendered under the headline */
+    hero: z.string().optional(),
+    /** Alt text for the hero image */
+    heroAlt: z.string().optional(),
   })
   // Derive the URL section slug from the section id (s1..s7)
   .transform((data) => ({

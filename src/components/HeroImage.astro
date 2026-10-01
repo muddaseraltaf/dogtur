@@ -1,0 +1,14 @@
+---
+// HeroImage: renders the article's hero photo under the headline/byline.
+// Only renders when the frontmatter `hero` field is set.
+interface Props {
+  hero?: string;
+  heroAlt?: string;
+}
+const { hero, heroAlt } = Astro.props;
+---
+{hero && (
+  <figure class="hero-figure">
+    <img src={hero} alt={heroAlt ?? ''} loading="eager" fetchpriority="high" />
+  </figure>
+)}

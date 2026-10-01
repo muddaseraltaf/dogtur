@@ -16,6 +16,8 @@ originalElement: "DISHA checklist table plus cited prevalence statistics (Neilso
 entities: ["CCD (DISHA/DISHAA signs, prevalence by age, diagnostic rule-outs)", "2026 CCDS Working Group guidelines (screening from age 7, DISHAA/CADES/CCDR scales, monitoring cadence)", "interventions (evidence level, veterinary supervision required)", "selegiline (FDA-approved for CDS)", "caregiver burden (support for owners of CCD dogs)"]
 description: "Dog dementia: the 10 signs of canine cognitive dysfunction (DISHA checklist), 2026 guidelines, how it progresses, and supportive home care that helps."
 minutes: 12
+hero: "/images/dog-dementia-signs-canine-cognitive-dysfunction.jpg"
+heroAlt: "Senior black dog in profile gazing into the distance"
 ---
 
 She stands at the wrong side of the door. She stares at a wall you've watched her stare at before. She paces the hallway at 2 a.m., restless in a way that has nothing to do with needing to go out. If this sounds familiar, you're not imagining it — and you're not alone.

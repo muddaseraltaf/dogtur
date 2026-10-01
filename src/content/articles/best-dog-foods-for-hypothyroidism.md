@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["hypothyroidism (canine)", "levothyroxine (thyroid hormone replacement)", "medication absorption and food timing", "weight management", "iodine (nutrient)", "goitrogens (soy)", "L-carnitine", "omega fatty acids (skin/coat)", "breed predisposition", "thyroid bloodwork (T4/TSH)"]
 description: "No food treats hypothyroidism — daily levothyroxine does. Diet's real job: weight loss, coat support, and timing meals around medication. Here's the playbook."
 minutes: 9
+hero: "/images/best-dog-foods-for-hypothyroidism.jpg"
+heroAlt: "Close-up portrait of a calm senior dog with graying fur"
 ---
 
 Searching for the best dog food for hypothyroidism usually starts with a hopeful question: can the right diet fix the thyroid? It can't — and saying that upfront is what separates this guide from most product roundups. Canine hypothyroidism is managed with daily thyroid hormone prescribed by your veterinarian; the honest nutritional job is narrower but still powerful: controlling the weight gain and coat problems the condition causes, and timing meals so they don't interfere with the medication. This guide covers the condition itself, the diet's genuinely supportive role, what to avoid, and food options worth discussing with your vet — built on guidance from [Cornell University's veterinary college](https://vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/hypothyroidism), the [MSD Veterinary Manual](https://www.msdvetmanual.com/endocrine-system/the-thyroid-gland/hypothyroidism-in-animals?query=HYPOTHYROIDISM%20in%20dog), and our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).

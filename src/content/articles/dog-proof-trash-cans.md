@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["locking-lid trash can (slide lock, pedal lock, PetGuard sensor lock)", "stainless steel vs plastic (tip resistance, denting, lid detachment)", "odor control (carbon filter, AbsorbX, tight seal)", "counter-surfing and scavenging behavior (leave it, place, management)", "trash toxicity (chocolate, xylitol/birch sugar, grapes, onions, cooked bones)", "senior dogs (cognitive decline, new scavenging)", "pull-out cabinet bin (architectural dog-proofing)", "dogs that learn to press pedals"]
 description: "Locking-lid trash cans that stop kitchen raids — compared with owner reviews, vet safety guidance on trash toxicity, and training that finishes the job."
 minutes: 11
+hero: "/images/dog-proof-trash-cans.jpg"
+heroAlt: "Dog watching hopefully while its owner eats in a sunlit kitchen"
 ---
 
 A dog in the trash is not being "bad" — they're being a dog. Scavenging is one of the most deeply wired canine behaviors: a trash can smells like the greatest opportunity in the house, and any dog that has ever scored chicken bones from it has been powerfully rewarded for trying again. The fix is two-part: make the trash physically inaccessible, and train an alternative. The can does the heavy lifting while training catches up. If you're assembling a home that works for an aging dog, our [essential senior-dog products guide](/senior-dog-gear/essential-products-senior-dogs/) covers the rest of the kit — a dog-proof can is one of the quietest safety wins on the list.

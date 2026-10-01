@@ -16,6 +16,8 @@ originalElement: "Senior-dog label checklist table (verifiable label attributes 
 entities: ["senior dog food (protein, fat, fiber, kcal, texture, AAFCO statement, feeding-trial statement)", "nutrients (protein quality, fiber — soluble and insoluble, omega-3 EPA/DHA, omega-6/linoleic acid, glucosamine, L-carnitine, antioxidants, MCTs)", "vitamins and minerals (vitamins E, A, D, B vitamins; phosphorus; sodium)", "AAFCO (growth/reproduction and adult maintenance profiles only)", "feeding budget (treats ≤10% of daily calories per AAHA/WSAVA)", "hydration and water intake"]
 description: "Senior dog nutrition: what aging changes, which nutrients matter most, how to compare labels per 1,000 kcal, and when feeding becomes a vet conversation."
 minutes: 14
+hero: "/images/senior-dog-nutrition-guide.jpg"
+heroAlt: "Small dog eating from a white bowl in a living room"
 ---
 
 Feeding a senior dog well is less about finding a magic "senior formula" and more about adjusting three dials: fewer calories, steady high-quality protein, and nutrients that support joints, brain, and digestion. The pet food aisle makes this harder than it needs to — "senior" on a bag is marketing, not a regulated standard.

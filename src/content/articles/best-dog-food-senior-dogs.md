@@ -16,6 +16,8 @@ originalElement: "Review-mining analysis of 4,600+ verified Chewy ratings with a
 entities: ["dog food products x (protein level, fat level, kibble size/texture, key ingredients, AAFCO statement, price band)", "senior dog (muscle maintenance, cognitive support, dental comfort, kidney health)", "AAFCO (no official \"senior\" life stage)", "phosphorus/sodium variation in senior foods (Tufts/Freeman)", "MCTs and canine cognition (Purina/Pan research)", "owner review aggregation (Chewy verified ratings)"]
 description: "Senior dog food, honestly: label analysis, 4,600+ verified Chewy owner reviews, and peer-reviewed studies on protein, phosphorus, and MCTs. No fabricated tests."
 minutes: 14
+hero: "/images/best-dog-food-senior-dogs.jpg"
+heroAlt: "Dog eating kibble from a white bowl while being gently petted"
 ---
 
 Switching your aging dog to a senior formula is one of the simplest upgrades you can make to their daily care. The hard part is the pet-store aisle: dozens of bags all claim "senior" on the front, and the word means something different on every label.

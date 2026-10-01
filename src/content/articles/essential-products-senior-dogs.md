@@ -16,6 +16,8 @@ originalElement: "Original elements: (1) owner-review data mined from public sou
 entities: ["orthopedic beds (memory foam, press test, washable cover, low entry)", "bedding placement (warm, non-drafty area, non-slick flooring)", "traction (rugs, yoga mats, booties, toe grips, paw friction — trade-offs)", "ramps (slope, traction surface, training the dog to use it)", "lift harnesses and slings (full-body, rear-support)", "strollers and wheelchairs (assist, don't carry)", "raised feeders (biomechanics vs GDV evidence)", "slow feeders and enrichment feeding", "hydration (water fountains)", "joint wraps (carpal/tarsal support, ice/heat therapy)", "incontinence (washable pads, diapers, belly bands)", "GPS trackers (CCD wandering)", "pet cameras and nightlights", "enrichment (puzzle toys, lick mats, scent games)", "grooming (soft brushes, moisturizing shampoo, nail grinders, dental care)", "thermoregulation (sweaters, heated bedding, exceptions)", "car safety gear for seniors", "buying criteria (senior-specific: support, traction, accessibility, safety)", "category verdicts (worth it / think twice / skip)"]
 description: "Senior dog products by problem: beds, ramps, harnesses, feeding gear, traction and safety — honest buying verdicts from vet guidance and owner reviews."
 minutes: 11
+hero: "/images/essential-products-senior-dogs.jpg"
+heroAlt: "Woman relaxing on a sofa with her senior dog indoors"
 ---
 
 Senior dogs don't need *more* stuff. They need the *right* stuff — gear chosen for the problems aging creates: aching joints, slippery floors, fading senses, weaker bladders.

@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["American Bully (breed-type nutrition, muscle maintenance)", "crude protein (25-30% target)", "crude fat (12-20% target)", "calorie density (kcal/cup)", "joint support (glucosamine, chondroitin)", "AAFCO all-life-stages statement", "omega-3 fatty acids (EPA/DHA)", "diet-associated dilated cardiomyopathy (pulse-rich diets)", "elimination-challenge diet trial (8 weeks)", "body condition score", "senior large-breed nutrition", "Bully Max (label specifications)", "VICTOR Hi-Pro Plus (label specifications)"]
 description: "American Bullies need 25–30% protein for muscle and strict portion control for a heavy frame. Honest label analysis, owner-review data, and vet guidance."
 minutes: 9
+hero: "/images/best-dog-foods-for-american-bully.jpg"
+heroAlt: "American bully sitting among autumn leaves"
 ---
 
 The American Bully is a study in contrasts: a dog built like a weightlifter, with the metabolism of a couch potato if you're not careful. Feeding one well means holding two ideas at once — enough quality protein to maintain that muscular build, and enough portion discipline to keep a naturally heavy dog lean. This guide covers the nutritional targets that matter for the breed type, the marketing claims that don't, and which formulas fit — framed for the dog's whole life, because Bullies age like other large, heavy breeds: faster than you'd expect. For the bigger picture, see our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).

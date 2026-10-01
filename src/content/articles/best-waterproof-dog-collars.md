@@ -15,6 +15,8 @@ publishQueue: null
 entities: ["Biothane (PVC-coated polyester webbing)", "TPU-coated webbing", "PVC-coated nylon (budget tier)", "odor resistance (bacterial colonization of woven nylon)", "collar hardware (brass, aluminum, stainless steel — corrosion)", "two-finger rule (collar fit)", "reflective trim (low-light visibility)", "Fable Signature collar (PVC-coated; independent testing)", "canine cognitive dysfunction (wandering senior dogs)", "tag silencer (noise reduction)"]
 description: "Waterproof collars don't absorb water or stink like nylon. Compare Biothane, TPU, and PVC options — with test findings, owner reviews, and fit guidance."
 minutes: 11
+hero: "/images/best-waterproof-dog-collars.jpg"
+heroAlt: "Chocolate Labrador shaking water off in a swimming pool"
 ---
 
 A standard nylon collar on a dog that swims is a slow-motion disaster: it stays damp for hours, breeds bacteria in the weave, and develops a sour smell that no washing fully removes. A perpetually wet collar against the skin can also irritate it, especially in older dogs with thinning skin. A waterproof collar — coated webbing that sheds water instead of absorbing it — solves all of this: it dries in minutes, doesn't stink, and wipes clean. For a senior dog's everyday comfort, it's one of the simplest gear upgrades in our [essential senior-dog products guide](/senior-dog-gear/essential-products-senior-dogs/).

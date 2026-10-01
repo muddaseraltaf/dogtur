@@ -16,6 +16,8 @@ originalElement: "\"Normal aging vs warning sign\" comparison table and DISHA ch
 entities: ["canine cognitive dysfunction (DISHA/DISHAA signs, prevalence by age, 2026 CCDS Working Group screening guidelines)", "behavior changes (sleep-wake disruption, house soiling, vocalization, anxiety, aggression, clinginess)", "pain (as behavior-change mimic; commonly missed presentations)", "sensory loss (vision/hearing decline, communication adaptations)", "medical mimics (hypothyroidism, UTI, Cushing's disease, medication side effects)", "enrichment (puzzle toys, routine, training, sniff walks)"]
 description: "Senior dog behavior changes: what's normal aging vs. a vet visit, why seniors pace at night, 2026 screening guidance, and how to support your old dog's mind."
 minutes: 13
+hero: "/images/senior-dog-behavior-changes-guide.jpg"
+heroAlt: "Close-up portrait of a calm senior dog with thoughtful eyes"
 ---
 
 Your senior dog is still your dog — just a slower, sleepier, slightly more particular version. Most behavior changes in aging dogs are exactly that: aging. But some are the earliest visible symptoms of pain, cognitive decline, or disease, and telling the two apart is one of the most useful skills a senior-dog owner can build.

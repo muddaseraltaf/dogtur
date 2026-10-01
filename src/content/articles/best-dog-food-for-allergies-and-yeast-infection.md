@@ -16,6 +16,8 @@ originalElement: "Gap analysis vs ranking competitors (none distinguishes allerg
 entities: ["adverse food reaction (true food allergy — immune-mediated, uncommon)", "food intolerance / sensitivity (non-immune)", "atopic dermatitis (environmental allergy — more common than food allergy)", "flea allergy dermatitis", "elimination diet trial (8–12 weeks plus re-challenge)", "novel protein", "hydrolyzed protein diet (prescription, vet-directed)", "protein cross-reactivity (chicken/turkey, beef/lamb)", "Malassezia pachydermatis (commensal yeast — secondary overgrowth)", "grain-free diet myth and dilated cardiomyopathy (DCM) association", "omega-3 fatty acids (skin barrier support)", "owner review aggregation (Chewy verified ratings)"]
 description: "True food allergies are uncommon and yeast is usually secondary. A vet-guided guide to elimination diets, novel and hydrolyzed proteins, and honest food picks."
 minutes: 10
+hero: "/images/best-dog-food-for-allergies-and-yeast-infection.jpg"
+heroAlt: "Small terrier scratching its side with a hind leg"
 ---
 
 Itchy skin, recurring ear infections, and that musty "yeast" smell send owners hunting for a new dog food — and almost every article jumps straight to product recommendations, which is where the advice goes wrong. Food allergy, food intolerance, environmental allergy, and yeast overgrowth look similar and share symptoms, but they demand completely different responses. Only one is solved by a different kibble — and even then, only after your veterinarian has run the proper diagnostic process.

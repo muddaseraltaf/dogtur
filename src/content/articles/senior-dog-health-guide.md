@@ -16,6 +16,8 @@ originalElement: "Dog Tur seniority data table (size class x approximate senior 
 entities: ["senior dog (age threshold, size class, life stage)", "osteoarthritis (prevalence, symptoms, management)", "chronic kidney disease (early signs, staging)", "canine cognitive dysfunction (DISHA signs, prevalence)", "periodontal disease (prevalence, anesthesia considerations)", "hypothyroidism (weight gain, lethargy)", "diabetes mellitus (excessive thirst, urination)", "cancer (lumps, screening)", "obesity (body condition, modifiable risk factor)", "heart disease (murmurs, screening)", "liver disease (senior screening)", "hypertension (blood pressure screening)", "senior wellness diagnostics (CBC, chemistry panel, urinalysis, blood pressure, imaging)", "vaccination (senior schedule, lifestyle-based)", "quality of life (HHHHHMM scale, hospice)"]
 description: "The complete senior dog health guide: normal aging vs illness, common conditions, vet visit schedules, bloodwork, home care, and quality-of-life planning."
 minutes: 14
+hero: "/images/senior-dog-health-guide.jpg"
+heroAlt: "Veterinarian examining a dog with a stethoscope"
 ---
 
 A gray muzzle is not a diagnosis. Dogs age at wildly different speeds — a Great Dane can be a senior at six while a Chihuahua is barely middle-aged at eight — and most of what goes wrong in the golden years is manageable if it's caught early.

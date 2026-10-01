@@ -16,6 +16,8 @@ originalElement: "Full pain-signs checklist table (printable-style) plus an expl
 entities: ["pain (behavioral indicators, physiological indicators, acute vs chronic)", "pain scales (Canine Brief Pain Inventory, LOAD)", "NSAIDs (veterinary-only; human painkillers toxic)", "osteoarthritis (as common pain source)", "dental disease (as pain source)", "canine cognitive dysfunction (differential for restlessness)"]
 description: "How to tell if your senior dog is in pain: the subtle signs checklist, pain vs. aging, validated pain scales, and what to do — plus what never to give."
 minutes: 11
+hero: "/images/how-to-tell-senior-dog-in-pain.jpg"
+heroAlt: "Owner gently stroking a senior dog's cheek"
 ---
 
 Dogs don't cry about pain the way we do. They go quiet. They stop greeting you at the door. And because these changes creep in slowly, owners routinely mistake months of pain for "just getting old."

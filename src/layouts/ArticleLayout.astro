@@ -4,6 +4,7 @@
 // Sibling links (from frontmatter) render a related-articles box.
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
+import HeroImage from '../components/HeroImage.astro';
 import DisclosureBox from '../components/DisclosureBox.astro';
 import { render, type CollectionEntry } from 'astro:content';
 
@@ -51,6 +52,7 @@ const crumbLd = {
   description={d.description}
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
+  ogImage={d.hero}
   jsonLd={[articleLd, crumbLd]}
 >
   <div class="wrap">
@@ -79,6 +81,8 @@ const crumbLd = {
           <a href="/editorial-policy/">editorial policy</a></small>
         </div>
       </div>
+
+      <HeroImage hero={d.hero} heroAlt={d.heroAlt} />
 
       {moneyPage && <DisclosureBox />}
 
