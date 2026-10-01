@@ -1,7 +1,7 @@
 ---
 // ReviewLayout: for review / comparison pages (money pages).
-// Adds disclosure, methodology link, and Review JSON-LD with PLACEHOLDER
-// product data — must be replaced with real tested products before publish.
+// Adds disclosure, methodology link, and honest Review JSON-LD
+// (no ratings fabricated — ratings appear only after hands-on testing).
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import DisclosureBox from '../components/DisclosureBox.astro';
@@ -21,17 +21,10 @@ const published = d.status === 'published';
 const reviewLd = {
   '@context': 'https://schema.org',
   '@type': 'Review',
-  // TODO: replace placeholder product with real tested products
-  itemReviewed: { '@type': 'Product', name: 'TODO: tested product name' },
+  itemReviewed: { '@type': 'Product', name: d.title },
   author: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
   publisher: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
-  reviewRating: {
-    '@type': 'Rating',
-    ratingValue: 'TODO',
-    bestRating: '10',
-    worstRating: '0',
-  },
-  reviewBody: 'TODO: testing verdict summary from hands-on testing.',
+  reviewBody: d.description,
 };
 
 const crumbLd = {
@@ -74,7 +67,7 @@ const crumbLd = {
         <span class="avatar" aria-hidden="true">DT</span>
         <div>
           <strong>Dog Tur editorial team</strong>
-          <small>Hands-on tested · <a href="/methodology/">How we test</a> ·
+          <small>Research-based reviews · <a href="/methodology/">Our methodology</a> ·
           <a href="/editorial-policy/">Editorial policy</a></small>
         </div>
       </div>

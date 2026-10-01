@@ -3,7 +3,7 @@ title: "Best Dog Food for Allergies and Yeast Infections"
 slug: "best-dog-food-for-allergies-and-yeast-infection"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -88,6 +88,8 @@ Two things competitors won't tell you:
 **Royal Canin Hydrolyzed Protein HP** and **Hill's Prescription Diet z/d (veterinary diets).** The two prescription mainstays for elimination trials: hydrolyzed proteins plus skin-supporting nutrients. Prescription-only and vet-directed — this is what "doing it properly" looks like.
 
 **Natural Balance L.I.D. (Limited Ingredient Diets).** Single-animal-protein recipes (salmon, duck, venison, lamb, and others) with short ingredient lists. On Chewy: the Lamb & Brown Rice formula carries 4.5 stars across 1,814 ratings with "Allergen-Free" at 81% positive; the Vegetarian Small Breed formula holds 4.6 across 151 ratings with "Allergen-Free" at 85% positive. Verified reviewers repeatedly describe itchy dogs calming down after switching — including one owner whose Great Pyrenees had lifelong skin allergies with yeast ear infections, who reported the dog was "finally at peace in his skin" after switching with the vet's blessing. Individual stories aren't proof, but the pattern across hundreds of reviews is worth noting.
+
+<p><a class="affiliate-btn" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 **Zignature.** Single, less-common proteins (kangaroo, salmon, trout, pork, turkey) with no chicken, corn, wheat, soy, or dairy across the line. On Chewy: Kangaroo has 4.5 stars across 1,291 ratings; Salmon 25-lb has 4.5 across 770 ratings, with Digestibility and Ingredients in the low-80s percent positive. A verified reviewer of the Salmon formula wrote that after two months, their allergy-prone Frenchie showed "no more excessive licking and no more itch." Useful when the dog's history rules out the common proteins — though mind cross-reactivity when choosing the protein.
 

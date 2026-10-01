@@ -3,7 +3,7 @@ title: "Best Dog Ramps for Senior Dogs"
 slug: "best-dog-ramps-senior-dogs"
 section: s6
 sectionName: "Senior Dog Gear & Products"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -93,17 +93,23 @@ At 72" long, this is the longest mainstream car ramp, which means the gentlest s
 
 **Worth a closer look if:** your dog is nervous, heavy, or very arthritic, and you can spare the trunk space. The gentle incline is worth the bulk.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4z8cSbk" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### PetSafe Happy Ride Folding Dog Ramp — the affordable all-rounder, with a caveat
 
 The standard Happy Ride is the ramp most people picture: 62" long, 16" wide, plastic construction weighing about 10 lb, folding in half with a safety latch for storage. It's independently rated for dogs up to 150 lb, with side rails and rubber feet. It's one of the most affordable full-size ramps — but the 150-lb capacity rules out giant breeds, and the sandpaper walking surface is the documented problem: multiple verified owners report abraded paw pads, with the common fix being an added layer of cabinet liner or yoga mat. If you buy it, budget for that modification — or for the turf-topped competitor above.
 
 **Worth a closer look if:** you need a light, affordable car ramp for a small-to-large (not giant) senior, and you're willing to pad the surface.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4ykHeHv" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### PetSafe Happy Ride Telescoping Ramp — for tall vehicles and tight storage
 
 This aluminum ramp telescopes from 28" out to 70" (an extra-long version reaches 87"), collapses small enough for compact storage, and supports up to 300 lb — the highest capacity in this roundup. It weighs 14–18 lb depending on version, with a weather-resistant high-traction surface, side rails, and rubber feet. The telescoping design is genuinely convenient: one ramp that adjusts to a sedan one day and a lifted truck the next. Owners confirm it's heavy-duty for big dogs, though some find the slide mechanism and clips awkward to operate. Aluminum costs more than plastic, and telescoping mechanisms demand occasional cleaning to slide smoothly — but for tall vehicles this is the spec leader.
 
 **Worth a closer look if:** you drive a truck or tall SUV, need the highest weight capacity, or want the most compact storage.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4ywx2vW" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ### Gen7Pets Indoor-Carpet Mini Ramp 42" — for beds and couches
 
@@ -116,6 +122,8 @@ Not every ramp is for the car. This 42" x 16" ramp is designed for indoor height
 A wooden-framed ramp with a carpeted surface designed to sit permanently against a bed, rated for dogs up to 120 lb. It looks like furniture rather than equipment, which matters when the ramp lives in your bedroom full-time. The 120-lb capacity and furniture-appropriate height range mean it's a bed-and-couch specialist, not a car-ramp substitute. If aesthetics decide whether the ramp stays out (and therefore gets used), this category exists for you.
 
 **Worth a closer look if:** you want a permanent indoor ramp that doesn't look like garage equipment.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4yICwUt" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ### What other publications pick
 

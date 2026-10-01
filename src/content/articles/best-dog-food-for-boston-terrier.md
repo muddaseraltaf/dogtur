@@ -3,7 +3,7 @@ title: "Best Dog Food for Boston Terriers"
 slug: "best-dog-food-for-boston-terrier"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -79,9 +79,15 @@ Practical takeaway: scan ingredient lists for soybean meal, pea fiber, and dairy
 
 **Hill's Science Diet Adult Sensitive Stomach & Skin.** Digestibility-focused with prebiotic fiber and a vet-recommended track record for sensitive stomachs. Worth trying first when soft stools accompany the gas.
 
+<p><a class="affiliate-btn plain" href="https://www.amazon.com/dp/B003MW7790" target="_blank" rel="nofollow noopener">View on Amazon</a></p>
+
 **Diamond Naturals Small Breed.** Budget-friendly, meat-first, with probiotics included. Bostons eat like much bigger dogs — the price per pound matters.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Natural Balance L.I.D.** If you and your vet have identified a specific protein your Boston doesn't tolerate, a limited-ingredient, single-protein recipe simplifies the ingredient list. Ingredient restriction belongs *after* veterinary diagnosis, not before it.
+
+<p><a class="affiliate-btn" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ## Weight: the quiet Boston Terrier problem
 

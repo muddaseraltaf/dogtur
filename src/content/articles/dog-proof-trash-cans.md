@@ -3,7 +3,7 @@ title: "Best Dog-Proof Trash Cans for Kitchen Raiders"
 slug: "dog-proof-trash-cans"
 section: s6
 sectionName: "Senior Dog Gear & Products"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -37,7 +37,11 @@ One thing competitors underplay: clever dogs learn pedals. A step pedal with no 
 
 **simplehuman 50-liter semi-round with slide lock.** The purpose-built dog-proof pick in the simplehuman line: a 50-liter (roughly 13-gallon) semi-round can with a secure slide lock on the lid, steel pedal, slow-close lid, and a wall bumper that keeps it the right distance from the wall. Review-mined signal is strong — on Home Depot, the semi-round locking model holds 4.6 stars across roughly 390 reviews, with the AI review summary noting the locking mechanism is "particularly appreciated by pet owners," and one verified owner wrote that their cupboard-opening dog "can't get in the can at all" and can't knock it over even without engaging the lock. Caveats from reviews: recent buyers report the lid detaching from its hinges on newer units, and it needs simplehuman's Code P liners for the best fit. Typically around $110–130.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4AJkkv7" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **iTouchless 13-gallon pet-proof sensor can.** The vet-endorsed pick: Dr. Amanda Jondle, the veterinarian advising the pet site Puppy Growth Calculator, chose this as her top overall dog-proof can in a guide updated days before this article, citing its PetGuard lock, odor filter, and stainless steel build. The PetGuard is a physical lock that disables the motion sensor, so a curious nose can't trigger the lid open — owners can also just use the buttons. Verified reviews back it up: one Amazon owner wrote "Yes, it is dog proof!" after their dogs failed to get in, and batteries lasted 6+ months; another reported their dog simply stopped trying after a few weeks. The honest negatives: one owner's sensor unit died just past two years, another found the odor filter did little, and a reviewer noted the lock stops the lid but not the motor, which may strain it over time. Expect to spend in the $60–110 range, and budget for replacement filters.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4ywx472" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 **Tramontina 13-gallon step can.** The value pick that surfaced in Yahoo's 2026 editor-tested roundup of kitchen trash cans, where a professional organizer recommended it for most kitchens and Amazon reviewers called it "dog proof" — one wrote "the dog can't lift the lid with his nose to get in the trash because of the design." The mechanism is a flush, slow-close lid rather than a true lock, so it suits dogs that nose lids open rather than determined puzzle-solvers. Around $100 at retail, with standard bags and a 10-year warranty.
 

@@ -3,7 +3,7 @@ title: "Best Dog Food for Senior Dogs"
 slug: "best-dog-food-senior-dogs"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -108,6 +108,8 @@ Owner data backs the reputation: on Chewy, the 15-lb bag holds 4.7 stars across 
 
 **Worth a closer look if:** your senior is healthy overall and you want a dependable, vet-familiar baseline.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4yZUm4W" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Purina Pro Plan Bright Mind 7+ — for the aging brain
 
 Bright Mind's defining feature is its inclusion of medium-chain triglycerides from botanical oils. This isn't just marketing language: in Nestlé Purina Research's published feeding studies, senior dogs fed MCT-supplemented diets showed significant improvements in attention span, trainability, and decision-making within 30 days (Pan et al., 2010, published in the *British Journal of Nutrition*; follow-up work reported improvement across cognitive-behavior categories by 90 days). The mechanism is straightforward — aging brains metabolize glucose less efficiently, and ketones derived from MCTs provide an alternative fuel. Note the source honestly: this is the manufacturer's own research, not independent — but it is published and peer-reviewed, which is more than most label claims can say.
@@ -116,17 +118,23 @@ On Chewy, Bright Mind holds 4.6 stars across roughly 2,200 verified ratings, wit
 
 **Worth a closer look if:** you're noticing early cognitive changes and want a diet formulated with that in mind. (See our guide to [dog dementia signs](/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/) to know what to watch for.)
 
+<p><a class="affiliate-btn" href="https://amzn.to/47rW0jT" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Royal Canin Aging 8+ / 10+ — size-specific formulas for very senior dogs
 
 Royal Canin takes a different approach: separate formulas for small dogs (Aging 8+), medium dogs (Aging 10+), and large dogs, reflecting the fact that big dogs age faster. These are premium-priced foods with kibble engineered per size class — shape, size, and texture tuned to different jaws. The nutrient profiles lean toward heart, kidney, and joint support for advanced age, with controlled phosphorus. It's the pick most often recommended when a dog is well past the 7+ threshold and standard senior formulas feel too generic.
 
 **Worth a closer look if:** your dog is 10+, a large or giant breed, or has age-related health concerns your vet is monitoring.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4z7fNRx" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Blue Buffalo Life Protection Formula Senior — the mainstream pick
 
 Blue Buffalo's senior formula leads with real chicken, includes its "LifeSource Bits" antioxidant blend, and is sold nearly everywhere dog food is sold. It's a middle-of-the-road option in the best sense: no exotic positioning, broad availability, and a price that sits in the mainstream band. Ingredient quality is solid for the category, though palatability reports vary by dog — as with every food on this list, your dog gets the final vote.
 
 **Worth a closer look if:** you want a widely available, reasonably priced senior kibble from a major brand.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4z2JVgP" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ### Blue Buffalo Basics Limited-Ingredient Senior — for sensitive stomachs
 
@@ -140,11 +148,15 @@ Age Advantage is one of the few senior formulas built on a high-protein, grain-f
 
 **Worth a closer look if:** your senior is lean, active, or losing muscle, and your vet is comfortable with a grain-free approach.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4z8mjr5" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Purina ONE SmartBlend Vibrant Maturity 7+ — the budget pick
 
 The gap in most lists: nothing for tight budgets. Vibrant Maturity pairs real chicken with the same MCT-based brain-support approach as its pricier Pro Plan sibling, hits 28% protein for muscle maintenance, and lands on supermarket shelves near a dollar a pound. Purina backs the recipe with feeding trials and the same quality-control standards as its premium lines. Owners consistently report eager eating and perkier attitudes within weeks — consistent with what the MCT research would predict.
 
 **Worth a closer look if:** price matters and you still want a research-backed formula rather than a mystery bag.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4z9zJTX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ### The Farmer's Dog — for picky eaters and maximum palatability
 

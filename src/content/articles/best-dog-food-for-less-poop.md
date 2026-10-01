@@ -3,7 +3,7 @@ title: "Best Dog Food for Less Poop: Firm-Stool Feeding Guide"
 slug: "best-dog-food-for-less-poop"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -67,13 +67,21 @@ Avoid foods built around unspecified "meat and bone meal," heavy cellulose fille
 
 **Hill's Science Diet Adult Sensitive Stomach & Skin.** A vet-recommended line built around digestibility, with prebiotic fiber to support gut bacteria and omega fatty acids for skin and coat. It's a sensible first try for a dog whose stools are soft on an ordinary grocery-store food. Owner signal is consistent with the formulation: in Chewy's verified reviews, one owner summed up the switch as "His poops were soooo much better on this food though — less poop and more solid" (review by Ellen, May 2026). If your dog also has itchy skin or a dull coat, consider our guide to [food for allergies and yeast issues](/senior-dog-nutrition/best-dog-food-for-allergies-and-yeast-infection/).
 
+<p><a class="affiliate-btn plain" href="https://www.amazon.com/dp/B003MW7790" target="_blank" rel="nofollow noopener">View on Amazon</a></p>
+
 **Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice).** Another digestibility-focused formula, this one with live probiotics and prebiotic fiber on the label. The salmon-and-rice recipe suits dogs that don't do well on chicken-based foods. This is the strongest owner-review signal of the foods on this list: on Chewy, the adult line carries a 4.4-out-of-5 rating across 2,455 ratings, with Chewy's own sentiment breakdown marking "digestibility" 77% positive (as viewed September 2026; a retailer-calculated metric, not independent testing). Reviews are direct: "she is less itchy not licking as much and definitely has firmer poops" (Jen) and "his #2's are solid and so easy to pick up" (David). The puppy line shows similar sentiment: 886 reviews with digestibility at 84% positive, including "my puppy's stools are much smaller and solid now after over a month" (Kat). ([chewy.com](https://www.chewy.com/purina-pro-plan-sensitive-skin/dp/245360))
 
 **Diamond Naturals (Chicken & Rice).** A cage-free-chicken-and-rice formula with K9-strain probiotics and omega fatty acids — family-owned, made in the USA, and typically the most affordable of these options when premium sensitive-stomach lines stretch the budget.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Wellness CORE (grain-free or wholesome-grains recipes).** A protein-forward line with probiotics and no by-products or artificial additives. If you lean toward grain-free, have the conversation with your vet first: regulators investigated a possible link between grain-free diets and heart disease in dogs, and while no definitive conclusion was reached, it's worth discussing your individual dog's risk.
 
+<p><a class="affiliate-btn" href="https://amzn.to/3TiWoxX" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Royal Canin Gastrointestinal (veterinary diet).** For dogs whose stool problems persist despite quality over-the-counter foods, vets often reach for a prescription low-residue GI formula. A "discuss with your vet" option, not a casual switch.
+
+<p><a class="affiliate-btn" href="https://amzn.to/3VgUL4t" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ## How to transition without making things worse
 

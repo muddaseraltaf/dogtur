@@ -3,7 +3,7 @@ title: "Best Joint Supplements for Senior Dogs"
 slug: "best-joint-supplements-senior-dogs"
 section: s3
 sectionName: "Senior Dog Mobility, Joints & Pain"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -105,17 +105,23 @@ Owner data backs the clinic reputation: across ~21,600 verified Chewy ratings of
 
 **Worth a closer look if:** your vet has already suggested a joint supplement and you want the brand most clinics reach for first. Note the soy component in ASU if your dog has a soy sensitivity.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4hnVKs5" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Nutramax Cosequin DS + MSM — the established baseline
 
 Cosequin is the older, more widely retailed of Nutramax's two flagship joint products: glucosamine, chondroitin, and (in the DS + MSM version) MSM. It's the joint supplement with the longest track record — 25+ years — and Nutramax cites published peer-reviewed studies conducted directly on Cosequin formulations. It's also the most affordable of the vet-trusted options, widely available in large-count bottles. In The Goody Pet's 2026 roundup, Cosequin DS Plus MSM Chewable was the publication's own top pick for joint supplements.
 
 **Worth a closer look if:** you want the longest-established, most affordable entry point with published research behind the formula.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4houcD3" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Nutramax Dasuquin for Senior Dogs — the age-targeted variant
 
 Nutramax's senior-specific Dasuquin tweaks the standard line for older dogs, adding omega-3s and immune-support ingredients alongside the glucosamine/chondroitin/ASU core. The honest read from the review data: its Chewy rating (4.5 stars, ~1,362 ratings) and effectiveness mentions (82%) run below the standard line's (4.7 stars, 88–91%). That gap likely reflects who buys it — owners treating more advanced stiffness — rather than a weaker formula, but it's the data as it stands.
 
 **Worth a closer look if:** your senior is already on Dasuquin and your vet suggests the age-targeted variant.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4iYaGyo" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ### Nutramax Dasuquin Advanced — the kitchen-sink formula
 
@@ -129,17 +135,23 @@ Flexadin takes a different path: UC-II undenatured collagen, which works through
 
 **Worth a closer look if:** standard glucosamine products haven't seemed to help, and you want to discuss a different mechanism with your vet.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4jrZBFW" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### PetLab Co. Joint Care Chews — the popular newcomer
 
 PetLab Co.'s chews center on green-lipped mussel (the ingredient with the best published trial data among "natural" joint ingredients — a double-blind canine study showed improved arthritis scores at six weeks), plus glucosamine, turmeric extract, and omega-3s. They're NASC members and widely reviewed online. The honest caveat: the published research covers the *ingredients*, not this specific product — no independent trials exist on PetLab's formulation itself. That's true of most direct-to-consumer supplements.
 
 **Worth a closer look if:** you prefer a soft-chew format and want green-lipped mussel as the lead ingredient.
 
+<p><a class="affiliate-btn" href="https://amzn.to/47ppsHk" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 ### Zesty Paws Mobility Bites — the widely available option
 
 Zesty Paws combines glucosamine, chondroitin, MSM, and turmeric in a soft chew sold across major retailers. It's one of the most widely available joint chews in the US, which makes it an easy first try — but availability is not evidence. Same rule applies: discuss with your vet, and judge it over 4–6 weeks of consistent use.
 
 **Worth a closer look if:** you want an easy-to-find, reasonably priced chew to trial under vet guidance.
+
+<p><a class="affiliate-btn" href="https://amzn.to/47rVMcx" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ## What age should I start a joint supplement?
 

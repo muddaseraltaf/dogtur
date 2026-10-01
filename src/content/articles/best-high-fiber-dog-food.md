@@ -3,7 +3,7 @@ title: "Best High-Fiber Dog Food for Anal Glands & Weight"
 slug: "best-high-fiber-dog-food"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
-type: informational
+type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
@@ -86,15 +86,25 @@ Bad advice does real harm here, and no competitor roundup covers these cases. **
 
 **Hill's Prescription Diet w/d Multi-Benefit (veterinary diet).** ~22–23% fiber on a dry matter basis in both canned and dry forms, formulated for weight, glucose, and urinary management together. At Puppy Growth Calculator, veterinary advisor Dr. Jennifer Coates, DVM, [selected w/d Multi-Benefit as her best overall](https://puppygrowthcalculator.com/best-high-fiber-dog-food/) for its breadth across those conditions — their assessment, not ours.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Hill's Science Diet Adult Perfect Weight (over the counter).** A weight-management formula that uses higher fiber to promote satiety while keeping protein up for lean muscle — the right call when the goal is slimming a chunky dog rather than treating a GI condition.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Nutro Natural Choice Healthy Weight (over the counter).** K9 of Mine rated this their best overall after comparing eight products on label data: 11% max crude fiber from rice bran, powdered cellulose, beet pulp, and pumpkin, with farm-raised chicken first. (Their review, their pick.)
+
+<p><a class="affiliate-btn" href="https://amzn.to/4rDwX6O" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 **Budget-friendly options.** When cost is the constraint, K9 of Mine highlights Diamond Naturals Light as an affordable high-fiber kibble, and Puppy Growth Calculator's budget pick is Natural Balance Fat Dogs — both weight-management formulas worth checking against the bands above.
 
 **Glandex Soft Chews (Vetnique Labs).** A targeted supplement rather than a food: a fiber blend built on pumpkin seed powder, granulated pumpkin seed, and apple pectin, plus probiotics, digestive enzymes, and omega fatty acids, dosed by weight. Owner reviews are strong for this category: on Petco's listing (roughly 1,470 reviews at last check), the chews average 4.6 stars and 82% of reviewers say they'd recommend them, with most describing less scooting and fewer vet visits for gland expression. Owner reports, not clinical evidence — but a meaningful signal, and a reasonable add-on for the chronic scooter whose vet has ruled out infection.
 
+<p><a class="affiliate-btn" href="https://amzn.to/4hFOoz3" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
+
 **Plain canned pumpkin.** The simplest fiber topper: plain pumpkin purée (not pie filling). Tufts' table puts canned pumpkin at just 0.4g of total dietary fiber per tablespoon — far less than concentrated psyllium (3.5g) — so it's a gentle nudge, not a real fiber intervention. Many vets suggest it for mild stool-firming, and it's a cheap first experiment. Ask your vet about an appropriate amount for your dog's size.
+
+<p><a class="affiliate-btn" href="https://amzn.to/4jxufOa" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
 ## A senior-dog note
 

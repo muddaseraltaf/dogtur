@@ -94,6 +94,14 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
   padding: .9rem 1.1rem; margin: 1.4rem 0; font-size: .92rem; }
 .disclosure-box strong { color: #7a5c00; }
 
+.affiliate-btn { display: inline-block; margin: .4rem 0 1.6rem; padding: .7rem 1.5rem;
+  background: var(--accent); color: #fff !important; font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 700; font-size: 1rem; border-radius: var(--radius); text-decoration: none;
+  box-shadow: 0 2px 6px rgba(31, 90, 55, .25); }
+.affiliate-btn:hover { background: #256a41; color: #fff !important; }
+.affiliate-btn.plain { background: #fff; color: var(--ink) !important; border: 2px solid var(--accent); box-shadow: none; }
+.affiliate-btn.plain:hover { background: var(--accent-soft); color: var(--ink) !important; }
+
 .safety-box { border-left: 4px solid #c0392b; background: #fdecea; border-radius: 0 var(--radius) var(--radius) 0;
   padding: .8rem 1.1rem; margin: 1.4rem 0; font-size: .95rem; }
 .safety-box strong { color: #c0392b; }
