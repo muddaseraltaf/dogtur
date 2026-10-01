@@ -1,7 +1,7 @@
 ---
 // ReviewLayout: for review / comparison pages (money pages).
-// Adds disclosure, methodology link, and honest Review JSON-LD
-// (no ratings fabricated — ratings appear only after hands-on testing).
+// Adds disclosure, methodology link, and honest Article JSON-LD
+// (comparison roundups are articles, not single-product Reviews).
 import BaseLayout from './BaseLayout.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import HeroImage from '../components/HeroImage.astro';
@@ -21,11 +21,18 @@ const published = d.status === 'published';
 
 const reviewLd = {
   '@context': 'https://schema.org',
-  '@type': 'Review',
-  itemReviewed: { '@type': 'Product', name: d.title },
+  '@type': 'Article',
+  headline: d.title,
+  description: d.description,
   author: { '@type': 'Organization', name: 'Dogtur', url: SITE },
-  publisher: { '@type': 'Organization', name: 'Dogtur', url: SITE },
-  reviewBody: d.description,
+  publisher: {
+    '@type': 'Organization',
+    name: 'Dogtur',
+    url: SITE,
+    logo: { '@type': 'ImageObject', url: `${SITE}/favicon.svg` },
+  },
+  mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE}/${d.sectionSlug}/${d.slug}/` },
+  inLanguage: 'en',
 };
 
 const crumbLd = {
