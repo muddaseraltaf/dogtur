@@ -32,7 +32,7 @@ export const SECTIONS: Section[] = [
     role: 'core',
     pillar: 'senior-dog-nutrition-guide',
     blurb:
-      'What to feed an aging dog: tested food reviews, feeding charts, diet transitions, and honest answers to contested nutrition questions.',
+      'What to feed an aging dog: research-based food reviews, feeding charts, diet transitions, and honest answers to contested nutrition questions.',
   },
   {
     id: 's3',
@@ -68,7 +68,7 @@ export const SECTIONS: Section[] = [
     role: 'core',
     pillar: 'essential-products-senior-dogs',
     blurb:
-      'Hands-on tested reviews of beds, ramps, harnesses, strollers, and every product a senior dog actually needs — plus what is not worth buying.',
+      'Research-based reviews of beds, ramps, harnesses, strollers, and every product a senior dog actually needs — plus what is not worth buying.',
   },
   {
     id: 's7',
@@ -77,7 +77,7 @@ export const SECTIONS: Section[] = [
     role: 'outer',
     pillar: 'living-with-senior-dog-guide',
     blurb:
-      'Exercising, traveling, and adopting senior dogs; lifespan data and original surveys; and compassionate, vet-deferred end-of-life guidance.',
+      'Exercising, traveling, and adopting senior dogs; lifespan data; and compassionate, vet-deferred end-of-life guidance.',
   },
 ];
 
