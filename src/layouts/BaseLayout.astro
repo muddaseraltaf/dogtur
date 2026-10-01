@@ -71,6 +71,17 @@ const pageUrl = canonical ?? `${SITE}${Astro.url.pathname}`;
       </nav>
     </div>
   </header>
+  <script>
+    // Drop the mobile nav's edge fade once scrolled to the end.
+    const nav = document.querySelector('.site-nav');
+    if (nav) {
+      const update = () =>
+        nav.classList.toggle('scrolled-end', nav.scrollWidth - nav.scrollLeft - nav.clientWidth < 8);
+      nav.addEventListener('scroll', update, { passive: true });
+      window.addEventListener('resize', update);
+      update();
+    }
+  </script>
   <main id="main">
     <slot />
   </main>

@@ -32,7 +32,7 @@ const jsonLd = [
 
 const all = await getCollection('articles', ({ data }) => data.status === 'published');
 const queue = (await getCollection('articles'))
-  .filter((a) => a.data.publishQueue != null)
+  .filter((a) => a.data.publishQueue != null && a.data.status === 'published')
   .sort((a, b) => (a.data.publishQueue ?? 0) - (b.data.publishQueue ?? 0));
 ---
 <BaseLayout
@@ -76,20 +76,9 @@ const queue = (await getCollection('articles'))
       {queue.map((a) => (
         <li>
           <span class="type-tag">{a.data.type}</span>
-          {a.data.status === 'published' ? (
-            <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
-          ) : (
-            <span>{a.data.title} <span class="status-planned">— coming soon</span></span>
-          )}
+          <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
         </li>
       ))}
     </ol>
-
-    {all.length === 0 && (
-      <p>
-        <em>The first guides are in the workshop — each one is being researched
-        and written from scratch before it goes live.</em>
-      </p>
-    )}
   </div>
 </BaseLayout>

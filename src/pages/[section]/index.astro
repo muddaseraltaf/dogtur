@@ -1,6 +1,6 @@
 ---
 // Section index: one dynamic page per section (e.g. /senior-dog-health/).
-// Lists pillar first, then published articles, then planned (coming soon).
+// Lists pillar first, then published articles.
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { getCollection } from 'astro:content';
@@ -20,7 +20,6 @@ const articles = (await getCollection('articles', ({ data }) => data.sectionSlug
   });
 
 const published = articles.filter((a) => a.data.status === 'published');
-const planned = articles.filter((a) => a.data.status !== 'published');
 
 const itemListLd = {
   '@context': 'https://schema.org',
@@ -52,7 +51,6 @@ const itemListLd = {
     </div>
 
     <h2>Guides</h2>
-    {published.length === 0 && <p><em>Guides for this section are in the workshop — coming soon.</em></p>}
     <ul class="article-list">
       {published.map((a) => (
         <li>
@@ -61,19 +59,5 @@ const itemListLd = {
         </li>
       ))}
     </ul>
-
-    {planned.length > 0 && (
-      <>
-        <h2>On the way</h2>
-        <ul class="article-list">
-          {planned.map((a) => (
-            <li>
-              <span class="type-tag">{a.data.type}</span>
-              {a.data.title} <span class="status-planned">— in the workshop</span>
-            </li>
-          ))}
-        </ul>
-      </>
-    )}
   </div>
 </BaseLayout>

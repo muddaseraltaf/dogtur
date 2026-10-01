@@ -74,9 +74,7 @@ const itemListLd = {
         <ul>
           {hubArticles.map((a) => (
             <li>
-              {a.data.status === 'published'
-                ? <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
-                : <span>{a.data.title} <em class="status-planned">(coming soon)</em></span>}
+              <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
             </li>
           ))}
         </ul>

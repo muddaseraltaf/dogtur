@@ -40,6 +40,7 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
 .wide { max-width: 1060px; }
 
 .site-header { border-bottom: 1px solid var(--line); background: #fff; }
+.site-header .wrap { max-width: 1060px; }
 .site-header .wrap { display: flex; align-items: center; gap: 1rem; padding-top: .9rem; padding-bottom: .9rem; }
 .brand { display: inline-flex; align-items: center; gap: .7rem;
   font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
@@ -164,7 +165,11 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
   .site-header .wrap { flex-wrap: wrap; row-gap: .55rem; }
   .brand-text small { display: none; }
   .site-nav { margin-left: 0; width: 100%; flex-wrap: nowrap; overflow-x: auto;
-    -webkit-overflow-scrolling: touch; scrollbar-width: none; padding-bottom: .15rem; }
+    -webkit-overflow-scrolling: touch; scrollbar-width: none; padding-bottom: .15rem;
+    -webkit-mask-image: linear-gradient(to right, #000 82%, transparent 100%);
+    mask-image: linear-gradient(to right, #000 82%, transparent 100%); }
   .site-nav::-webkit-scrollbar { display: none; }
   .site-nav a { white-space: nowrap; }
+  /* Once the user scrolls to the end, drop the fade so the last item reads clean. */
+  .site-nav.scrolled-end { -webkit-mask-image: none; mask-image: none; }
 }
