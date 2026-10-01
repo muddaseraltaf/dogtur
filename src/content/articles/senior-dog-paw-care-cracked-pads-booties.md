@@ -14,7 +14,7 @@ siblings: ["non-slip-rugs-flooring-senior-dogs", "best-brushes-senior-dogs-thinn
 publishQueue: null
 originalElement: "Balm before/after photo test; bootie fit test."
 entities: ["paw pads (cracking, balm)", "traction (booties, wax)"]
-description: "Senior Dog Paw Care: Cracked Pads, Traction, and Booties. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Senior Dog Paw Care: Cracked Pads, Traction, and Booties. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

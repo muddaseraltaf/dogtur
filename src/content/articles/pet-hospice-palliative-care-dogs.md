@@ -14,7 +14,7 @@ siblings: ["quality-of-life-scale-dogs-hhhhhmm", "when-is-it-time-to-say-goodbye
 publishQueue: null
 originalElement: "Hospice-provider interview; cost/expectation overview."
 entities: ["hospice (services, costs)", "palliative measures (comfort care)"]
-description: "Pet Hospice and Palliative Care for Dogs: What to Expect. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Pet Hospice and Palliative Care for Dogs: What to Expect. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

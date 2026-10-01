@@ -9,7 +9,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'Organization',
-    name: 'Dog Tur',
+    name: 'Dogtur',
     url: SITE,
     logo: `${SITE}/favicon.svg`,
     description: 'Independent, experience-first senior dog care guides and tested product reviews.',
@@ -18,7 +18,7 @@ const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: 'Dog Tur',
+    name: 'Dogtur',
     url: SITE,
     description: 'Senior dog care guides, tested gear reviews, and honest advice for aging dogs.',
     inLanguage: 'en',
@@ -36,8 +36,8 @@ const queue = (await getCollection('articles'))
   .sort((a, b) => (a.data.publishQueue ?? 0) - (b.data.publishQueue ?? 0));
 ---
 <BaseLayout
-  title="Dog Tur — Senior Dog Care Guides & Tested Gear Reviews"
-  description="Experience-first guides for caring for your aging dog: health, nutrition, mobility, behavior, grooming, gear, and end-of-life — plus honestly tested product reviews."
+  title="Dogtur — Senior Dog Care Guides & Reviews"
+  description="Research-based guides for caring for your aging dog: health, nutrition, mobility, behavior, grooming, gear, and end-of-life — plus honest product reviews."
   canonical={SITE + '/'}
   jsonLd={jsonLd}
 >
@@ -45,7 +45,7 @@ const queue = (await getCollection('articles'))
     <div class="wrap">
       <h1>Caring for your aging dog, done right.</h1>
       <p class="lede">
-        Dog Tur is an independent guide for parents of senior dogs: honest health
+        Dogtur is an independent guide for parents of senior dogs: honest health
         explainers, nutrition advice, and product reviews tested with real aging
         dogs — not rewritten spec sheets.
       </p>
@@ -76,9 +76,10 @@ const queue = (await getCollection('articles'))
       {queue.map((a) => (
         <li>
           <span class="type-tag">{a.data.type}</span>
-          <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
-          {a.data.status !== 'published' && (
-            <span class="status-planned"> — writer brief, in progress</span>
+          {a.data.status === 'published' ? (
+            <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
+          ) : (
+            <span>{a.data.title} <span class="status-planned">— coming soon</span></span>
           )}
         </li>
       ))}
@@ -86,8 +87,8 @@ const queue = (await getCollection('articles'))
 
     {all.length === 0 && (
       <p>
-        <em>The first guides are in the workshop — each one is being researched,
-        tested, and written from scratch before it goes live.</em>
+        <em>The first guides are in the workshop — each one is being researched
+        and written from scratch before it goes live.</em>
       </p>
     )}
   </div>

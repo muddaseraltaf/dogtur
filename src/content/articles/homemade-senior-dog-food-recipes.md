@@ -14,7 +14,7 @@ siblings: ["best-senior-dog-food-sensitive-stomachs", "how-to-switch-senior-dog-
 publishQueue: null
 originalElement: "Vet-source attributed recipes; nutritional-balance warnings (homemade diets risk deficiencies)."
 entities: ["homemade diet (balance, supplementation)", "vet nutritionist (attribution)"]
-description: "Homemade Senior Dog Food Recipes Vets Approve Of. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Homemade Senior Dog Food Recipes Vets Approve Of. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

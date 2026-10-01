@@ -14,7 +14,7 @@ siblings: ["senior-dog-anxiety-causes-strategies"]
 publishQueue: null
 originalElement: "Step-by-step introduction protocol (tested)."
 entities: ["introduction protocol (scent swap, supervised meetings, safe spaces)"]
-description: "Introducing a New Puppy to a Senior Dog. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Introducing a New Puppy to a Senior Dog. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

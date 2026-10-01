@@ -22,7 +22,7 @@ heroAlt: "Woman relaxing on a sofa with her senior dog indoors"
 
 Senior dogs don't need *more* stuff. They need the *right* stuff — gear chosen for the problems aging creates: aching joints, slippery floors, fading senses, weaker bladders.
 
-An honest note: Dog Tur's verdicts here are **category guidance, not product picks**. The advice comes from veterinary guidance, published research, and owner-review data mined from public sources (all attributed) — not hands-on testing, which is in progress and not claimed. Our [methodology](/methodology/) explains how individual reviews will be tested. We run no affiliate programs: no product links, no paid placements.
+An honest note: Dogtur's verdicts here are **category guidance, not product picks**. The advice comes from veterinary guidance, published research, and owner-review data mined from public sources (all attributed) — not hands-on testing, which is in progress and not claimed. Our [methodology](/methodology/) explains how individual reviews will be tested. We run no affiliate programs: no product links, no paid placements.
 
 ## What products do senior dogs actually need?
 
@@ -155,7 +155,7 @@ And the free interventions that outperform most purchases: keeping the dog lean,
 
 ## How this guide was built
 
-**A category guide built from other people's evidence — honestly labeled.** Dog Tur is conducting hands-on product testing with real senior dogs for individual reviews (see [how we test](/methodology/)), but that testing is in progress and nothing here claims its results. This guide synthesizes:
+**A category guide built from other people's evidence — honestly labeled.** Dogtur is conducting hands-on product testing with real senior dogs for individual reviews (see [how we test](/methodology/)), but that testing is in progress and nothing here claims its results. This guide synthesizes:
 
 - **Veterinary and rehab guidance**, all attributed in the text: [Canine Arthritis Resources and Education](https://caninearthritis.org/article/assistive-devices/), four veterinarians (Drs. Elden, Frye, Silva, Russi) via NBC Select's senior-dog care guide, and the AKC's nutrition reporting with Purina scientist Dr. Yuanlong Pan.
 - **Published research**, attributed in the text: the Purdue raised-feeder/bloat study (Glickman et al., JAVMA 2000), the Veterinary Evidence review of feeder-height studies, and the studies behind AKC's reporting on antioxidants, omega-3s, and MCT oils for senior cognition.

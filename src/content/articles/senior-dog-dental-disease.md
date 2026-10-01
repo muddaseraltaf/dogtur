@@ -14,7 +14,7 @@ siblings: ["senior-dog-vet-care-costs", "clean-senior-dog-ears-brush-teeth-home"
 publishQueue: null
 originalElement: "Dental cost-range data table (cleaning, extractions, by region); anesthesia-safety explainer, vet-reviewed."
 entities: ["periodontal disease (stages)", "dental cleaning (anesthesia, cost)", "anesthesia risk in seniors (pre-anesthetic screening)"]
-description: "Senior Dog Dental Disease: Cleaning, Costs, and Anesthesia Safety. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Senior Dog Dental Disease: Cleaning, Costs, and Anesthesia Safety. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

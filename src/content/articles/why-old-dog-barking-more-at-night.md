@@ -14,7 +14,7 @@ siblings: ["senior-dog-pacing-at-night-sundowning", "dog-dementia-signs-canine-c
 publishQueue: null
 originalElement: "Cause-decision flowchart (CCD vs anxiety vs pain vs hearing loss)."
 entities: ["vocalization (causes: CCD, anxiety, pain, deafness)"]
-description: "Why Is My Old Dog Barking More at Night?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Why Is My Old Dog Barking More at Night?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["senior-dog-bloodwork-explained", "common-health-problems-senior-dogs
 publishQueue: null
 originalElement: "Symptom checklist; vet-reviewed; no dosage information."
 entities: ["hypothyroidism (symptoms, T4 testing)", "levothyroxine (vet-prescribed, no dosages)"]
-description: "Hypothyroidism in Senior Dogs: Symptoms and Treatment. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Hypothyroidism in Senior Dogs: Symptoms and Treatment. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

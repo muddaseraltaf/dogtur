@@ -14,7 +14,7 @@ siblings: ["arthritis-in-senior-dogs", "kidney-disease-older-dogs", "dog-dementi
 publishQueue: null
 originalElement: "Condition-by-condition bridge table; vet-reviewed for medical accuracy."
 entities: ["osteoarthritis", "chronic kidney disease", "cancer", "diabetes mellitus", "hypothyroidism", "canine cognitive dysfunction"]
-description: "Common Health Problems in Senior Dogs (and What to Do About Them). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Common Health Problems in Senior Dogs (and What to Do About Them). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

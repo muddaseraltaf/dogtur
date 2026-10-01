@@ -14,7 +14,7 @@ siblings: ["best-puzzle-toys-senior-dogs", "how-to-exercise-senior-dog-safely"]
 publishQueue: null
 originalElement: "30-day enrichment calendar (original, printable)."
 entities: ["enrichment (scent games, food puzzles, training, social)"]
-description: "How to Keep a Senior Dog Mentally Stimulated (Enrichment Guide). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Keep a Senior Dog Mentally Stimulated (Enrichment Guide). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

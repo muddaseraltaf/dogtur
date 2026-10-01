@@ -12,7 +12,7 @@ macroContext: "The entity definition of the central entity: when a dog becomes \
 hub: "senior-dog-health-guide"
 siblings: ["senior-dog-nutrition-guide", "senior-dog-mobility-guide"]
 publishQueue: 2
-originalElement: "Dog Tur seniority data table (size class x approximate senior onset, sourced to AAHA/AVMA guidance); AAHA 2019 life-stage framework table. The attributed vet quote originally briefed is still pending — not claimed."
+originalElement: "Dogtur seniority data table (size class x approximate senior onset, sourced to AAHA/AVMA guidance); AAHA 2019 life-stage framework table. The attributed vet quote originally briefed is still pending — not claimed."
 entities: ["dog (chronological age, size class, life stage)", "AAFCO (recognized life stages — note: no official \"senior\" stage)", "AAHA (senior = last 25% of estimated lifespan; 2019 life-stage framework)", "seniority (onset age by size)", "mature adult (life stage preceding senior)", "young adult (life stage)", "mixed-breed dog (adult weight predicts aging)", "geriatric (end-of-life term, older frameworks)"]
 description: "At what age is a dog considered senior? It depends on size — roughly 6 to 11 years. Breed-size chart, AAHA life stages, the dog-years myth, and vet guidance."
 minutes: 11
@@ -22,7 +22,7 @@ heroAlt: "Close-up of an elderly dog's grey-muzzled face"
 
 Most dogs are considered senior somewhere around 7–8 years old — but that's a population average hiding a huge spread. A Great Dane is geriatric at an age when a Dachshund is in its prime. The honest answer to "when is my dog a senior?" is: it depends on size, genetics, and what your vet sees in the exam room.
 
-This is the entity-definition page for Dog Tur's senior dog: what "senior" actually means, how breed size moves the line, where seniority sits inside the full life-stage framework veterinarians use, and the regulatory nuance (from AAFCO) that most articles gloss over. For the full health picture once your dog qualifies, see our [senior dog health guide](/senior-dog-health/senior-dog-health-guide/).
+This is the entity-definition page for Dogtur's senior dog: what "senior" actually means, how breed size moves the line, where seniority sits inside the full life-stage framework veterinarians use, and the regulatory nuance (from AAFCO) that most articles gloss over. For the full health picture once your dog qualifies, see our [senior dog health guide](/senior-dog-health/senior-dog-health-guide/).
 
 ## At what age is a dog considered senior?
 

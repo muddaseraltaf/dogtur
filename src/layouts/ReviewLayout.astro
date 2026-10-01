@@ -23,8 +23,8 @@ const reviewLd = {
   '@context': 'https://schema.org',
   '@type': 'Review',
   itemReviewed: { '@type': 'Product', name: d.title },
-  author: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
-  publisher: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
+  author: { '@type': 'Organization', name: 'Dogtur', url: SITE },
+  publisher: { '@type': 'Organization', name: 'Dogtur', url: SITE },
   reviewBody: d.description,
 };
 
@@ -39,7 +39,7 @@ const crumbLd = {
 };
 ---
 <BaseLayout
-  title={`${d.title} | Dog Tur`}
+  title={`${d.title} | Dogtur`}
   description={d.description}
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
@@ -68,7 +68,7 @@ const crumbLd = {
       <div class="byline">
         <span class="avatar" aria-hidden="true">DT</span>
         <div>
-          <strong>Dog Tur editorial team</strong>
+          <strong>Dogtur editorial team</strong>
           <small>Research-based reviews · <a href="/methodology/">Our methodology</a> ·
           <a href="/editorial-policy/">Editorial policy</a></small>
         </div>

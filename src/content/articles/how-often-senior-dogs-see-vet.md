@@ -14,7 +14,7 @@ siblings: ["senior-dog-bloodwork-explained", "senior-dog-vet-care-costs", "how-t
 publishQueue: null
 originalElement: "Vet-visit frequency table by age bracket, vet-sourced."
 entities: ["wellness exam (frequency by life stage)", "senior screening (bloodwork, urinalysis)"]
-description: "How Often Should Senior Dogs See the Vet?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How Often Should Senior Dogs See the Vet?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

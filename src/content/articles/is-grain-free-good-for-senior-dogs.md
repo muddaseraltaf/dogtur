@@ -14,7 +14,7 @@ siblings: ["senior-vs-adult-dog-food", "best-dog-food-senior-dogs"]
 publishQueue: null
 originalElement: "Evidence summary with citations (incl. FDA DCM investigation note); no fear-mongering."
 entities: ["grain-free (legumes, taurine, DCM reports)", "evidence quality (limited/mixed)"]
-description: "Is Grain-Free Food Good for Senior Dogs?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Is Grain-Free Food Good for Senior Dogs?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

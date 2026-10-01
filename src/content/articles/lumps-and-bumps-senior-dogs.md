@@ -14,7 +14,7 @@ siblings: ["common-health-problems-senior-dogs", "how-often-senior-dogs-see-vet"
 publishQueue: null
 originalElement: "\"Monitor vs vet visit\" decision flowchart; vet-reviewed."
 entities: ["lipoma", "mast cell tumor", "fine-needle aspirate (diagnostic)"]
-description: "Lumps and Bumps on Senior Dogs: When to Worry. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Lumps and Bumps on Senior Dogs: When to Worry. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

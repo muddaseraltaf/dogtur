@@ -14,7 +14,7 @@ siblings: ["when-is-it-time-to-say-goodbye", "pet-hospice-palliative-care-dogs"]
 publishQueue: null
 originalElement: "Scale explainer graphic; vet-deference framing (\"a tool to discuss with your vet\")."
 entities: ["HHHHHMM (hurt, hunger, hydration, hygiene, happiness, mobility, more good days)"]
-description: "Quality of Life Scale for Dogs (HHHHHMM) Explained. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Quality of Life Scale for Dogs (HHHHHMM) Explained. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

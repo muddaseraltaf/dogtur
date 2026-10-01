@@ -14,7 +14,7 @@ siblings: ["common-health-problems-senior-dogs", "senior-dog-bloodwork-explained
 publishQueue: null
 originalElement: "Warning-signs checklist; vet-reviewed; \"only a vet can diagnose\" framing."
 entities: ["diabetes mellitus (polydipsia, polyuria, weight loss)", "diagnosis (blood glucose, fructosamine — vet territory)"]
-description: "Diabetes in Older Dogs: Warning Signs. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Diabetes in Older Dogs: Warning Signs. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

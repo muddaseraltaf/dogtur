@@ -14,7 +14,7 @@ siblings: ["best-lift-harnesses-slings-senior-dogs", "how-to-tell-senior-dog-in-
 publishQueue: null
 originalElement: "Support-technique photo guide (sling fitting, assisted standing)."
 entities: ["hind-leg weakness (causes: DM, arthritis, neuropathy — vet diagnosis)", "support tools (sling, harness)"]
-description: "How to Help a Senior Dog With Weak Back Legs. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Help a Senior Dog With Weak Back Legs. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

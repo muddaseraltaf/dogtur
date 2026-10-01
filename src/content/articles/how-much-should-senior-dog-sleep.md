@@ -14,7 +14,7 @@ siblings: ["dog-dementia-signs-canine-cognitive-dysfunction", "senior-dog-pacing
 publishQueue: null
 originalElement: "Sleep-needs chart by age/size; \"when to worry\" thresholds."
 entities: ["sleep (hours by life stage)", "excessive sleep (warning contexts)"]
-description: "How Much Should a Senior Dog Sleep?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How Much Should a Senior Dog Sleep?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

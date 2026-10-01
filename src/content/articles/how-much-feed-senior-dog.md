@@ -14,7 +14,7 @@ siblings: ["how-to-switch-senior-dog-food", "best-dog-food-senior-dogs", "best-d
 publishQueue: null
 originalElement: "Original feeding chart by weight/activity level; \"ask your vet for exact portions\" framing."
 entities: ["daily calories (RER/MER factors)", "body condition score"]
-description: "How Much Should I Feed My Senior Dog? (Feeding Chart by Weight). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How Much Should I Feed My Senior Dog? (Feeding Chart by Weight). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

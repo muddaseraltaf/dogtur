@@ -14,7 +14,7 @@ siblings: ["arthritis-in-senior-dogs", "best-joint-supplements-senior-dogs"]
 publishQueue: null
 originalElement: "Evidence-graded summary table with cited studies; vet-deference framing."
 entities: ["laser therapy / acupuncture / hydrotherapy (evidence level, mechanism claims)", "veterinary rehabilitation (credentialing)"]
-description: "Laser Therapy, Acupuncture, and Hydrotherapy for Arthritic Dogs: What the Evidence Says. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Laser Therapy, Acupuncture, and Hydrotherapy for Arthritic Dogs: What the Evidence Says. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

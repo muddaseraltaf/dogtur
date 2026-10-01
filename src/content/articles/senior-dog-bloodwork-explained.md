@@ -14,7 +14,7 @@ siblings: ["how-often-senior-dogs-see-vet", "kidney-disease-older-dogs", "hypoth
 publishQueue: null
 originalElement: "Annotated bloodwork panel explainer graphic; vet-reviewed."
 entities: ["CBC", "chemistry panel (kidney/liver values)", "thyroid panel", "urinalysis"]
-description: "Senior Dog Bloodwork Explained: What Vets Check and Why. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Senior Dog Bloodwork Explained: What Vets Check and Why. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["senior-dog-bloodwork-explained", "common-health-problems-senior-dogs
 publishQueue: null
 originalElement: "Early-signs checklist; explicit \"diet changes are vet-prescribed\" framing — no diet prescriptions."
 entities: ["chronic kidney disease (IRIS staging, early signs)", "renal diet (veterinary prescription)"]
-description: "Kidney Disease in Older Dogs: Early Signs and Diet Changes to Discuss With Your Vet. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Kidney Disease in Older Dogs: Early Signs and Diet Changes to Discuss With Your Vet. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

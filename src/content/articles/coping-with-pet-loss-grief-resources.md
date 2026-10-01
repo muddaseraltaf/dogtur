@@ -14,7 +14,7 @@ siblings: ["when-is-it-time-to-say-goodbye", "pet-hospice-palliative-care-dogs"]
 publishQueue: null
 originalElement: "Curated grief-resource directory (hotlines, counselors, books, communities); compassionate tone."
 entities: ["grief resources (hotlines, counseling, communities)"]
-description: "Coping With Pet Loss: Grief Resources. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Coping With Pet Loss: Grief Resources. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

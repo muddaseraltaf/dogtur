@@ -22,7 +22,7 @@ heroAlt: "Close-up portrait of a calm senior dog with thoughtful eyes"
 
 Your senior dog is still your dog — just a slower, sleepier, slightly more particular version. Most behavior changes in aging dogs are exactly that: aging. But some are the earliest visible symptoms of pain, cognitive decline, or disease, and telling the two apart is one of the most useful skills a senior-dog owner can build.
 
-This guide is Dog Tur's behavior hub: how aging changes behavior, the normal-vs-warning-sign framework, why pain and sensory loss masquerade as "bad behavior," what canine cognitive dysfunction looks like (including new 2026 veterinary screening guidance), and how to support an aging mind. The dementia deep dive lives in [dog dementia: 10 signs of canine cognitive dysfunction](/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/); pain — the great mimic — has its own [pain signs checklist](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/).
+This guide is Dogtur's behavior hub: how aging changes behavior, the normal-vs-warning-sign framework, why pain and sensory loss masquerade as "bad behavior," what canine cognitive dysfunction looks like (including new 2026 veterinary screening guidance), and how to support an aging mind. The dementia deep dive lives in [dog dementia: 10 signs of canine cognitive dysfunction](/senior-dog-behavior/dog-dementia-signs-canine-cognitive-dysfunction/); pain — the great mimic — has its own [pain signs checklist](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/).
 
 ## How does behavior change as dogs age?
 

@@ -14,7 +14,7 @@ siblings: ["best-orthopedic-dog-beds-senior-dogs"]
 publishQueue: null
 originalElement: "Surface-temperature measurements over time (thermal camera/readings); honest verdict."
 entities: ["cooling mat (gel type, cooling duration, reactivation)"]
-description: "Dog Cooling Mats: Do They Actually Work? (Tested). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Dog Cooling Mats: Do They Actually Work? (Tested). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

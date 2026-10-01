@@ -14,7 +14,7 @@ siblings: ["senior-dog-statistics", "senior-dog-vet-care-costs"]
 publishQueue: null
 originalElement: "Original angle: \"why shelters' oldest dogs\"; shelter interviews/quotes."
 entities: ["adoption (fees, vetting)", "senior realities (health costs, shorter time, deep reward)"]
-description: "Senior Dog Adoption: Pros, Cons, and Costs. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Senior Dog Adoption: Pros, Cons, and Costs. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

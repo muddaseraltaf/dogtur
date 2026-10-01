@@ -14,7 +14,7 @@ siblings: ["how-often-bathe-senior-dog", "best-shampoos-senior-dogs-sensitive-sk
 publishQueue: null
 originalElement: "Grooming-frequency calendar by coat type (original)."
 entities: ["grooming (bathing, brushing, nail care, dental)", "daily care (feeding station, bedding, paw checks)"]
-description: "Senior Dog Grooming & Daily Care: The Complete Guide. The complete, experience-first hub for senior dog parents from Dog Tur."
+description: "Senior Dog Grooming & Daily Care: The Complete Guide. The complete, experience-first hub for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["what-age-is-a-senior-dog", "common-health-problems-senior-dogs", "se
 publishQueue: null
 originalElement: "Original \"normal aging vs warning sign\" comparison table/graphic."
 entities: ["aging signs (graying muzzle, slower pace, sleep increase)", "warning signs (appetite loss, limping, lumps, behavior change)"]
-description: "Signs Your Dog Is Getting Old vs Signs of Illness. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Signs Your Dog Is Getting Old vs Signs of Illness. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

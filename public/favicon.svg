@@ -1,5 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <rect width="64" height="64" rx="14" fill="#2f7d4f"/>
-  <text x="32" y="42" font-family="Georgia, serif" font-size="30" font-weight="bold"
-        fill="#fdfbf7" text-anchor="middle">DT</text>
+  <g fill="#fdfbf7">
+    <ellipse cx="19" cy="25" rx="6.5" ry="8.5"/>
+    <ellipse cx="29" cy="16.5" rx="6.5" ry="8.5"/>
+    <ellipse cx="41" cy="16.5" rx="6.5" ry="8.5"/>
+    <ellipse cx="51" cy="25" rx="6.5" ry="8.5"/>
+    <path d="M35 30c-6 0-16 5-16 14 0 7 6 11 10 11 3 0 4.5-1.5 6-1.5s3 1.5 6 1.5c4 0 10-4 10-11 0-9-10-14-16-14z"/>
+  </g>
 </svg>

@@ -1,4 +1,4 @@
-/* Dog Tur — base styles. Clean, readable, senior-dog-parent friendly.
+/* Dogtur — base styles. Clean, readable, senior-dog-parent friendly.
    No frameworks; semantic HTML + minimal CSS for fast Core Web Vitals. */
 
 :root {
@@ -41,9 +41,12 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
 
 .site-header { border-bottom: 1px solid var(--line); background: #fff; }
 .site-header .wrap { display: flex; align-items: center; gap: 1rem; padding-top: .9rem; padding-bottom: .9rem; }
-.brand { font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  font-weight: 800; font-size: 1.3rem; color: var(--ink); text-decoration: none; }
-.brand small { display: block; font-weight: 400; font-size: .72rem; color: var(--muted); }
+.brand { display: inline-flex; align-items: center; gap: .7rem;
+  font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 800; font-size: 1.35rem; color: var(--ink); text-decoration: none; }
+.brand-mark { width: 44px; height: 44px; border-radius: 12px; display: block; }
+.brand-text { line-height: 1.15; }
+.brand-text small { display: block; font-weight: 400; font-size: .72rem; color: var(--muted); }
 .site-nav { margin-left: auto; display: flex; gap: .2rem; flex-wrap: wrap; }
 .site-nav a { color: var(--ink); text-decoration: none; padding: .45rem .7rem; border-radius: 8px; font-size: .95rem; }
 .site-nav a:hover { background: var(--accent-soft); }

@@ -14,7 +14,7 @@ siblings: ["dog-dementia-signs-canine-cognitive-dysfunction", "why-old-dog-barki
 publishQueue: null
 originalElement: "Night-routine calming protocol (tested with real senior dogs)."
 entities: ["sundowning (CCD-related)", "night pain (arthritis)", "anxiety (triggers)"]
-description: "Why Is My Senior Dog Pacing at Night? (Sundowning Explained). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Why Is My Senior Dog Pacing at Night? (Sundowning Explained). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

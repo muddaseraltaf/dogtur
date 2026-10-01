@@ -14,7 +14,7 @@ siblings: ["help-senior-dog-weak-back-legs", "best-lift-harnesses-slings-senior-
 publishQueue: null
 originalElement: "\"When it's time\" decision framework; vet-deference on candidacy."
 entities: ["wheelchair (candidacy, fitting, front vs rear support)", "expectations (adjustment period)"]
-description: "Dog Wheelchairs: When Does a Senior Dog Need One?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Dog Wheelchairs: When Does a Senior Dog Need One?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

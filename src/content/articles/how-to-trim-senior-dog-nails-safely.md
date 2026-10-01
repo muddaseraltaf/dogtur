@@ -14,7 +14,7 @@ siblings: ["senior-dog-mobility-guide", "best-harnesses-senior-dogs-mobility-iss
 publishQueue: null
 originalElement: "Dark-nail trimming photo tutorial; arthritis-friendly positioning guide."
 entities: ["nail trimming (quick identification, grinder vs clipper)", "positioning (arthritic joints)"]
-description: "How to Trim a Senior Dog's Nails Safely. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Trim a Senior Dog's Nails Safely. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["help-senior-dog-weak-back-legs", "best-dog-ramps-senior-dogs", "dog-
 publishQueue: null
 originalElement: "Traction test on common floor types (photos/video)."
 entities: ["traction aids (rugs, runners, toe grips, booties)", "floor types (hardwood, tile)"]
-description: "Best Non-Slip Rugs and Flooring Solutions for Senior Dogs. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Best Non-Slip Rugs and Flooring Solutions for Senior Dogs. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

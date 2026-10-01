@@ -14,7 +14,7 @@ siblings: ["senior-dog-dental-disease", "how-often-bathe-senior-dog"]
 publishQueue: null
 originalElement: "Step-by-step photo tutorial (ear cleaning, tooth brushing technique)."
 entities: ["ear cleaning (technique, warning signs)", "tooth brushing (frequency, products)"]
-description: "How to Clean a Senior Dog's Ears and Brush Their Teeth at Home. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Clean a Senior Dog's Ears and Brush Their Teeth at Home. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

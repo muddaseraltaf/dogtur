@@ -14,7 +14,7 @@ siblings: ["best-dog-diapers-incontinent-senior-dogs", "house-training-regressio
 publishQueue: null
 originalElement: "Cause → solution mapping; vet-deference on medical causes (UTI, kidney disease, Cushing's)."
 entities: ["incontinence (sphincter weakness, UTI, CKD)", "management (diapers, vet treatment)"]
-description: "Managing Incontinence in Senior Dogs: Causes and Solutions. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Managing Incontinence in Senior Dogs: Causes and Solutions. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

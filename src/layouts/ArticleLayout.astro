@@ -26,10 +26,10 @@ const articleLd = {
   '@type': 'Article',
   headline: d.title,
   description: d.description,
-  author: { '@type': 'Organization', name: 'Dog Tur', url: SITE },
+  author: { '@type': 'Organization', name: 'Dogtur', url: SITE },
   publisher: {
     '@type': 'Organization',
-    name: 'Dog Tur',
+    name: 'Dogtur',
     url: SITE,
     logo: { '@type': 'ImageObject', url: `${SITE}/favicon.svg` },
   },
@@ -48,7 +48,7 @@ const crumbLd = {
 };
 ---
 <BaseLayout
-  title={`${d.title} | Dog Tur`}
+  title={`${d.title} | Dogtur`}
   description={d.description}
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
@@ -76,7 +76,7 @@ const crumbLd = {
       <div class="byline">
         <span class="avatar" aria-hidden="true">DT</span>
         <div>
-          <strong>Dog Tur editorial team</strong>
+          <strong>Dogtur editorial team</strong>
           <small>Experience-first senior dog care guides · Reviewed against our
           <a href="/editorial-policy/">editorial policy</a></small>
         </div>

@@ -14,7 +14,7 @@ siblings: ["managing-incontinence-senior-dogs", "best-dog-diapers-incontinent-se
 publishQueue: null
 originalElement: "Cause → fix mapping table; vet-deference on medical causes."
 entities: ["house soiling (UTI, kidney disease, CCD, mobility, anxiety)"]
-description: "House-Training Regression in Senior Dogs: Causes and Fixes. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "House-Training Regression in Senior Dogs: Causes and Fixes. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

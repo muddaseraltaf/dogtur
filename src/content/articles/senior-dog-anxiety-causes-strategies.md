@@ -14,7 +14,7 @@ siblings: ["best-calming-supplements-senior-dogs", "senior-dog-pacing-at-night-s
 publishQueue: null
 originalElement: "Strategy matrix by trigger type (separation, noise, CCD-related)."
 entities: ["anxiety triggers (separation, noise, cognitive decline)", "strategies (routine, enrichment, vet-prescribed options)"]
-description: "Senior Dog Anxiety: Causes and Vet-Approved Calming Strategies. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Senior Dog Anxiety: Causes and Vet-Approved Calming Strategies. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

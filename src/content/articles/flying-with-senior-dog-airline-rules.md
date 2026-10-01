@@ -14,7 +14,7 @@ siblings: ["traveling-with-senior-dog-tips"]
 publishQueue: null
 originalElement: "Airline-policy comparison table (dated — verify at publish); vet-clearance checklist."
 entities: ["airline policy (age limits, cargo vs cabin)", "vet clearance (health certificate)"]
-description: "Flying With a Senior Dog: Airline Rules and Vet Clearance. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Flying With a Senior Dog: Airline Rules and Vet Clearance. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

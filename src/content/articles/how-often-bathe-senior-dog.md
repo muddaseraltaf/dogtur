@@ -14,7 +14,7 @@ siblings: ["best-shampoos-senior-dogs-sensitive-skin", "best-brushes-senior-dogs
 publishQueue: null
 originalElement: "Bathing-frequency table by coat/skin condition."
 entities: ["bathing frequency (coat type, skin condition)", "drying (senior chill risk)"]
-description: "How Often Should You Bathe a Senior Dog?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How Often Should You Bathe a Senior Dog?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

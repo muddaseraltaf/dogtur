@@ -14,7 +14,7 @@ siblings: ["how-to-exercise-senior-dog-safely", "traveling-with-senior-dog-tips"
 publishQueue: null
 originalElement: "Original owner-survey highlights embedded; compassionate tone guide for the section."
 entities: ["senior lifestyle (exercise, travel, routine)", "end-of-life (quality-of-life scale, hospice, grief)"]
-description: "Living With a Senior Dog: Lifestyle, Travel & Saying Goodbye. The complete, experience-first hub for senior dog parents from Dog Tur."
+description: "Living With a Senior Dog: Lifestyle, Travel & Saying Goodbye. The complete, experience-first hub for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

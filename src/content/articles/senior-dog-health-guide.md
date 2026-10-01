@@ -12,7 +12,7 @@ macroContext: "The complete health picture of the senior dog: aging vs illness, 
 hub: "senior-dog-health-guide"
 siblings: ["what-age-is-a-senior-dog", "senior-dog-nutrition-guide", "senior-dog-mobility-guide"]
 publishQueue: 1
-originalElement: "Dog Tur seniority data table (size class x approximate senior onset, sourced to AAHA/AVMA guidance); normal-aging vs warning-sign comparison tables; AAHA 2023 diagnostic-frequency table; HHHHHMM quality-of-life scale summary. Vet fact-check with named reviewer still pending — noted in the article."
+originalElement: "Dogtur seniority data table (size class x approximate senior onset, sourced to AAHA/AVMA guidance); normal-aging vs warning-sign comparison tables; AAHA 2023 diagnostic-frequency table; HHHHHMM quality-of-life scale summary. Vet fact-check with named reviewer still pending — noted in the article."
 entities: ["senior dog (age threshold, size class, life stage)", "osteoarthritis (prevalence, symptoms, management)", "chronic kidney disease (early signs, staging)", "canine cognitive dysfunction (DISHA signs, prevalence)", "periodontal disease (prevalence, anesthesia considerations)", "hypothyroidism (weight gain, lethargy)", "diabetes mellitus (excessive thirst, urination)", "cancer (lumps, screening)", "obesity (body condition, modifiable risk factor)", "heart disease (murmurs, screening)", "liver disease (senior screening)", "hypertension (blood pressure screening)", "senior wellness diagnostics (CBC, chemistry panel, urinalysis, blood pressure, imaging)", "vaccination (senior schedule, lifestyle-based)", "quality of life (HHHHHMM scale, hospice)"]
 description: "The complete senior dog health guide: normal aging vs illness, common conditions, vet visit schedules, bloodwork, home care, and quality-of-life planning."
 minutes: 14
@@ -22,7 +22,7 @@ heroAlt: "Veterinarian examining a dog with a stethoscope"
 
 A gray muzzle is not a diagnosis. Dogs age at wildly different speeds — a Great Dane can be a senior at six while a Chihuahua is barely middle-aged at eight — and most of what goes wrong in the golden years is manageable if it's caught early.
 
-This guide is the hub for everything Dog Tur covers about senior dog health: when a dog becomes senior, how to tell normal aging from illness, the conditions that show up most often, how frequently to see the vet and what the screenings involve, what to track at home, how vaccinations and dental care shift with age, and how to plan for the final chapter. We are not veterinarians — we are an independent senior-dog guide that defers to them — and every health claim here is sourced from veterinary organizations and literature (AAHA, VCA Hospitals, the MSD Veterinary Manual, peer-reviewed studies).
+This guide is the hub for everything Dogtur covers about senior dog health: when a dog becomes senior, how to tell normal aging from illness, the conditions that show up most often, how frequently to see the vet and what the screenings involve, what to track at home, how vaccinations and dental care shift with age, and how to plan for the final chapter. We are not veterinarians — we are an independent senior-dog guide that defers to them — and every health claim here is sourced from veterinary organizations and literature (AAHA, VCA Hospitals, the MSD Veterinary Manual, peer-reviewed studies).
 
 ## What is a senior dog?
 
@@ -56,7 +56,7 @@ The honest trap is that "slowing down" is exactly how owners describe both arthr
 | Thinner, duller coat | Foul breath, drooling, or refusing hard food |
 | Needing a ramp for the car | New lumps, sores that don't heal, or a swelling belly |
 
-If your dog seems to be hurting but you can't quite name how, our guide on [how to tell if your senior dog is in pain](/senior-dog-health/how-to-tell-senior-dog-in-pain/) walks through the subtle signs — the lip licks, the weight shifts, the reluctance that owners so often file under "just old."
+If your dog seems to be hurting but you can't quite name how, our guide on [how to tell if your senior dog is in pain](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/) walks through the subtle signs — the lip licks, the weight shifts, the reluctance that owners so often file under "just old."
 
 ## What are the most common health problems in senior dogs?
 
@@ -113,7 +113,7 @@ Between visits, you are the monitoring system. The checks that catch the most tr
 - **Weight.** Weigh on the same scale at least every two months — VCA's guidance — or monthly. Bathroom scale, dog in arms, subtract. Weight changes can be the earliest indicator of disease, in either direction.
 - **Water intake.** Track it loosely, because increased drinking flags diabetes and kidney and liver disease. VCA gives a useful ceiling: normal daily intake should be significantly less than 100 mL per kg of body weight per day — roughly 1.5 cups for a 10-pound dog. Keep water bowls on every floor of the house so access is never the limiting factor.
 - **Appetite and digestion.** Note significant increases or decreases in appetite, repeated vomiting, or diarrhea lasting more than a few days.
-- **Mobility.** How the dog rises, handles stairs, and moves on walks. Subtle changes here are often the first sign of arthritis pain — our [pain-signs guide](/senior-dog-health/how-to-tell-senior-dog-in-pain/) helps you read them.
+- **Mobility.** How the dog rises, handles stairs, and moves on walks. Subtle changes here are often the first sign of arthritis pain — our [pain-signs guide](/senior-dog-mobility/how-to-tell-senior-dog-in-pain/) helps you read them.
 - **Lumps and skin.** Run your hands over the whole dog monthly. New masses, open sores, or scabs that don't heal get a vet visit, not a watch-and-wait quarter.
 - **Behavior.** Sleep, sociability, house-training, and nighttime restlessness. Cognitive and pain changes show up in behavior before they show up anywhere else — our [behavior changes guide](/senior-dog-behavior/senior-dog-behavior-changes-guide/) maps the territory.
 

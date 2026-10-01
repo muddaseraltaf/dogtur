@@ -14,7 +14,7 @@ siblings: ["senior-dog-mobility-guide", "best-dog-strollers-senior-dogs", "senio
 publishQueue: null
 originalElement: "Exercise-by-age/ability chart; \"stop signals\" checklist."
 entities: ["exercise types (walks, swimming, play)", "stop signals (panting, lagging, stiffness)"]
-description: "How to Exercise a Senior Dog Safely. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Exercise a Senior Dog Safely. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

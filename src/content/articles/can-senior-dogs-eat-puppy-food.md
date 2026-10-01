@@ -14,7 +14,7 @@ siblings: ["senior-vs-adult-dog-food", "best-dog-food-senior-dogs"]
 publishQueue: null
 originalElement: "Nutrient contrast table (puppy vs senior)."
 entities: ["puppy formula (high protein/fat, calcium)", "senior needs (moderate protein, joint support)"]
-description: "Can Senior Dogs Eat Puppy Food?. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Can Senior Dogs Eat Puppy Food?. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["quality-of-life-scale-dogs-hhhhhmm", "pet-hospice-palliative-care-do
 publishQueue: null
 originalElement: "Vet + grief-counselor quotes; decision-process framing; NO prescriptive directives."
 entities: ["end-of-life decision (process, family, vet role)", "grief (anticipatory)"]
-description: "When Is It Time to Say Goodbye? End-of-Life Decisions. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "When Is It Time to Say Goodbye? End-of-Life Decisions. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

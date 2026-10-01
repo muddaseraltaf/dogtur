@@ -14,7 +14,7 @@ siblings: ["flying-with-senior-dog-airline-rules", "best-dog-strollers-senior-do
 publishQueue: null
 originalElement: "Packing checklist (printable); senior-specific travel tips from experience."
 entities: ["car travel (rest stops, ramps)", "hotels (ground floor, pet policy)", "routine (meds, feeding)"]
-description: "Traveling With a Senior Dog: Car, Plane, and Hotel Tips. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Traveling With a Senior Dog: Car, Plane, and Hotel Tips. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

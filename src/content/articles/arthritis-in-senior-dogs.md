@@ -14,7 +14,7 @@ siblings: ["how-to-tell-senior-dog-in-pain", "senior-dog-mobility-guide", "best-
 publishQueue: null
 originalElement: "Symptom photo guide; vet-deference framing throughout (diagnosis and prescriptions are vet territory)."
 entities: ["osteoarthritis (symptoms, radiographic diagnosis)", "management classes (weight, exercise, NSAIDs-vet-only, adjuncts)"]
-description: "Arthritis in Senior Dogs: Symptoms, Diagnosis, and Treatment Options. Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "Arthritis in Senior Dogs: Symptoms, Diagnosis, and Treatment Options. Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable

@@ -14,7 +14,7 @@ siblings: ["how-much-feed-senior-dog", "best-senior-dog-food-sensitive-stomachs"
 publishQueue: null
 originalElement: "7-day transition plan graphic (printable)."
 entities: ["diet transition (gradual mix ratios)", "GI upset (prevention)"]
-description: "How to Switch Your Senior Dog to a New Food (7-Day Transition Plan). Plain-language, experience-first guidance for senior dog parents from Dog Tur."
+description: "How to Switch Your Senior Dog to a New Food (7-Day Transition Plan). Plain-language, experience-first guidance for senior dog parents from Dogtur."
 ---
 
 > **CONTENT BRIEF — status: planned.** Writer's brief, not a publishable
