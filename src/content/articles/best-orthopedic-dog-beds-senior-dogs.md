@@ -105,7 +105,7 @@ What separates Big Barker from every other bed on this list is the research. In 
 **Worth a closer look if:** you have a large or giant senior and want the thickest foam, the longest track record, and the only bed with published clinical data behind it. Premium priced (around $240 for the Original).
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg" alt="Big Barker Original — the studied heavyweight" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -118,7 +118,7 @@ This is the bed the professional testers kept coming back to. In Wirecutter's do
 **Worth a closer look if:** you want the most expert-validated mid-range option — proper foam, a liner, a washable cover, and easy senior access — without the premium price.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61M7gtoFuuL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61M7gtoFuuL._AC_SX679_.jpg" alt="PetFusion Ultimate — the expert-tested all-rounder" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -135,7 +135,7 @@ Bedsure's orthopedic bed is the mass-market answer: high-density egg-crate foam,
 **Worth a closer look if:** you want the most owner-validated budget-mid option, or a second bed for another room.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71H2ALDagcL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71H2ALDagcL._AC_SX679_.jpg" alt="Bedsure Orthopedic — the people&#x27;s choice" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -148,7 +148,7 @@ The caveat is the range. FurHaven sells everything from faux-fur memory-foam mat
 **Worth a closer look if:** budget is the constraint, or you need a smaller size the premium brands ignore — but verify the exact model's foam specs.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61i7aWVLKtL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61i7aWVLKtL._AC_SX679_.jpg" alt="FurHaven Ultra Plush Lounger — the budget pick, with a caveat" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 

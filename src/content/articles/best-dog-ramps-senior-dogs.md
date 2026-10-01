@@ -103,7 +103,7 @@ At 72" long, this is the longest mainstream car ramp, which means the gentlest s
 **Worth a closer look if:** your dog is nervous, heavy, or very arthritic, and you can spare the trunk space. The gentle incline is worth the bulk.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4z8cSbk" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81jnZyGaVPL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4z8cSbk" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81jnZyGaVPL._AC_SX679_.jpg" alt="Gen7Pets Natural-Step Ramp 72&quot; — the gentle incline" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4z8cSbk" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -114,7 +114,7 @@ The standard Happy Ride is the ramp most people picture: 62" long, 16" wide, pla
 **Worth a closer look if:** you need a light, affordable car ramp for a small-to-large (not giant) senior, and you're willing to pad the surface.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4ykHeHv" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61jJ0Mw2neL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4ykHeHv" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61jJ0Mw2neL._AC_SX679_.jpg" alt="PetSafe Happy Ride Folding Dog Ramp — the affordable all-rounder, with a caveat" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4ykHeHv" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -125,7 +125,7 @@ This aluminum ramp telescopes from 28" out to 70" (an extra-long version reaches
 **Worth a closer look if:** you drive a truck or tall SUV, need the highest weight capacity, or want the most compact storage.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4ywx2vW" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/713Enlm2lDL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4ywx2vW" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/713Enlm2lDL._AC_SX679_.jpg" alt="PetSafe Happy Ride Telescoping Ramp — for tall vehicles and tight storage" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4ywx2vW" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -142,7 +142,7 @@ A wooden-framed ramp with a carpeted surface designed to sit permanently against
 **Worth a closer look if:** you want a permanent indoor ramp that doesn't look like garage equipment.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4yICwUt" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61ZGuJRfp6L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4yICwUt" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61ZGuJRfp6L._AC_SX679_.jpg" alt="PetSafe CozyUp Bed Ramp — the furniture-look option" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4yICwUt" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 

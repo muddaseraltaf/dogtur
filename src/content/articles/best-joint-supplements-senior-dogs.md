@@ -115,7 +115,7 @@ Owner data backs the clinic reputation: across ~21,600 verified Chewy ratings of
 **Worth a closer look if:** your vet has already suggested a joint supplement and you want the brand most clinics reach for first. Note the soy component in ASU if your dog has a soy sensitivity.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4hnVKs5" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61qaIflpy3L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4hnVKs5" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61qaIflpy3L._AC_SX679_.jpg" alt="Nutramax Dasuquin with ASU / with MSM — the vet-clinic standard" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4hnVKs5" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -126,7 +126,7 @@ Cosequin is the older, more widely retailed of Nutramax's two flagship joint pro
 **Worth a closer look if:** you want the longest-established, most affordable entry point with published research behind the formula.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4houcD3" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71FSaprWLyL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4houcD3" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71FSaprWLyL._AC_SX679_.jpg" alt="Nutramax Cosequin DS + MSM — the established baseline" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4houcD3" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -137,7 +137,7 @@ Nutramax's senior-specific Dasuquin tweaks the standard line for older dogs, add
 **Worth a closer look if:** your senior is already on Dasuquin and your vet suggests the age-targeted variant.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4iYaGyo" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71Arvn6Oi3L._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4iYaGyo" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71Arvn6Oi3L._AC_SX679_.jpg" alt="Nutramax Dasuquin for Senior Dogs — the age-targeted variant" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4iYaGyo" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -154,7 +154,7 @@ Flexadin takes a different path: UC-II undenatured collagen, which works through
 **Worth a closer look if:** standard glucosamine products haven't seemed to help, and you want to discuss a different mechanism with your vet.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/4jrZBFW" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61B+i0h49nL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/4jrZBFW" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61B+i0h49nL._AC_SX679_.jpg" alt="Vetoquinol Flexadin Advanced with UC-II — the different mechanism" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jrZBFW" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -165,7 +165,7 @@ PetLab Co.'s chews center on green-lipped mussel (the ingredient with the best p
 **Worth a closer look if:** you prefer a soft-chew format and want green-lipped mussel as the lead ingredient.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/47ppsHk" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71mbDGSnHYL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/47ppsHk" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71mbDGSnHYL._AC_SX679_.jpg" alt="PetLab Co. Joint Care Chews — the popular newcomer" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/47ppsHk" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
@@ -176,7 +176,7 @@ Zesty Paws combines glucosamine, chondroitin, MSM, and turmeric in a soft chew s
 **Worth a closer look if:** you want an easy-to-find, reasonably priced chew to trial under vet guidance.
 
 <div class="product-cta">
-  <a class="product-cta-img" href="https://amzn.to/47rVMcx" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/815gzDZs-nL._AC_SX679_.jpg" alt="Worth a closer look if:" width="120" height="120" loading="lazy" /></a>
+  <a class="product-cta-img" href="https://amzn.to/47rVMcx" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/815gzDZs-nL._AC_SX679_.jpg" alt="Zesty Paws Mobility Bites — the widely available option" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/47rVMcx" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
