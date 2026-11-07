@@ -9,3 +9,42 @@
 /best-dog-beds-for-golden-retrievers/ /senior-dog-gear/best-dog-beds-for-golden-retrievers/ 301
 /dog-proof-trash-cans/ /senior-dog-gear/dog-proof-trash-cans/ 301
 /best-waterproof-dog-collars/ /senior-dog-gear/best-waterproof-dog-collars/ 301
+
+# Legacy WordPress URLs with no 1:1 replacement -> closest live page (301). Added 2026-11-07
+# from the Search Console "Not found (404)" report and old pages that still had impressions.
+/about-us/ /about/ 301
+/team/ /about/ 301
+/contact-us/ /contact/ 301
+/category/best/ /recommended-products/ 301
+/category/best/page/2/ /recommended-products/ 301
+/category/best/page/3/ /recommended-products/ 301
+/category/best/page/4/ /recommended-products/ 301
+/category/guide/ / 301
+/best-dog-food-for-great-danes/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-food-for-french-bulldogs/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-food-for-french-bulldogs/feed/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-food-for-maltese/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-food-for-chihuahua/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-food-for-australian-shepherds/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-foods-for-doberman/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-foods-for-rottweiler-puppy/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-foods-for-schnauzers/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-foods-for-schnauzers/feed/ /senior-dog-nutrition/best-dog-food-senior-dogs/ 301
+/best-dog-foods-for-acid-reflux/ /senior-dog-nutrition/senior-dog-nutrition-guide/ 301
+/best-dog-foods-for-ear-infection/ /senior-dog-nutrition/best-dog-food-for-allergies-and-yeast-infection/ 301
+/how-to-cook-beef-liver-for-dogs/ /senior-dog-nutrition/senior-dog-nutrition-guide/ 301
+/best-brush-for-golden-retriever/ /senior-dog-grooming/ 301
+/best-dog-brush-for-short-hair/ /senior-dog-grooming/ 301
+/best-puppy-shampoo/ /senior-dog-grooming/ 301
+/how-often-should-you-wash-your-dog/ /senior-dog-grooming/ 301
+/do-pomeranians-shed/ /senior-dog-grooming/ 301
+/dog-with-cushings-disease/ /senior-dog-health/senior-dog-health-guide/ 301
+/my-dogs-stomach-making-noises/ /senior-dog-health/senior-dog-health-guide/ 301
+/how-much-chocolate-can-a-dog-eat/ /senior-dog-health/senior-dog-health-guide/ 301
+/how-much-chocolate-can-kill-a-dog/ /senior-dog-health/senior-dog-health-guide/ 301
+/why-does-my-dog-lick-my-feet/ /senior-dog-behavior/senior-dog-behavior-changes-guide/ 301
+/how-to-teach-a-dog-to-shake/ /senior-dog-behavior/ 301
+/best-kayak-for-dogs/ /senior-dog-gear/ 301
+/best-kayak-for-dogs/feed/ /senior-dog-gear/ 301
+/best-dog-umbrella/ /senior-dog-gear/ 301
+/which-breed-of-dog-does-the-us-secret-service-exclusively-use/ / 301
