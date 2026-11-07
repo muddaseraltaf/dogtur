@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog ramp / dog ramp for car / bed / couch"
 macroContext: "A dog ramp buying guide rebuilt with gap analysis: Chewy review-mining of 2,600+ verified ramp ratings, the sandpaper-surface problem, entry-height incline geometry, and use-case buying (car/SUV/truck, bed, couch). Honest research framing — no fabricated testing."
 hub: "essential-products-senior-dogs"

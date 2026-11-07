@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best waterproof dog collar / waterproof collar for dogs that swim"
 macroContext: "Choosing a waterproof, odor-proof collar — coated-webbing materials, hardware, fit, visibility, and senior-dog considerations."
 hub: "essential-products-senior-dogs"
@@ -114,6 +115,8 @@ Yes — that's their best use case for most owners. Rainy walks, muddy hikes, dr
 ### Should I still use a harness too?
 
 For many dogs, yes — a collar holds ID tags and is fine for calm leash walking, but a harness is better for pullers, tie-outs, and any dog with neck or trachea sensitivity. The collar and harness aren't competitors; they do different jobs.
+
+Pair a clean collar with a simple coat routine: see the [best dog brush for short hair](/senior-dog-grooming/best-dog-brush-for-short-hair/).
 
 ## The bottom line
 

@@ -1,5 +1,5 @@
 ---
-title: "Best Dog Food for Yorkies"
+title: "Best Dog Food for Yorkies (Yorkshire Terriers)"
 slug: "best-dog-food-for-yorkies"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for yorkies / yorkshire terrier food"
 macroContext: "Nutritional needs of Yorkshire Terriers — small kibble, dental support, coat health, picky appetites — plus senior-Yorkie feeding shifts like softer textures and calorie control."
 hub: "senior-dog-nutrition-guide"
@@ -154,6 +155,8 @@ Small dogs fed infrequently sometimes vomit bile on an empty stomach. A small la
 ### What if my Yorkie refuses every food I try?
 
 First, rule out dental pain or illness with your vet — sudden pickiness is a symptom until proven otherwise. Then try a highly palatable small-breed formula, warm it slightly to release aroma, keep mealtimes consistent, and resist rotating toppers, which trains pickiness. Persistent refusal in a toy breed warrants a prompt vet visit, since missed meals carry more risk at this size.
+
+Feeding another toy breed? Our [Maltese food guide](/senior-dog-nutrition/best-dog-food-for-maltese/) covers tear staining, tiny kibble and senior Maltese needs.
 
 ## The bottom line
 

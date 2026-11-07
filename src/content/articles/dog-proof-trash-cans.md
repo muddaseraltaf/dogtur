@@ -1,5 +1,5 @@
 ---
-title: "Best Dog-Proof Trash Cans for Kitchen Raiders"
+title: "Best Dog-Proof Trash Cans & Pet-Proof Garbage Cans"
 slug: "dog-proof-trash-cans"
 section: s6
 sectionName: "Senior Dog Gear & Products"
@@ -7,13 +7,14 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog proof trash can / dog proof garbage can kitchen"
 macroContext: "Keeping dogs out of household trash with locking-lid cans, odor control, and training — plus trash toxicity safety and senior-dog considerations."
 hub: "essential-products-senior-dogs"
 siblings: ["best-orthopedic-dog-beds-senior-dogs", "best-dog-ramps-senior-dogs", "best-waterproof-dog-collars", "senior-dog-behavior-changes-guide", "best-dog-food-senior-dogs"]
 publishQueue: null
 entities: ["locking-lid trash can (slide lock, pedal lock, PetGuard sensor lock)", "stainless steel vs plastic (tip resistance, denting, lid detachment)", "odor control (carbon filter, AbsorbX, tight seal)", "counter-surfing and scavenging behavior (leave it, place, management)", "trash toxicity (chocolate, xylitol/birch sugar, grapes, onions, cooked bones)", "senior dogs (cognitive decline, new scavenging)", "pull-out cabinet bin (architectural dog-proofing)", "dogs that learn to press pedals"]
-description: "Locking-lid trash cans that stop kitchen raids — compared with owner reviews, vet safety guidance on trash toxicity, and training that finishes the job."
+description: "Dog-proof and pet-proof trash cans with locking lids that stop kitchen raids, compared on lid style, size and owner reviews, plus vet advice on trash toxins."
 minutes: 11
 hero: "/images/dog-proof-trash-cans.jpg"
 heroAlt: "Dog watching hopefully while its owner eats in a sunlit kitchen"

@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for less poop / dog food for firm stools"
 macroContext: "How food digestibility, fiber type, and feeding practices shape stool volume and firmness in dogs — especially senior dogs."
 hub: "senior-dog-nutrition-guide"

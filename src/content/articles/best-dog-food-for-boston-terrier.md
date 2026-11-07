@@ -1,5 +1,5 @@
 ---
-title: "Best Dog Food for Boston Terriers"
+title: "Best Dog Food for Boston Terriers With Gas"
 slug: "best-dog-food-for-boston-terrier"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for boston terrier / boston terrier sensitive stomach gas"
 macroContext: "Breed-specific nutrition for Boston Terriers as brachycephalic dogs: swallowed-air flatulence, ingredient-level gas triggers, kibble size for short jaws and crowded teeth, allergy predisposition, weight control, and how those needs shift as the dog ages."
 hub: "senior-dog-nutrition-guide"

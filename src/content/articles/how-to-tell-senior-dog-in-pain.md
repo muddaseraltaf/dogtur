@@ -7,6 +7,7 @@ type: informational
 intent: "Informational"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "how to tell if your dog is in pain / signs of pain in senior dogs"
 macroContext: "Reading the senior dog's pain signals — the high-emotion pre-vet-visit query: the full checklist, pain vs. aging, acute vs. chronic pain, validated pain scales, and what to do next."
 hub: "senior-dog-mobility-guide"

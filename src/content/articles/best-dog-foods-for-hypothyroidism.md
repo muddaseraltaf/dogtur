@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for hypothyroidism / diet for dogs with thyroid problems"
 macroContext: "How nutrition supports — but never replaces — lifelong levothyroxine treatment of canine hypothyroidism; weight management is the primary dietary job."
 hub: "senior-dog-nutrition-guide"
@@ -146,6 +147,8 @@ Possibly portions and treats have drifted, but check with your vet first: persis
 ### Is hypothyroidism curable?
 
 It's manageable, not curable — most dogs take daily thyroid hormone for life and do very well on it. With accurate diagnosis and monitoring, [Cornell](https://vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/hypothyroidism) gives it a good prognosis.
+
+Hypothyroidism and Cushing's disease can look alike in older dogs (weight gain, coat changes). See [Cushing's disease in senior dogs](/senior-dog-health/cushings-disease-in-senior-dogs/) for how vets tell them apart.
 
 ## The bottom line
 

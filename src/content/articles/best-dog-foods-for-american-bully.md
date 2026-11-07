@@ -1,5 +1,5 @@
 ---
-title: "Best Dog Foods for American Bully"
+title: "Best Dog Food for American Bully Dogs"
 slug: "best-dog-foods-for-american-bully"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for american bully / american bully diet"
 macroContext: "American Bully breed-type nutrition: protein targets for muscle maintenance, calorie control for a heavy frame, skin/allergy and joint considerations, and how feeding shifts as large-breed Bullies age into senior years."
 hub: "senior-dog-nutrition-guide"

@@ -7,6 +7,7 @@ type: pillar
 intent: "Informational"
 flags: ["pillar"]
 status: published
+published: 2026-09-30
 targetQuery: "senior dog mobility / old dog joint pain help"
 macroContext: "The senior dog's mobility picture: why movement declines, how arthritis is diagnosed and treated, every at-home relief avenue honestly graded, and when to call the vet."
 hub: "senior-dog-mobility-guide"

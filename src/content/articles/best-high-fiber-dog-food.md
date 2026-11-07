@@ -7,13 +7,14 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best high fiber dog food / high fiber dog food for anal glands"
 macroContext: "What dietary fiber does for dogs, how to read crude-fiber labels and compare foods on a dry-matter basis, when high fiber helps versus when it's the wrong call, and which foods and supplements deliver fiber well."
 hub: "senior-dog-nutrition-guide"
 siblings: ["best-dog-food-for-less-poop", "best-dog-food-senior-dogs", "best-dog-foods-for-hypothyroidism", "senior-dog-nutrition-guide"]
 publishQueue: null
 entities: ["dietary fiber (soluble, insoluble)", "crude fiber (guaranteed analysis maximum)", "total dietary fiber (TDF)", "dry matter basis conversion", "anal glands (stool bulk support)", "prebiotics (FOS, inulin, beet pulp)", "psyllium husk", "satiety (weight management)", "fermentability (SCFA production)"]
-description: "How fiber supports anal glands, weight, and digestion, how to read crude-fiber labels honestly, and which high-fiber foods and supplements are worth trying."
+description: "The best fiber for dogs and the best high-fiber dog food for anal gland problems, weight and digestion, with honest label reading and supplement options."
 minutes: 10
 hero: "/images/best-high-fiber-dog-food.jpg"
 heroAlt: "Brown dog eating kibble from a white bowl"

@@ -7,6 +7,7 @@ type: pillar
 intent: "Informational"
 flags: ["pillar"]
 status: published
+published: 2026-09-30
 targetQuery: "senior dog health / senior dog care guide"
 macroContext: "The complete health picture of the senior dog: aging vs illness, common conditions, the AAHA senior-screening rhythm (exams, bloodwork, blood pressure, imaging), at-home monitoring, vaccinations, dental and grooming care, and end-of-life quality-of-life planning."
 hub: "senior-dog-health-guide"
@@ -167,6 +168,8 @@ Call promptly — same day, not next month — for any of these: difficulty brea
 Only a veterinarian can diagnose your dog. Our job is to help you notice sooner and describe what you see precisely — "drinking roughly twice as much for two weeks" gets a better workup than "acting weird."
 
 > **A note on review:** This guide is written from veterinary literature (AAHA, VCA Hospitals, the MSD Veterinary Manual, peer-reviewed studies) and follows our [editorial policy](/editorial-policy/). It has not yet been independently reviewed by a veterinarian — we'll add a named reviewer byline when that step is complete.
+
+If your older dog is drinking and peeing more, eating ravenously and getting a pot belly, read [Cushing's disease in senior dogs](/senior-dog-health/cushings-disease-in-senior-dogs/) before assuming it is just age.
 
 ## Frequently asked questions
 

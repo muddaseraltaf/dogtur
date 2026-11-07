@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for allergies and yeast infection / dog food for itchy skin yeast"
 macroContext: "Most ranking articles on this topic blur three different problems — true food allergy, food intolerance, and secondary Malassezia yeast — and jump straight to product picks. This rewrite leads with veterinary dermatology (VCA, MSD Vet Manual, WAVD consensus): true food allergies are uncommon, environmental allergies are the likelier culprit, and yeast overgrowth is secondary and diagnosed by cytology, not by kibble choice. Elimination-trial protocol, novel vs hydrolyzed protein, the grain-free/DCM caveat, and honest label/spec comparison with quantitative Chewy review-mining. No hands-on feeding trials yet."
 hub: "senior-dog-nutrition-guide"

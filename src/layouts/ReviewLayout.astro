@@ -34,6 +34,8 @@ const reviewLd = {
   },
   mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE}/${d.sectionSlug}/${d.slug}/` },
   inLanguage: 'en',
+  ...(d.published && { datePublished: d.published.toISOString().slice(0, 10) }),
+  ...(d.updated && { dateModified: d.updated.toISOString().slice(0, 10) }),
 };
 
 const crumbLd = {
@@ -79,6 +81,9 @@ const crumbLd = {
           <strong>Dogtur editorial team</strong>
           <small>Research-based reviews · <a href="/methodology/">Our methodology</a> ·
           <a href="/editorial-policy/">Editorial policy</a></small>
+          {d.updated && (
+            <small class="updated">Updated <time datetime={d.updated.toISOString().slice(0, 10)}>{d.updated.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</time></small>
+          )}
         </div>
       </div>
 

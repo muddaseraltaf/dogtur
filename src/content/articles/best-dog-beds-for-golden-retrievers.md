@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog bed for golden retriever / golden retriever bed large"
 macroContext: "A breed-specific bed buying guide for Golden Retrievers: why the breed's size, joint risk, heat, and shedding change bed choice; sizing; spec-based brand comparisons; review-mined owner signals; and life-stage matching from puppy to senior."
 hub: "essential-products-senior-dogs"

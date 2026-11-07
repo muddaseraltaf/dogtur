@@ -7,6 +7,7 @@ type: pillar
 intent: "Informational"
 flags: ["pillar"]
 status: published
+published: 2026-09-30
 targetQuery: "senior dog nutrition / what to feed an aging dog"
 macroContext: "How aging changes a dog's nutritional needs — energy, protein, digestion, senses — which nutrients have real evidence behind them, how to compare labels per 1,000 kcal and behind the bag, and when diet stops being a shopping decision and becomes vet territory."
 hub: "senior-dog-nutrition-guide"

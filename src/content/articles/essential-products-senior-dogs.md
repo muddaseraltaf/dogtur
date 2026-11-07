@@ -7,6 +7,7 @@ type: pillar
 intent: "Commercial investigation"
 flags: ["pillar"]
 status: published
+published: 2026-09-30
 targetQuery: "products for senior dogs / essential senior dog products"
 macroContext: "The senior-dog product index hub: every product category organized by the problem it solves — sleep, traction, mobility, feeding, safety, enrichment, comfort — with honest worth-it verdicts built on vet guidance, published research, and mined owner-review data. Category guidance only; individual product reviews publish separately."
 hub: "essential-products-senior-dogs"
@@ -170,6 +171,8 @@ And the free interventions that outperform most purchases: keeping the dog lean,
 - **Owner-review data mined from public sources** — explicitly *not* our testing: Amazon aggregates for a leading orthopedic bed line (97,000+ ratings, via iHeartDogs), a ~19,600-review cross-platform aggregation (via TrueScore Reviews), and ~1,100 customer reviews plus a hands-on magazine test for a support harness.
 
 We run no affiliate programs: no product links, no commissions, no paid placements.
+
+For coat and skin care, start with the [senior dog grooming routine](/senior-dog-grooming/senior-dog-grooming-daily-care-guide/) and our guide to the [best brush for short-haired dogs](/senior-dog-grooming/best-dog-brush-for-short-hair/).
 
 ## Frequently asked questions
 

@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best dog food for senior dogs"
 macroContext: "A senior-dog food buying guide rebuilt with gap analysis: label-based comparison, review-mining of 4,600+ verified Chewy owner ratings, and cited peer-reviewed nutrition studies (protein targets, phosphorus/sodium variation, MCT brain research). Honest research framing — no fabricated testing."
 hub: "senior-dog-nutrition-guide"

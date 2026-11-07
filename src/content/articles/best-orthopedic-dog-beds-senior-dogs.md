@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best orthopedic dog bed / best dog bed for arthritis"
 macroContext: "An evidence-led orthopedic bed buying guide for senior dogs: what 'orthopedic' really means, foam density vs. thickness, entry height and bolster shape, spec-based brand comparisons, review-mined owner signals, and attributed test findings from Wirecutter and a University of Pennsylvania pilot study."
 hub: "essential-products-senior-dogs"

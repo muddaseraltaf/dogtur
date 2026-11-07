@@ -7,6 +7,7 @@ type: pillar
 intent: "Informational"
 flags: ["pillar"]
 status: published
+published: 2026-09-30
 targetQuery: "senior dog behavior changes / old dog behavior problems"
 macroContext: "The senior dog's changing mind and habits: normal aging vs warning signs, how to support them, and the new 2026 veterinary screening guidance for cognitive decline."
 hub: "senior-dog-behavior-changes-guide"

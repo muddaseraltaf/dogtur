@@ -52,6 +52,10 @@ const articles = defineCollection({
     hero: z.string().optional(),
     /** Alt text for the hero image */
     heroAlt: z.string().optional(),
+    /** First publish date (YYYY-MM-DD) — Article schema datePublished */
+    published: z.coerce.date().optional(),
+    /** Last meaningful content update (YYYY-MM-DD) — shown on page + dateModified */
+    updated: z.coerce.date().optional(),
   })
   // Derive the URL section slug from the section id (s1..s7)
   .transform((data) => ({

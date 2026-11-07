@@ -7,6 +7,7 @@ type: informational
 intent: "Informational"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "dog dementia symptoms / canine cognitive dysfunction signs"
 macroContext: "Recognizing CCD in the senior dog: the DISHA framework, the new 2026 diagnostic and monitoring guidelines, diagnosis, treatment by evidence level, and home care."
 hub: "senior-dog-behavior-changes-guide"

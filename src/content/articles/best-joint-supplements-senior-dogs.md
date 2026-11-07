@@ -7,6 +7,7 @@ type: comparison
 intent: "Commercial investigation"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "best joint supplement for senior dogs / best glucosamine for dogs"
 macroContext: "A joint-supplement buying guide rebuilt with gap analysis: per-ingredient evidence grading (Petful/AAHA/2022 systematic review), Chewy review-mining of 30,000+ Dasuquin ratings, label-literacy guidance, and a decision path for whether a supplement is even warranted. Honest research framing — no dosages, no fabricated testing."
 hub: "senior-dog-mobility-guide"

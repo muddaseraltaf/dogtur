@@ -7,6 +7,7 @@ type: informational
 intent: "Informational"
 flags: []
 status: published
+published: 2026-09-30
 targetQuery: "what age is a dog considered senior / when is a dog a senior"
 macroContext: "The entity definition of the central entity: when a dog becomes \"senior\" by size class, within AAHA's full life-stage framework (puppy, young adult, mature adult, senior, end of life) — plus the dog-years myth, the AAFCO regulatory nuance, and what changes once a dog qualifies."
 hub: "senior-dog-health-guide"
@@ -142,6 +143,8 @@ Beyond weight, the evidence-backed longevity habits are unglamorous too:
 What about supplements, special diets, or "longevity" products marketed for aging dogs? The evidence ranges from thin to nonexistent, and some (excessive fat-soluble vitamins, unregulated herbal blends) carry real risks. Spend the money on weight control, dental care, and vet visits — the boring interventions with actual data behind them.
 
 > **A note on review:** This article is written from veterinary literature (AAHA, AVMA, AAFCO, the MSD Veterinary Manual) and follows our [editorial policy](/editorial-policy/). It has not yet been independently reviewed by a veterinarian — we'll add a named reviewer byline when that step is complete.
+
+Some 'aging' signs are really treatable hormone problems. [Cushing's disease in senior dogs](/senior-dog-health/cushings-disease-in-senior-dogs/) explains the most common one.
 
 ## Frequently asked questions
 
