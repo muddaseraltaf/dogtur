@@ -42,13 +42,27 @@ Only page with real clicks: `/senior-dog-nutrition/best-dog-food-for-less-poop/`
 3. **No trust signals yet**: no named author, no real photos, no vet review. On pet-health and product pages this caps rankings (Google's YMYL rule).
 4. **Zero tools.** Big dog sites win links and repeat visits with calculators. Dogtur has none.
 
+## Decisions
+- 12 Nov 2026, Muddaser: **widen to all dogs** (senior care stays a flagship section). URL slugs keep `senior-dog-*` on purpose: no second URL migration; only display names changed (names live in `src/data/sections.ts`).
+
+## Muddaser must click (open items)
+1. Author name yes/no ("Written by Muddaser Altaf" + true bio + photo).
+2. Real-dog photos into `photos-inbox/`.
+3. Amazon SiteStripe short links (amzn.to) for these products, then a session wires the buttons in:
+   - French Bulldog post: Royal Canin French Bulldog Adult https://www.amazon.com/dp/B00OV5KLEA · Royal Canin French Bulldog Puppy https://www.amazon.com/dp/B0CL1BGTJP · Purina Pro Plan Sensitive Skin & Stomach Salmon & Rice https://www.amazon.com/dp/B01EY9KPZM · Hill's Science Diet Adult Sensitive Stomach & Skin https://www.amazon.com/dp/B003MW7790
+   - Chihuahua post: Royal Canin Chihuahua Adult https://www.amazon.com/dp/B00IK5SPHM · Royal Canin Chihuahua Puppy https://www.amazon.com/dp/B0074JN35Y
+   - Umbrella post: PETLESO https://www.amazon.com/dp/B0G8JRFG4P · ENJOYING https://www.amazon.com/dp/B07RGWD7XM · NAMSAN https://www.amazon.com/dp/B0H28Y7D8Z · LOVEPET https://www.amazon.com/dp/B07W116BLK
+   - Golden brush post: Coastal Safari Pin Brush https://www.amazon.com/dp/B074N7YPSB · Hertzko Slicker https://www.amazon.com/dp/B00ZGPI3OY · Mars Coat King rake https://www.amazon.com/dp/B007L8Z17Q · FURminator Large Long Hair https://www.amazon.com/dp/B0040QQ07C · Chris Christensen #504 comb https://www.amazon.com/dp/B07T6DQBVF
+   (Check each is in stock first.)
+4. Request indexing in Search Console (shared daily quota) for: /tools/dog-calorie-calculator/, the 4 new posts below, and the homepage.
+
 ## The plan (in order)
 ### Phase 1: recover what is already earned (next 2 weeks)
-1. Recreate the 4 lost pages above (umbrella, French Bulldog food, Chihuahua food, Golden Retriever brush) and repoint the old redirects.
+1. ~~Recreate the 4 lost pages and repoint the old redirects.~~ Done 12 Nov.
 2. Anal-gland/scooting post: "best dog food for anal gland issues" (fiber page's only clicks came from this angle).
 3. Senior Rottweiler food (Rottweiler queries 201 imp).
-4. Title/description refresh on pages at position 3–15 with 0 clicks (collars "scratch resistant", "rust proof"; pet-friendly trash can).
-5. Remove the 71 noindex brief pages from the build (they waste crawl; keep the .md files as drafts).
+4. ~~Title refresh on pages at position 3–15 with 0 clicks.~~ Done 12 Nov (collars, trash cans, fiber, Yorkies, Boston). Check CTR change ~10 Dec.
+5. ~~Remove noindex brief pages.~~ Already out of the build; GSC's "noindex" count is old data and will drain.
 
 ### Phase 2: trust (needs Muddaser)
 - Author: "Written by Muddaser Altaf" with a short true bio + photo. Still undecided since 7 Nov.
@@ -67,7 +81,7 @@ Free = pure code, no API. API = needs a key (key goes in Cloudflare env, never i
 
 | # | Tool | Why | Type |
 |---|---|---|---|
-| 1 | Dog food calorie & feeding calculator (weight, age, activity, kcal/cup on the bag) | Feeds every food page we rank for | Free |
+| 1 | ✅ LIVE 12 Nov: Dog food calorie & feeding calculator (weight, age, activity, kcal/cup on the bag) | Feeds every food page we rank for | Free |
 | 2 | Dog age in human years (breed-size based, not ×7) | Huge evergreen search, fits senior pillar | Free |
 | 3 | Chocolate toxicity calculator (type, amount, dog weight → risk + "call vet") | Viral, gets links; strict vet-source wording | Free |
 | 4 | Gear size finders: collar, harness, bed, crate, life jacket, boots | Direct path to affiliate links we already have | Free |
@@ -89,3 +103,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 
 ## Log
 - 12 Nov 2026: plan created from fresh GSC pull (28d + 3 months, 1,000 queries, pages, indexing). Waiting on Muddaser: niche scope decision, author yes/no, photos.
+- 12 Nov 2026 (later): widened to all dogs (nav, homepage, about, trust pages, section names, llms.txt). Shipped 4 posts on lost demand: /senior-dog-nutrition/best-dog-food-for-french-bulldogs/, /senior-dog-nutrition/best-dog-food-for-chihuahua/, /senior-dog-gear/best-dog-umbrella/, /senior-dog-grooming/best-brush-for-golden-retriever/ (old WP URLs 301 to them). Shipped /tools/ + /tools/dog-calorie-calculator/ (math in src/lib/dog-calories.mjs, `npm test`). Titles tuned to search wording. Commit 529081d. Next: tool #2 dog age calculator + post "best dog food for anal gland issues"; GSC re-check ~26 Nov.
