@@ -1,5 +1,6 @@
 ---
-// Homepage: Organization + WebSite JSON-LD; seven section cards; latest launch queue.
+// Homepage: Organization + WebSite JSON-LD; topic cards; popular guides,
+// senior-dog hub and latest updates (all built from published articles).
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { SECTIONS } from '../data/sections';
@@ -12,7 +13,7 @@ const jsonLd = [
     name: 'Dogtur',
     url: SITE,
     logo: `${SITE}/favicon.svg`,
-    description: 'Independent, research-based senior dog care guides and product reviews.',
+    description: 'Independent, research-based dog care guides and honest product reviews.',
     sameAs: [],
   },
   {
@@ -20,65 +21,106 @@ const jsonLd = [
     '@type': 'WebSite',
     name: 'Dogtur',
     url: SITE,
-    description: 'Senior dog care guides, gear reviews, and honest advice for aging dogs.',
+    description: 'Dog food guides by breed, gear reviews, health explainers and senior dog care.',
     inLanguage: 'en',
-    potentialAction: {
-      '@type': 'SearchAction',
-      target: { '@type': 'EntryPoint', urlTemplate: `${SITE}/search?q={search_term_string}` },
-      'query-input': 'required name=search_term_string',
-    },
   },
 ];
 
-const all = await getCollection('articles', ({ data }) => data.status === 'published');
-const queue = (await getCollection('articles'))
-  .filter((a) => a.data.publishQueue != null && a.data.status === 'published')
-  .sort((a, b) => (a.data.publishQueue ?? 0) - (b.data.publishQueue ?? 0));
+const published = await getCollection('articles', ({ data }) => data.status === 'published');
+const bySlug = new Map(published.map((a) => [a.data.slug, a]));
+const pick = (slugs: string[]) =>
+  slugs.map((s) => bySlug.get(s)).filter((a): a is NonNullable<typeof a> => Boolean(a));
+
+// Guides Google already sends the most searchers to (Search Console, Nov 2026).
+const popular = pick([
+  'best-dog-food-for-less-poop',
+  'best-high-fiber-dog-food',
+  'dog-proof-trash-cans',
+  'best-waterproof-dog-collars',
+  'best-dog-food-for-yorkies',
+  'best-dog-food-for-maltese',
+  'best-dog-foods-for-american-bully',
+  'best-dog-food-for-boston-terrier',
+  'best-dog-food-for-french-bulldogs',
+  'best-dog-food-for-chihuahua',
+]);
+
+const senior = pick([
+  'what-age-is-a-senior-dog',
+  'senior-dog-health-guide',
+  'senior-dog-nutrition-guide',
+  'senior-dog-mobility-guide',
+  'how-to-tell-senior-dog-in-pain',
+  'dog-dementia-signs-canine-cognitive-dysfunction',
+  'senior-dog-behavior-changes-guide',
+  'essential-products-senior-dogs',
+]);
+
+const dateOf = (a: (typeof published)[number]) =>
+  (a.data.updated ?? a.data.published ?? new Date(0)).getTime();
+const latest = [...published].sort((a, b) => dateOf(b) - dateOf(a)).slice(0, 6);
+const href = (a: (typeof published)[number]) => `/${a.data.sectionSlug}/${a.data.slug}/`;
 ---
 <BaseLayout
-  title="Dogtur — Senior Dog Care Guides & Reviews"
-  description="Research-based guides for caring for your aging dog: health, nutrition, mobility, behavior, grooming, gear, and end-of-life — plus honest product reviews."
+  title="Dogtur — Dog Care Guides, Food by Breed & Honest Gear Reviews"
+  description="Research-based dog care: what to feed your breed, which gear is worth buying, health signs to discuss with your vet, and expert-sourced senior dog care."
   canonical={SITE + '/'}
   jsonLd={jsonLd}
 >
   <section class="hero">
     <div class="wrap">
-      <h1>Caring for your aging dog, done right.</h1>
+      <h1>Honest, research-based dog care.</h1>
       <p class="lede">
-        Dogtur is an independent guide for parents of senior dogs: honest health
-        explainers, nutrition advice, and research-based product reviews
-        — not rewritten spec sheets.
+        What to feed your breed, which gear is worth the money, and what a
+        change in your dog might mean. Every guide shows its sources, and we
+        never pretend to have tested what we haven't.
       </p>
     </div>
   </section>
 
   <div class="wrap">
+    <h2>Popular guides</h2>
+    <ul class="article-list">
+      {popular.map((a) => (
+        <li><a href={href(a)}>{a.data.title}</a></li>
+      ))}
+    </ul>
+
+    <aside class="recommended-cta" aria-label="Free dog calorie calculator">
+      <div>
+        <strong class="sans">How much should your dog eat?</strong>
+        <p>Get daily calories and cups per meal from your dog's weight and the calories on your food bag.</p>
+      </div>
+      <a class="cta-link sans" href="/tools/dog-calorie-calculator/">Open the calorie calculator →</a>
+    </aside>
+
     <h2>Explore by topic</h2>
     <div class="section-grid">
       {SECTIONS.map((s) => (
         <a class="section-card" href={`/${s.slug}/`}>
-          <span class={`role-tag ${s.role === 'core' ? 'role-core' : 'role-outer'}`}>
-            {s.role === 'core' ? 'Core' : 'Outer'}
-          </span>
           <h3>{s.name}</h3>
           <p>{s.blurb}</p>
         </a>
       ))}
     </div>
 
-    <h2>Launch series — the first twelve</h2>
+    <h2>Caring for an older dog</h2>
     <p>
-      Our first twelve guides build the semantic core of the site: the pillar
-      hubs, flagship explainers, and the first research-based reviews —
-      hands-on testing to follow.
+      Senior dogs are where Dogtur started, and still our deepest coverage:
+      when "old" begins, what changes, and how to keep an aging dog
+      comfortable.
     </p>
-    <ol class="article-list">
-      {queue.map((a) => (
-        <li>
-          <span class="type-tag">{a.data.type}</span>
-          <a href={`/${a.data.sectionSlug}/${a.data.slug}/`}>{a.data.title}</a>
-        </li>
+    <ul class="article-list">
+      {senior.map((a) => (
+        <li><a href={href(a)}>{a.data.title}</a></li>
       ))}
-    </ol>
+    </ul>
+
+    <h2>Recently updated</h2>
+    <ul class="article-list">
+      {latest.map((a) => (
+        <li><a href={href(a)}>{a.data.title}</a></li>
+      ))}
+    </ul>
   </div>
 </BaseLayout>

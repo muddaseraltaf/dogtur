@@ -113,6 +113,8 @@ Judge the new food on a fair timeline. Expect the first week to be noisy as the 
 
 Diet can only fix a food problem. Persistent digestive changes deserve a veterinary workup, especially in seniors: VCA Hospitals notes that diarrhea can signal infections, parasites, food intolerances, inflammatory bowel disease, or systemic illness, and that blood in the stool, black or tarry stools, vomiting, lethargy, or ongoing weight loss should prompt a visit ([vcahospitals.com](https://vcahospitals.com/know-your-pet/diarrhea-in-dogs)). This article doesn't diagnose your dog — if any of the red flags above apply, skip the label reading and book the appointment.
 
+Not sure how much to feed? Our free [dog calorie calculator](/tools/dog-calorie-calculator/) turns your dog's weight and the kcal per cup on the bag into cups per day.
+
 ## FAQ
 
 ### Does wet food make dogs poop more?

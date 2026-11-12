@@ -2,6 +2,8 @@
 
 Owner: GSC recovery chat (started from Master). Last update: **7 Nov 2026**. Pick up here; nothing is waiting in chat.
 
+**12 Nov 2026: project is now a long-term authority build. Read `AUTHORITY_PLAN.md` first (fresh GSC snapshot, plan, tools backlog).**
+
 ## Muddaser must click / decide
 1. **Real-dog photos or clips** (biggest missing piece). Take 10–20 phone photos or 10-second clips of an older dog (yours, a friend's or family's): on a ramp, on an orthopedic bed, being brushed, eating from a bowl, wearing a collar in water. Drop them in `dogtur-site/photos-inbox/` and the next session will add them to the matching posts. Stock photos can't prove anyone used the product, which is why 8 posts sit "crawled, not indexed".
 2. **Author name: yes or no.** Can the site say "Written by Muddaser Altaf" with a short, true bio and photo? Google trusts pages with a real person behind them. We will never invent a vet or expert.

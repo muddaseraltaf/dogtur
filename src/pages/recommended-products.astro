@@ -10,7 +10,7 @@ const SITE = 'https://dogtur.com';
 const itemListLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'Our most recommended products for senior dogs',
+  name: 'Our most recommended dog products',
   description:
     'The single top pick from each Dogtur buying guide — research-based recommendations for parents of aging dogs.',
   itemListElement: RECOMMENDED.map((p, i) => ({
@@ -22,7 +22,7 @@ const itemListLd = {
 };
 ---
 <BaseLayout
-  title="Our Most Recommended Products for Senior Dogs | Dogtur"
+  title="Our Most Recommended Dog Products | Dogtur"
   description="The short list: the single top pick from each Dogtur buying guide — food, beds, ramps, supplements, and gear for aging dogs."
   canonical={`${SITE}/recommended-products/`}
   jsonLd={[itemListLd]}

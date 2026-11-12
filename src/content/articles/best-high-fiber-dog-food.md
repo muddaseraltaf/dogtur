@@ -1,5 +1,5 @@
 ---
-title: "Best High-Fiber Dog Food for Anal Glands & Weight"
+title: "Best High-Fiber Dog Food (2026) for Anal Glands & Weight"
 slug: "best-high-fiber-dog-food"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"

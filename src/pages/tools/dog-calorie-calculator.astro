@@ -1,0 +1,248 @@
+---
+// Dog calorie & feeding calculator. Math lives in src/lib/dog-calories.mjs (tested).
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import Faq from '../../components/Faq.astro';
+import { FACTORS } from '../../lib/dog-calories.mjs';
+
+const SITE = 'https://dogtur.com';
+const url = `${SITE}/tools/dog-calorie-calculator/`;
+const faq = [
+  {
+    q: 'How many calories should my dog eat a day?',
+    a: 'A common veterinary starting point is the resting energy requirement (70 × body weight in kg to the power 0.75) multiplied by a life-stage factor, such as 1.6 for a typical spayed or neutered adult. A 10 kg (22 lb) neutered adult lands near 630 kcal a day. Treat the result as a starting point and adjust by watching body condition.',
+  },
+  {
+    q: 'How many cups of food should I feed my dog?',
+    a: 'Divide your dog’s daily calories by the kcal per cup printed on your food bag. Calorie density varies a lot between foods, so the same dog can need very different cup amounts on two brands. Always use a real measuring cup.',
+  },
+  {
+    q: 'Why is this different from the feeding chart on the bag?',
+    a: 'Bag charts are written for a broad range of dogs and often run high for spayed or neutered, less active pets. Use both as starting points, then adjust based on your dog’s weight and body condition over a few weeks.',
+  },
+  {
+    q: 'What weight should I enter for a dog that needs to lose weight?',
+    a: 'Enter your dog’s target (ideal) weight, not the current weight, and choose “Needs to lose weight.” Ask your vet to set the target weight and a safe rate of loss.',
+  },
+  {
+    q: 'Do treats count toward daily calories?',
+    a: 'Yes. A widely used rule is to keep treats under 10% of daily calories. The calculator sets that allowance aside and bases the cup amount on the remaining 90%.',
+  },
+];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name: 'Dog Calorie & Feeding Calculator',
+    url,
+    applicationCategory: 'HealthApplication',
+    operatingSystem: 'Any',
+    isAccessibleForFree: true,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@type': 'Organization', name: 'Dogtur', url: SITE },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` },
+      { '@type': 'ListItem', position: 2, name: 'Tools', item: `${SITE}/tools/` },
+      { '@type': 'ListItem', position: 3, name: 'Dog Calorie Calculator', item: url },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+];
+---
+<BaseLayout
+  title="Dog Calorie Calculator: How Much to Feed Your Dog | Dogtur"
+  description="Free dog calorie calculator: daily calories, cups per day and per meal from your dog's weight, life stage and the kcal per cup on your food bag."
+  canonical={url}
+  jsonLd={jsonLd}
+>
+  <div class="wrap">
+    <Breadcrumbs trail={[{ label: 'Home', href: '/' }, { label: 'Tools', href: '/tools/' }, { label: 'Dog Calorie Calculator' }]} />
+    <h1>Dog Calorie Calculator: How Much Should My Dog Eat?</h1>
+    <p class="lede">
+      Enter your dog’s weight and life stage to get a daily calorie target. Add
+      the calories per cup from your food bag to turn it into cups per day and
+      per meal.
+    </p>
+
+    <form id="calc" class="tool-card" novalidate>
+      <div class="row">
+        <label for="weight">Dog’s weight</label>
+        <div class="inline">
+          <input id="weight" name="weight" type="number" inputmode="decimal" min="0.5" step="0.1" required placeholder="e.g. 22" />
+          <select id="unit" name="unit" aria-label="Weight unit">
+            <option value="lb">lb</option>
+            <option value="kg">kg</option>
+          </select>
+        </div>
+      </div>
+      <div class="row">
+        <label for="stage">Life stage and activity</label>
+        <select id="stage" name="stage">
+          {Object.entries(FACTORS).map(([key, f]) => (
+            <option value={key}>{f.label}</option>
+          ))}
+        </select>
+      </div>
+      <div class="row">
+        <label for="kcal">Calories per cup on the bag <span class="opt">(optional, kcal/cup)</span></label>
+        <input id="kcal" name="kcal" type="number" inputmode="numeric" min="1" step="1" placeholder="e.g. 380" />
+      </div>
+      <div class="row">
+        <label for="meals">Meals per day</label>
+        <select id="meals" name="meals">
+          <option value="1">1</option>
+          <option value="2" selected>2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+        </select>
+      </div>
+      <button type="submit">Calculate</button>
+      <p id="error" class="error" role="alert" hidden></p>
+    </form>
+
+    <section id="result" class="tool-result" aria-live="polite" hidden>
+      <h2>Your dog’s starting point</h2>
+      <dl>
+        <div><dt>Daily calories</dt><dd id="r-daily"></dd></div>
+        <div><dt>Realistic range</dt><dd id="r-range"></dd></div>
+        <div><dt>Treat allowance (10%)</dt><dd id="r-treats"></dd></div>
+        <div id="r-cups-wrap" hidden><dt>Food per day</dt><dd id="r-cups"></dd></div>
+        <div id="r-meal-wrap" hidden><dt>Per meal</dt><dd id="r-meal"></dd></div>
+        <div><dt>Resting energy (RER)</dt><dd id="r-rer"></dd></div>
+      </dl>
+      <p class="note">
+        This is an estimate, not a prescription. Weigh your dog every 2 to 4
+        weeks and adjust portions by about 10% if weight or body condition
+        drifts. Puppies, pregnant or nursing dogs, and dogs with a medical
+        condition need a plan from your vet.
+      </p>
+    </section>
+
+    <h2>How this calculator works</h2>
+    <p>
+      Veterinarians usually start from the <strong>resting energy requirement
+      (RER)</strong>: the calories a dog burns at rest. The standard formula is
+      <strong>RER = 70 × (body weight in kg)<sup>0.75</sup></strong>. That
+      number is then multiplied by a factor for life stage and activity, for
+      example 1.6 for a typical spayed or neutered adult, 1.8 for an intact
+      adult, 3 for a puppy under four months, and 1 for a dog that needs to lose
+      weight (using the target weight). These are the factors published by
+      veterinarian Jennifer Coates, DVM, in
+      <a href="https://www.petmd.com/blogs/nutritionnuggets/jcoates/2013/aug/how-many-calories-does-dog-need-30849" rel="noopener" target="_blank">PetMD’s guide to how many calories a dog needs</a>.
+    </p>
+    <p>
+      Every dog is different. Breed, age, coat, climate and metabolism can move
+      real needs up or down, which is why the result shows a ±10% range. The
+      best check is your dog’s body: you should be able to feel the ribs under a
+      thin layer of fat and see a waist from above.
+    </p>
+
+    <h2>Turning calories into cups</h2>
+    <p>
+      Calorie density is printed on the bag or can as “kcal/cup” or “kcal/kg.”
+      It varies widely, so switching foods without recalculating is one of the
+      most common ways dogs gain weight. Measure with a real measuring cup, not a
+      mug, and count treats, chews and table scraps.
+    </p>
+
+    <h2>Related guides</h2>
+    <ul>
+      <li><a href="/senior-dog-nutrition/senior-dog-nutrition-guide/">Senior dog nutrition: what to feed an aging dog</a></li>
+      <li><a href="/senior-dog-nutrition/best-dog-food-for-less-poop/">Best dog food for less poop</a></li>
+      <li><a href="/senior-dog-nutrition/best-high-fiber-dog-food/">Best high-fiber dog food</a></li>
+      <li><a href="/senior-dog-nutrition/best-dog-food-for-yorkies/">Best dog food for Yorkies</a></li>
+      <li><a href="/senior-dog-nutrition/best-dog-foods-for-american-bully/">Best dog food for American Bully dogs</a></li>
+    </ul>
+
+    <Faq items={faq} />
+  </div>
+</BaseLayout>
+
+<script>
+  import { calculate } from '../../lib/dog-calories.mjs';
+
+  const form = document.getElementById('calc') as HTMLFormElement;
+  const err = document.getElementById('error') as HTMLParagraphElement;
+  const out = document.getElementById('result') as HTMLElement;
+  const fmt = (n: number) => Math.round(n).toLocaleString('en-US');
+  const set = (id: string, text: string) => {
+    (document.getElementById(id) as HTMLElement).textContent = text;
+  };
+  const show = (id: string, on: boolean) => {
+    (document.getElementById(id) as HTMLElement).hidden = !on;
+  };
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const fd = new FormData(form);
+    try {
+      const r = calculate({
+        weight: fd.get('weight'),
+        unit: fd.get('unit'),
+        stage: fd.get('stage'),
+        kcalPerCup: fd.get('kcal'),
+        meals: fd.get('meals'),
+      });
+      err.hidden = true;
+      set('r-daily', `${fmt(r.daily)} kcal per day`);
+      set('r-range', `${fmt(r.low)} to ${fmt(r.high)} kcal`);
+      set('r-treats', `up to ${fmt(r.treats)} kcal`);
+      set('r-rer', `${fmt(r.rer)} kcal`);
+      show('r-cups-wrap', r.cups !== null);
+      show('r-meal-wrap', r.perMeal !== null);
+      if (r.cups !== null && r.perMeal !== null) {
+        set('r-cups', `${r.cups.toFixed(2)} cups`);
+        set('r-meal', `${r.perMeal.toFixed(2)} cups`);
+      }
+      out.hidden = false;
+      out.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    } catch (x) {
+      err.textContent = x instanceof Error ? x.message : 'Please check your entries.';
+      err.hidden = false;
+      out.hidden = true;
+    }
+  });
+</script>
+
+<style>
+  .tool-card, .tool-result {
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 1.2rem; margin: 1.2rem 0;
+  }
+  .row { margin-bottom: 1rem; }
+  label { display: block; font-weight: 600; margin-bottom: .35rem; }
+  .opt { font-weight: 400; color: var(--muted); }
+  .inline { display: flex; gap: .5rem; }
+  input, select {
+    font: inherit; padding: .55rem .7rem; border: 1px solid var(--line);
+    border-radius: 8px; background: #fff; color: var(--ink); width: 100%;
+  }
+  .inline select { width: auto; }
+  input:focus-visible, select:focus-visible, button:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px;
+  }
+  button {
+    font: inherit; font-weight: 700; background: var(--accent); color: #fff;
+    border: 0; border-radius: 8px; padding: .7rem 1.4rem; cursor: pointer;
+  }
+  .error { color: var(--warn); background: var(--warn-soft); padding: .6rem .8rem; border-radius: 8px; margin: .8rem 0 0; }
+  .tool-result { background: var(--accent-soft); }
+  .tool-result h2 { margin-top: 0; }
+  dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .8rem; margin: 0 0 1rem; }
+  dt { font-size: .85rem; color: var(--muted); }
+  dd { margin: .1rem 0 0; font-size: 1.25rem; font-weight: 700; }
+  .note { font-size: .95rem; color: var(--muted); margin: 0; }
+</style>

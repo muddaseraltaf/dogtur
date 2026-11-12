@@ -1,5 +1,5 @@
 ---
-title: "Best Dog-Proof Trash Cans & Pet-Proof Garbage Cans"
+title: "Best Dog-Proof Trash Cans (2026): Pet-Proof Garbage Cans"
 slug: "dog-proof-trash-cans"
 section: s6
 sectionName: "Senior Dog Gear & Products"

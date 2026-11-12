@@ -1,5 +1,5 @@
 ---
-title: "Best Dog Food for Boston Terriers With Gas"
+title: "Best Dog Food for Boston Terriers (Gas, Skin & Seniors)"
 slug: "best-dog-food-for-boston-terrier"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
@@ -117,6 +117,8 @@ Practical takeaway: scan ingredient lists for soybean meal, pea fiber, and dairy
 ## Boston Terrier puppies: building good digestion early
 
 **Puppyhood is where a Boston's digestive habits get set — feed a puppy formula with named animal protein and moderate fat, split into three to four small meals a day, and the small-meals habit you build now becomes the adult gas-control habit later.** Introduce the slow-feeder bowl early so deliberate eating becomes the default, not a correction. Add new foods and treats one at a time so you can spot what disagrees with your puppy before it becomes a mystery. A puppy raised on consistent, digestible food with calm mealtimes usually becomes the adult Boston with the least dramatic digestion.
+
+Feeding another flat-faced breed? Our [French Bulldog food guide](/senior-dog-nutrition/best-dog-food-for-french-bulldogs/) covers the same gulping and gas problems, plus the skin and allergy issues Frenchies are known for.
 
 ## FAQ
 

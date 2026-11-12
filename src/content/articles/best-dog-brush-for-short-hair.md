@@ -99,6 +99,8 @@ Brushing before a bath also helps: VCA Hospitals notes that it is better to work
 
 We have no brush products vetted for this page yet, so there are no affiliate links here. When you shop, match the tool type to the coat described above and check that rubber nubs are flexible, bristles are soft, and any deshedding edge is rounded and guarded. Ratings and prices change often; read recent reviews for return-of-the-hair complaints, such as nubs tearing off or handles loosening.
 
+Brushing a long, double-coated dog instead? Our [Golden Retriever brush guide](/senior-dog-grooming/best-brush-for-golden-retriever/) covers undercoat rakes, pin brushes and shedding season.
+
 ## FAQ
 
 ### What is the best brush for a short-haired dog that sheds a lot?

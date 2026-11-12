@@ -1,5 +1,5 @@
 ---
-title: "Best Dog Food for Yorkies (Yorkshire Terriers)"
+title: "Best Dog Food for Yorkies: Puppy, Adult & Senior"
 slug: "best-dog-food-for-yorkies"
 section: s2
 sectionName: "Senior Dog Nutrition & Feeding"
@@ -129,6 +129,8 @@ Yorkies are considered predisposed to tracheal collapse — a weakening of the w
 - **Keep meals calm.** Excitement plus fast eating is the worst combination for a sensitive trachea — feed in a quiet spot, away from other pets.
 - **Watch the weight.** Extra neck and chest weight puts more mechanical load on the airway — one more reason precise portions matter in this breed.
 - **Use a harness, not a collar.** Standard veterinary advice for trachea-prone toy breeds, and it matters most around excited mealtimes and walks.
+
+Have a different toy breed? See our [Chihuahua food guide](/senior-dog-nutrition/best-dog-food-for-chihuahua/) and [Maltese food guide](/senior-dog-nutrition/best-dog-food-for-maltese/).
 
 ## FAQ
 

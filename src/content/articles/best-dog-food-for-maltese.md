@@ -165,6 +165,8 @@ A toxic dose is tiny in a five-pound body, so these matter more here:
 - **Large or hard treats and bones.** Choking and tooth-fracture risks are higher in a toy mouth.
 - **Frequent menu changes.** Constant rotation can upset digestion and encourage picky eating.
 
+For another tiny breed with the same hypoglycemia and dental risks, see our [Chihuahua food guide](/senior-dog-nutrition/best-dog-food-for-chihuahua/).
+
 ## FAQ
 
 ### What is the best dog food for a Maltese?

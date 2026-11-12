@@ -138,6 +138,8 @@ Two beds also solve the location problem. Many vets and behaviorists recommend g
 
 Some dogs claim a new bed instantly; others need encouragement. Put a familiar blanket on it, reward calm settling with treats, and place it where the family hangs out — Goldens sleep where the pack is. For cleaning: wash the cover weekly for a swimmer or heavy shedder, spot-clean the foam as needed, and rely on the waterproof liner — once foam absorbs odor, it's very hard to rescue. A spare cover, where available, means the bed never sits coverless on wash day. Between washes, a quick vacuum with an upholstery attachment keeps the Golden tumbleweeds under control.
 
+Goldens shed onto every bed. Our [Golden Retriever brush guide](/senior-dog-grooming/best-brush-for-golden-retriever/) explains which tools pull out the undercoat before it lands on the cover.
+
 ## FAQ
 
 ### Do Golden Retrievers need orthopedic beds?

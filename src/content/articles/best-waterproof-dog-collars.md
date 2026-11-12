@@ -1,5 +1,5 @@
 ---
-title: "Best Waterproof Dog Collars That Won't Stink"
+title: "Best Waterproof Dog Collars (2026): Scratch & Rust Proof"
 slug: "best-waterproof-dog-collars"
 section: s6
 sectionName: "Senior Dog Gear & Products"
@@ -37,6 +37,10 @@ A standard nylon collar on a dog that swims is a slow-motion disaster: it stays 
 ## What makes a collar truly waterproof?
 
 **The material must be coated webbing, not coated fabric: Biothane (PVC-coated polyester webbing — the long-standing working-dog standard), TPU-coated webbing (the premium outdoor-brand variant), or PVC-coated nylon (the budget version).** All three shed water, resist odor, and clean with a wipe because the coating is the structure, not a treatment. Be skeptical of "water-resistant" fabric collars with a spray-on coating — the coating wears off with use, and you're back to a stinky nylon collar within a season. If the product page can't name the webbing (Biothane, TPU-coated, PVC-coated), it probably isn't waterproof.
+
+## Scratch-resistant and rust-proof: what those labels really mean
+
+**"Scratch resistant" is about the coating, "rust proof" is about the metal, and a good waterproof collar needs both.** Coated webbing has no loose fibers for claws, brush or another dog's teeth to snag, so it shrugs off the light scratching that frays nylon. It is not indestructible: a determined chewer can still bite through any collar, and a deep cut in the coating lets water reach the core. Check for thick, even coating at the edges, where wear starts. "Rust proof" should mean solid brass, stainless steel or anodized aluminum hardware, not plated steel that rusts once the plating chips. If a listing only says "metal buckle," assume it is plated. The hardware section below covers which metals hold up in saltwater.
 
 ## Collars worth considering
 
@@ -85,6 +89,8 @@ A standard nylon collar on a dog that swims is a slow-motion disaster: it stays 
 ## How we evaluate (for now)
 
 **Until hands-on testing begins, every comparison above rests on three legs: published independent testing with named methodology, verified owner reviews, and manufacturer specifications — never our own untested claims.** The published testing we drew on is CNN Underscored's 2026 test of 14 collars (strength, cleaning, and waterproof/dry-time trials, plus trainer and veterinarian consultation). Owner-review signal came from verified-purchase reviews, framed with real observed patterns only — and where we found no substantial review base, we said so. Planned testing with real dogs will add water-soak and dry-time checks against standard nylon, odor comparison after repeated swims, hardware corrosion checks after saltwater exposure, and adjustment-slip tests when wet — at which point this methodology note gets replaced with actual results.
+
+For a small dog that refuses rainy walks, a [leash-mounted dog umbrella](/senior-dog-gear/best-dog-umbrella/) keeps the rain off the coat, not just the collar.
 
 ## FAQ
 

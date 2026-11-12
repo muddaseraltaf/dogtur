@@ -163,6 +163,8 @@ The short honest list: omega-3s (if the diet is light on them), a joint suppleme
 
 > **A note on review:** This guide is written from veterinary nutrition literature (AAFCO, NRC, AAHA, the MSD Veterinary Manual, and the peer-reviewed studies cited above) and follows our editorial policy. It has not yet been independently reviewed by a veterinarian — we'll add a named reviewer byline when that step is complete.
 
+Not sure how much to feed? Our free [dog calorie calculator](/tools/dog-calorie-calculator/) turns your dog's weight and the kcal per cup on the bag into cups per day.
+
 ## Frequently asked questions
 
 ### Do senior dogs really need senior dog food?

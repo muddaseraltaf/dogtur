@@ -1,0 +1,36 @@
+---
+// Tools hub: free dog calculators. Add each new tool to TOOLS.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+
+const SITE = 'https://dogtur.com';
+const TOOLS = [
+  {
+    href: '/tools/dog-calorie-calculator/',
+    name: 'Dog Calorie & Feeding Calculator',
+    blurb: 'Daily calories, cups per day and per meal from weight, life stage and the kcal per cup on your bag.',
+  },
+];
+---
+<BaseLayout
+  title="Free Dog Calculators & Tools | Dogtur"
+  description="Free, vet-sourced dog calculators: daily calories and feeding amounts, with more tools on the way."
+  canonical={`${SITE}/tools/`}
+>
+  <div class="wrap">
+    <Breadcrumbs trail={[{ label: 'Home', href: '/' }, { label: 'Tools' }]} />
+    <h1>Free Dog Tools</h1>
+    <p class="lede">
+      Simple calculators built on published veterinary formulas, with the
+      source shown on every tool.
+    </p>
+    <div class="section-grid">
+      {TOOLS.map((t) => (
+        <a class="section-card" href={t.href}>
+          <h3>{t.name}</h3>
+          <p>{t.blurb}</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

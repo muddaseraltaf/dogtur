@@ -21,7 +21,7 @@ const articles = defineCollection({
     slug: z.string(),
     /** Macro-semantic section id: s1..s7 */
     section: z.enum(['s1', 's2', 's3', 's4', 's5', 's6', 's7']),
-    /** Human section name (denormalized for convenience) */
+    /** Human section name (ignored at build: overridden from data/sections.ts) */
     sectionName: z.string(),
     /** Article type drives which layout renders */
     type: z.enum(['pillar', 'review', 'comparison', 'data', 'informational', 'asset']),
@@ -61,6 +61,8 @@ const articles = defineCollection({
   .transform((data) => ({
     ...data,
     sectionSlug: sectionById(data.section).slug,
+    // Display name always comes from data/sections.ts (one source of truth)
+    sectionName: sectionById(data.section).name,
   }))});
 
 export const collections = { articles };
