@@ -62,7 +62,7 @@ Only page with real clicks: `/senior-dog-nutrition/best-dog-food-for-less-poop/`
 
 Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refused ("crawled, not indexed"): Maltese, allergies/yeast, hypothyroidism, ramps, orthopedic beds, senior health guide, senior age. Not crawled yet ("discovered"): Yorkies, /recommended-products/. All of these are in the 12 Nov upgrade round.
 
-**Day 1 (after the upgrade deploy): pages with proven demand**
+**Day 1 (after the upgrade deploy): pages with proven demand** — 12 Nov attempt blocked: "Quota Exceeded" (shared quota already spent by other sites that day). Homepage confirmed indexed. Retry the full Day 1 list first thing next day.
 1. https://dogtur.com/
 2. /senior-dog-nutrition/best-high-fiber-dog-food/
 3. /senior-dog-gear/dog-proof-trash-cans/
@@ -88,6 +88,8 @@ Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refu
 
 **Day 3: tools and hubs**
 21. /tools/dog-age-calculator/ 22. /tools/dog-ramp-calculator/ 23. /tools/ 24. /senior-dog-nutrition/best-dog-food-for-less-poop/ (already ranks; request only so the upgrade is seen) 25. /recommended-products/
+
+**How to send (works, 12 Nov):** m321 Chrome → Search Console property `https://dogtur.com/` → type the full URL in the top "Inspect any URL" box → Enter → wait ~10 s → click REQUEST INDEXING (a JS-dispatched mousedown/mouseup/click works) → wait up to ~2 min for "Indexing requested" or "Quota Exceeded" → Dismiss. Stop at the first Quota Exceeded.
 
 **After requesting**
 - Don't re-request the same URL. Re-check with URL Inspection after ~14 days (~29 Nov).
@@ -148,3 +150,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 - 12 Nov 2026: plan created from fresh GSC pull (28d + 3 months, 1,000 queries, pages, indexing). Waiting on Muddaser: niche scope decision, author yes/no, photos.
 - 12 Nov 2026 (later): widened to all dogs (nav, homepage, about, trust pages, section names, llms.txt). Shipped 4 posts on lost demand: /senior-dog-nutrition/best-dog-food-for-french-bulldogs/, /senior-dog-nutrition/best-dog-food-for-chihuahua/, /senior-dog-gear/best-dog-umbrella/, /senior-dog-grooming/best-brush-for-golden-retriever/ (old WP URLs 301 to them). Shipped /tools/ + /tools/dog-calorie-calculator/ (math in src/lib/dog-calories.mjs, `npm test`). Titles tuned to search wording. Commit 529081d. Next: tool #2 dog age calculator + post "best dog food for anal gland issues"; GSC re-check ~26 Nov.
 - 12 Nov 2026 (round 2, Muddaser: "improve pages before indexing"): GSC drill-down found 7 live posts "crawled, not indexed" + 2 "discovered". Upgraded 14 pages to UPGRADE_STANDARD.md (answer-first, at-a-glance tables, real-query coverage, honest original element, source audit; helpers removed unverifiable stats and fixed errors: Hill's w/d fiber %, CertiPUR-US scope, ramp "2× height" = 30° slope, 2 false "no affiliate links" disclosures). New post: Rottweiler food. Tools #2 dog age + #3 ramp calculators; shared ToolLayout; FAQPage schema auto-generated from every "## FAQ" (31 pages); markdown table styles. Indexing plan written above: request only after this deploy, 3 days, ~10/day.
+- 12 Nov 2026: Day 1 indexing approved by Muddaser; blocked by shared daily quota (already used). Nothing requested yet. Retry 13 Nov.
