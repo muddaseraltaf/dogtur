@@ -160,6 +160,8 @@ Two things owners consistently say afterward: they wish they'd had the conversat
 
 > **A note on review:** This guide is written from veterinary literature (VCA Hospitals, the MSD Veterinary Manual, the 2015 AAHA/AAFP Pain Management Guidelines, peer-reviewed prevalence and treatment studies) and follows our editorial standards. It has not yet been independently reviewed by a veterinarian — we'll add a named reviewer byline when that step is complete.
 
+Sizing a ramp for the bed, sofa or car? Our free [dog ramp calculator](/tools/dog-ramp-calculator/) gives the length you need for a gentle slope.
+
 ## Frequently asked questions
 
 ### Can arthritis in dogs be cured?

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node --test src/lib/dog-calories.test.mjs",
+    "test": "node --test src/lib/*.test.mjs",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",

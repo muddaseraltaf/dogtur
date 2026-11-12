@@ -1,0 +1,137 @@
+---
+// Dog age in human years + life stage. Math in src/lib/dog-age.mjs (tested).
+import ToolLayout from '../../layouts/ToolLayout.astro';
+import { SIZES } from '../../lib/dog-age.mjs';
+
+const faq = [
+  {
+    q: 'How old is my dog in human years?',
+    a: 'A widely used rule from the American Kennel Club counts a medium-sized dog’s first year as about 15 human years, the second as about 9 more, and each later year as about 5. A 2020 DNA-methylation study from UC San Diego gives a different curve: human age ≈ 16 × ln(dog age) + 31, which makes young dogs “older” than the classic rule. Both are estimates.',
+  },
+  {
+    q: 'Is one dog year really seven human years?',
+    a: 'No. Dogs mature very fast in their first two years and then age more slowly, and big dogs age faster than small ones. The “multiply by 7” rule is a myth that is wrong at almost every age.',
+  },
+  {
+    q: 'At what age is my dog a senior?',
+    a: 'It depends on size. Giant breeds are often considered senior around 6 to 7, large breeds around 7 to 9, medium dogs around 8 to 10, small dogs around 9 to 11 and toy breeds around 11 to 12. AAHA defines the senior stage as the last 25% of a dog’s estimated lifespan.',
+  },
+  {
+    q: 'Why do large dogs age faster?',
+    a: 'Larger breeds have shorter average lifespans, so each calendar year is a bigger share of their life. That is why the senior stage starts earlier for a Great Dane than for a Chihuahua.',
+  },
+  {
+    q: 'Which method should I trust?',
+    a: 'Use them as a conversation starter, not a diagnosis. The classic rule is easy to remember; the UC San Diego formula is based on biology but was built from Labrador Retrievers only. What matters most is your dog’s life stage and health, which your vet can assess.',
+  },
+];
+---
+<ToolLayout
+  slug="dog-age-calculator"
+  name="Dog Age Calculator"
+  title="Dog Age Calculator: Dog Years to Human Years by Size | Dogtur"
+  description="Free dog age calculator: your dog's age in human years with two methods (AKC rule and the UC San Diego DNA formula), plus life stage and when senior care starts."
+  h1="Dog Age Calculator: How Old Is My Dog in Human Years?"
+  lede="Enter your dog’s age and size to see the human-years equivalent by two published methods, your dog’s life stage, and when senior care usually begins."
+  faq={faq}
+>
+<div class="tool-page">
+  <form id="calc" class="tool-card" novalidate>
+    <div class="row">
+      <label for="years">Dog’s age</label>
+      <div class="inline">
+        <input id="years" name="years" type="number" inputmode="numeric" min="0" max="30" step="1" placeholder="Years" aria-label="Years" />
+        <input id="months" name="months" type="number" inputmode="numeric" min="0" max="11" step="1" placeholder="Months" aria-label="Months" />
+      </div>
+    </div>
+    <div class="row">
+      <label for="size">Adult size</label>
+      <select id="size" name="size">
+        {Object.entries(SIZES).map(([key, s]) => (
+          <option value={key} selected={key === 'medium'}>{s.label}</option>
+        ))}
+      </select>
+    </div>
+    <button type="submit">Calculate</button>
+    <p id="error" class="error" role="alert" hidden></p>
+  </form>
+
+  <section id="result" class="tool-result" aria-live="polite" hidden>
+    <h2>Your dog in human years</h2>
+    <dl>
+      <div><dt>Classic rule (AKC)</dt><dd id="r-classic"></dd></div>
+      <div id="r-epi-wrap"><dt>DNA-based formula (UC San Diego)</dt><dd id="r-epi"></dd></div>
+      <div><dt>Life stage</dt><dd id="r-stage"></dd></div>
+      <div><dt>Senior stage for this size</dt><dd id="r-senior"></dd></div>
+    </dl>
+    <p class="note" id="r-note"></p>
+  </section>
+
+  <h2>How this calculator works</h2>
+  <p>
+    <strong>Classic rule.</strong> The
+    <a href="https://www.akc.org/expert-advice/health/how-to-calculate-dog-years-to-human-years/" rel="noopener" target="_blank">American Kennel Club</a>
+    counts a medium-sized dog’s first year as about 15 human years, year two as
+    about 9 more, and each later year as about 5. We apply that rule to every
+    size and show size where it matters most: the age senior care begins.
+  </p>
+  <p>
+    <strong>DNA-based formula.</strong> In 2020, researchers at
+    <a href="https://today.ucsd.edu/story/how-old-is-your-dog-in-human-years-scientists-develop-better-method-than-multiply-by-7" rel="noopener" target="_blank">UC San Diego</a>
+    compared age-related DNA changes (methylation) in dogs and people and
+    proposed <strong>human age = 16 × ln(dog age) + 31</strong>. It says a
+    1-year-old dog is roughly 31 in human terms and a 4-year-old about 53. The
+    study used only Labrador Retrievers, so treat it as an estimate for other
+    breeds. We only show it for dogs aged 1 year or older.
+  </p>
+  <p>
+    <strong>Senior age by size</strong> comes from our
+    <a href="/senior-dog-health/what-age-is-a-senior-dog/">guide to when dogs become seniors</a>,
+    which follows AAHA’s life-stage definition: the senior stage is the last
+    25% of a dog’s estimated lifespan.
+  </p>
+
+  <h2>What to do with the result</h2>
+  <ul>
+    <li>Approaching the senior range? Read our <a href="/senior-dog-health/senior-dog-health-guide/">senior dog health guide</a> and ask your vet about twice-yearly checkups.</li>
+    <li>Changing life stage often means changing food. Use the <a href="/tools/dog-calorie-calculator/">dog calorie calculator</a> and see our <a href="/senior-dog-nutrition/senior-dog-nutrition-guide/">senior nutrition guide</a>.</li>
+    <li>Stiff on stairs or the sofa? Our <a href="/tools/dog-ramp-calculator/">dog ramp calculator</a> sizes a ramp for your furniture or car.</li>
+  </ul>
+</div>
+</ToolLayout>
+
+<script>
+  import { calculateAge } from '../../lib/dog-age.mjs';
+
+  const form = document.getElementById('calc') as HTMLFormElement;
+  const err = document.getElementById('error') as HTMLParagraphElement;
+  const out = document.getElementById('result') as HTMLElement;
+  const set = (id: string, t: string) => ((document.getElementById(id) as HTMLElement).textContent = t);
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const fd = new FormData(form);
+    try {
+      const r = calculateAge({ years: fd.get('years'), months: fd.get('months'), size: fd.get('size') });
+      err.hidden = true;
+      set('r-classic', `about ${Math.round(r.classic)} years`);
+      (document.getElementById('r-epi-wrap') as HTMLElement).hidden = r.epigenetic === null;
+      if (r.epigenetic !== null) set('r-epi', `about ${Math.round(r.epigenetic)} years`);
+      set('r-stage', r.stage);
+      set('r-senior', `from about ${r.seniorFrom}–${r.seniorTo} years`);
+      set(
+        'r-note',
+        r.stage === 'Senior'
+          ? 'Your dog is in the senior stage for its size. Most vets suggest checkups every six months from here.'
+          : r.yearsToSenior <= 2
+            ? `About ${Math.max(1, Math.round(r.yearsToSenior))} year(s) until the senior stage for this size. A good time to ask your vet about baseline bloodwork.`
+            : 'Estimates only. Your vet can judge your dog’s real life stage from health, not just birthdays.'
+      );
+      out.hidden = false;
+    } catch (x) {
+      err.textContent = x instanceof Error ? x.message : 'Please check your entries.';
+      err.hidden = false;
+      out.hidden = true;
+    }
+  });
+</script>

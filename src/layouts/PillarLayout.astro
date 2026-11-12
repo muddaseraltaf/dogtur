@@ -1,4 +1,5 @@
 ---
+import { extractFaq, faqJsonLd } from '../lib/faq.mjs';
 // PillarLayout: long-form hub pages. Renders the pillar body plus a curated
 // hub index of all planned + published articles in the same section.
 import BaseLayout from './BaseLayout.astro';
@@ -12,6 +13,7 @@ interface Props {
 }
 
 const { entry, hubArticles } = Astro.props;
+const faqLd = faqJsonLd(extractFaq(entry.body ?? ''));
 const { Content } = await render(entry);
 const d = entry.data;
 const SITE = 'https://dogtur.com';
@@ -37,7 +39,7 @@ const itemListLd = {
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
   ogImage={d.hero}
-  jsonLd={itemListLd}
+  jsonLd={[itemListLd, faqLd].filter(Boolean)}
 >
   <div class="wrap">
     <Breadcrumbs trail={[

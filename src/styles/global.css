@@ -205,3 +205,38 @@ code { background: #f1ede4; padding: .1em .35em; border-radius: 4px; font-size: 
   /* Once the user scrolls to the end, drop the fade so the last item reads clean. */
   .site-nav.scrolled-end { -webkit-mask-image: none; mask-image: none; }
 }
+
+/* Markdown tables inside articles (same look as .compare-table) */
+main table:not(.compare-table) { width: 100%; border-collapse: collapse; margin: 1.4rem 0; font-size: .95rem; background: #fff; display: block; overflow-x: auto; }
+main table:not(.compare-table) th, main table:not(.compare-table) td { border: 1px solid var(--line); padding: .6rem .8rem; text-align: left; vertical-align: top; }
+main table:not(.compare-table) th { background: var(--accent-soft); }
+
+/* Tool pages (/tools/*) */
+  .tool-page .tool-card, .tool-page .tool-result {
+    background: #fff; border: 1px solid var(--line); border-radius: var(--radius);
+    padding: 1.2rem; margin: 1.2rem 0;
+  }
+  .tool-page .row { margin-bottom: 1rem; }
+  .tool-page label { display: block; font-weight: 600; margin-bottom: .35rem; }
+  .tool-page .opt { font-weight: 400; color: var(--muted); }
+  .tool-page .inline { display: flex; gap: .5rem; }
+  .tool-page input, .tool-page select {
+    font: inherit; padding: .55rem .7rem; border: 1px solid var(--line);
+    border-radius: 8px; background: #fff; color: var(--ink); width: 100%;
+  }
+  .tool-page .inline select { width: auto; }
+  .tool-page input:focus-visible, .tool-page select:focus-visible, .tool-page button:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px;
+  }
+  .tool-page button {
+    font: inherit; font-weight: 700; background: var(--accent); color: #fff;
+    border: 0; border-radius: 8px; padding: .7rem 1.4rem; cursor: pointer;
+  }
+  .tool-page .error { color: var(--warn); background: var(--warn-soft); padding: .6rem .8rem; border-radius: 8px; margin: .8rem 0 0; }
+  .tool-page .tool-result { background: var(--accent-soft); }
+  .tool-page .tool-result h2 { margin-top: 0; }
+  .tool-page dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: .8rem; margin: 0 0 1rem; }
+  .tool-page dt { font-size: .85rem; color: var(--muted); }
+  .tool-page dd { margin: .1rem 0 0; font-size: 1.25rem; font-weight: 700; }
+  .tool-page .note { font-size: .95rem; color: var(--muted); margin: 0; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }

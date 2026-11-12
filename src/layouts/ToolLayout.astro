@@ -1,0 +1,56 @@
+---
+// ToolLayout: shared shell for /tools/* pages — breadcrumbs, H1 + lede,
+// WebApplication + BreadcrumbList + FAQPage JSON-LD, FAQ block at the end.
+// Page supplies the form/result markup and explainer copy in the slot.
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Faq from '../components/Faq.astro';
+import { faqJsonLd } from '../lib/faq.mjs';
+
+interface Props {
+  slug: string;
+  name: string;
+  title: string;
+  description: string;
+  h1: string;
+  lede: string;
+  faq: { q: string; a: string }[];
+}
+
+const { slug, name, title, description, h1, lede, faq } = Astro.props;
+const SITE = 'https://dogtur.com';
+const url = `${SITE}/tools/${slug}/`;
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name,
+    url,
+    description,
+    applicationCategory: 'HealthApplication',
+    operatingSystem: 'Any',
+    isAccessibleForFree: true,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@type': 'Organization', name: 'Dogtur', url: SITE },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` },
+      { '@type': 'ListItem', position: 2, name: 'Tools', item: `${SITE}/tools/` },
+      { '@type': 'ListItem', position: 3, name, item: url },
+    ],
+  },
+  faqJsonLd(faq),
+].filter(Boolean);
+---
+<BaseLayout title={title} description={description} canonical={url} jsonLd={jsonLd}>
+  <div class="wrap">
+    <Breadcrumbs trail={[{ label: 'Home', href: '/' }, { label: 'Tools', href: '/tools/' }, { label: name }]} />
+    <h1>{h1}</h1>
+    <p class="lede">{lede}</p>
+    <slot />
+    <Faq items={faq} />
+  </div>
+</BaseLayout>

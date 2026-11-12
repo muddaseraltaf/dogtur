@@ -1,4 +1,5 @@
 ---
+import { extractFaq, faqJsonLd } from '../lib/faq.mjs';
 // ArticleLayout: default layout for informational / comparison / pillar pages.
 // Emits Article + BreadcrumbList JSON-LD. Reviews use ReviewLayout instead.
 // Sibling links (from frontmatter) render a related-articles box.
@@ -14,6 +15,7 @@ interface Props {
 }
 
 const { entry, siblings } = Astro.props;
+const faqLd = faqJsonLd(extractFaq(entry.body ?? ''));
 const { Content } = await render(entry);
 const d = entry.data;
 const SITE = 'https://dogtur.com';
@@ -55,7 +57,7 @@ const crumbLd = {
   canonical={`${SITE}/${d.sectionSlug}/${d.slug}/`}
   noindex={!published}
   ogImage={d.hero}
-  jsonLd={[articleLd, crumbLd]}
+  jsonLd={[articleLd, crumbLd, faqLd].filter(Boolean)}
 >
   <div class="wrap">
     <Breadcrumbs trail={[

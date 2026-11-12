@@ -14,10 +14,12 @@ siblings: ["best-dog-food-for-yorkies", "best-dog-food-for-boston-terrier", "bes
 publishQueue: null
 entities: ["Maltese (breed nutrition)", "kibble size (small-breed)", "dental health (periodontal disease)", "tear staining (porphyrins)", "sensitive stomach", "calorie control", "hypoglycemia (toy breeds)", "xylitol toxicity", "senior life-stage transition"]
 description: "What to feed a Maltese: small kibble, dental care, honest facts on tear staining, weight control and senior feeding, plus small-breed foods to consider."
-minutes: 9
+minutes: 10
 published: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-12
 ---
+
+**The best dog food for a Maltese is a complete-and-balanced small-breed formula with small, easy-to-chew kibble for the dog's life stage, fed in measured portions: most adult Maltese need only about 140–270 calories a day.** For wet versus dry, dry is a reasonable default for many adults, while wet food or a wet topper suits seniors, sore mouths and picky eaters.
 
 A healthy adult Maltese weighs only about four to six pounds, according to [VCA Animal Hospitals' breed profile](https://vcahospitals.com/know-your-pet/dog-breeds/maltese). That tiny body shapes every feeding decision: the kibble has to fit a toy-sized mouth, the portions are so small that a few extra treats matter, and the teeth need more help than most owners expect. Maltese also tend to live a long time, so many spend years as seniors, which is why this guide sits in our senior nutrition section and connects to our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).
 
@@ -31,6 +33,16 @@ A note on how this page is written: it is research-based. We have not run feedin
 - Very small puppies can drop their blood sugar dangerously low. Feed them often and treat wobbliness or lethargy as an emergency.
 - Seniors need fewer calories but the same quality: softer or smaller pieces for sore teeth, regular weigh-ins, and a vet check for any appetite change.
 - Foods worth considering below are small-breed formulas from brands vets know. Discuss any change with your vet, especially if your dog has a health condition.
+- Use the [feeding table](#how-much-to-feed-a-maltese-by-weight) to estimate daily calories, then convert to cups using your food's kcal per cup.
+
+## At a glance: foods worth considering
+
+| Food | Best for | Why it fits | Watch out for |
+|---|---|---|---|
+| Hill's Science Diet Small & Mini Adult | Healthy adults, a conservative choice | Small kibble, grain-inclusive, from a brand vets commonly recommend | Confirm the piece size suits a 4 to 6 lb dog |
+| Blue Buffalo Life Protection Small Breed | A mid-priced everyday option | Small kibble, real chicken listed first | If your dog has had pancreatitis or stomach upsets, check the fat percentage |
+| Diamond Naturals Small Breed | Budget-minded owners or multi-dog homes | Meat listed first, probiotics added | Compare the calories per cup against your dog's needs |
+| Wellness CORE Small Breed | Owners wanting a protein-forward, grain-free recipe | Small kibble with freeze-dried pieces in the CORE+ line we link | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet |
 
 ## What does a Maltese need from its food?
 
@@ -93,7 +105,7 @@ Our Yorkie guide covers a similar toy-breed shortlist, including breed-specific 
 
 Honestly, no, not reliably. Reddish-brown staining under a white Maltese's eyes is one of the most searched concerns for the breed, so it deserves a straight answer.
 
-Tear stains come from tears that overflow and sit on the fur. According to [VCA's overview of epiphora](https://vcahospitals.com/know-your-pet/eye-discharge-or-epiphora-in-dogs), excess tearing happens when drainage is insufficient or production is too high. Causes range from blocked or narrow tear ducts and eye irritation to conjunctivitis, allergies, abnormal eyelashes and eye injuries. White fur simply shows the staining more than dark fur does.
+Tear stains come from tears that overflow and sit on the fur. According to [VCA's overview of epiphora](https://vcahospitals.com/know-your-pet/eye-discharge-or-epiphora-in-dogs), excess tearing happens when drainage is insufficient or production is too high. Causes range from poor drainage (for example hair or debris blocking the duct) to overproduction from infection, inflammation, allergies, abnormal eyelashes or eye injuries. White fur simply shows the staining more than dark fur does.
 
 What that means for feeding:
 
@@ -114,12 +126,7 @@ Some Maltese have touchy digestion. Signs include loose stools, gas, or an occas
 
 ## Weight control in a very small dog
 
-At four to six pounds, a few extra ounces are proportionally large. VCA's Maltese profile advises restricting calories if a dog gains too much weight.
-
-- **Weigh regularly.** A kitchen scale or a baby scale works better than guessing.
-- **Measure food.** Use a proper measuring cup or a kitchen scale, not a scoop from the bag.
-- **Count treats.** Use pea-sized pieces, or use a portion of the daily kibble as training rewards.
-- **Learn body condition scoring.** You should be able to feel the ribs under a thin layer of coat and flesh. If you cannot, ask your vet for a target weight and calorie amount.
+At four to six pounds, a few extra ounces are proportionally large, and VCA's Maltese profile advises restricting calories if a dog gains too much weight. Weigh regularly on a kitchen or baby scale, measure food instead of scooping, use pea-sized treats, and learn body condition scoring: you should feel the ribs under a thin layer of coat and flesh. If you can't, ask your vet for a target weight and calorie amount.
 
 ## Hypoglycemia in tiny dogs
 
@@ -140,20 +147,37 @@ Our [senior dog food guide](/senior-dog-nutrition/best-dog-food-senior-dogs/) co
 
 ## Dental disease and food
 
-VCA's profile of the breed says Maltese are prone to periodontal problems. The Merck Veterinary Manual's owner page on [disorders of the mouth in dogs](https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-of-the-mouth-in-dogs) calls gum disease the most common oral problem in small animals and recommends thorough plaque control through professional cleaning and good home oral hygiene.
+VCA's profile of the breed says Maltese are prone to periodontal problems. The Merck Veterinary Manual's owner page on [disorders of the mouth in dogs](https://www.merckvetmanual.com/dog-owners/digestive-disorders-of-dogs/disorders-of-the-mouth-in-dogs) says gum disease is the most common oral problem in small animals.
 
-In practice:
+In practice: brush daily with dog toothpaste (never human toothpaste), keep professional cleanings on your vet's schedule, and treat chewing on one side, dropping food, bad breath or drooling as a reason to book an exam. Don't rely on kibble to clean teeth; a little crunch may help but is no substitute for brushing.
 
-- Brush daily if you can, using dog toothpaste (never human toothpaste).
-- Keep professional dental cleanings on your vet's schedule.
-- Treat chewing on one side, dropping food, bad breath or drooling as a reason to book an exam.
-- Do not rely on kibble to clean teeth. A little crunch may help, but it is no substitute for brushing.
+## How much to feed a Maltese by weight
 
-## How much to feed and how often
+Estimated calories per day, computed with the resting energy requirement formula **RER = 70 × (weight in kg)^0.75**, times a life-stage factor (1.6 neutered adult, 2.0 puppy 4 months or older), as published by Jennifer Coates, DVM, in [PetMD's calorie guide](https://www.petmd.com/dog/nutrition/how-many-calories-does-a-dog-need). Pounds are divided by 2.2 to get kilograms, and results are rounded to the nearest 5.
 
-There is no single right amount for every Maltese. Start with the feeding guide on the bag for your dog's ideal weight, then adjust by body condition and your vet's advice. Most adult toy dogs do well on two or three small meals a day, and puppies need more frequent meals. Split the daily allowance into measured portions, and remove treats from the total.
+| Body weight | RER (resting) | Neutered adult (×1.6) | Puppy 4 months+ (×2.0) |
+|---|---|---|---|
+| 3 lb (1.4 kg) | 90 kcal | 140 kcal | 175 kcal |
+| 5 lb (2.3 kg) | 130 kcal | 205 kcal | 260 kcal |
+| 7 lb (3.2 kg) | 165 kcal | 265 kcal | 335 kcal |
+| 10 lb (4.5 kg) | 220 kcal | 350 kcal | 435 kcal |
+
+Worked example: a 5 lb neutered adult is 2.27 kg. 2.27^0.75 is about 1.85, times 70 is 129 kcal (RER), times 1.6 is about 207 kcal a day.
+
+**Cups depend on your food.** The bag lists kilocalories per cup, and it varies a lot. Divide the daily calories by that number: a 5 lb adult on a food with 400 kcal per cup needs about half a cup a day (an example, not a recommendation). Our [dog calorie calculator](/tools/dog-calorie-calculator/) does the maths. Intact, very active, underweight and senior dogs differ, and treats count toward the total, so adjust by body condition and your vet's advice. Most adult toy dogs do well on two or three small meals a day, and puppies need more frequent meals.
 
 If your dog is losing weight without trying, gaining quickly, or leaving meals regularly, see your vet before changing the amounts.
+
+## What to feed a Maltese puppy
+
+Choose a growth (puppy or all-life-stages) small-breed formula with the smallest kibble you can find, and feed small meals often. VCA advises frequent small meals for Maltese puppies to guard against hypoglycemia (see above). Moistening kibble with warm water helps tiny mouths, and the puppy column in the table gives an estimate for puppies 4 months and older (younger puppies use a higher factor of 3.0, so ask your vet). Switch foods gradually over about a week, and start tooth-brushing early.
+
+## Wet or dry food for a Maltese?
+
+- **Dry food** is a reasonable default for many adults: convenient, easy to measure, and a little crunch may help.
+- **Wet food or a wet topper** suits seniors, dogs with sore teeth and picky eaters, and adds aroma. Count its calories too.
+- **Mixing** works well, as long as the total stays inside the calorie target above.
+- **If you feed mostly soft food**, step up brushing and dental checkups.
 
 ## Foods and ingredients to avoid
 
@@ -173,6 +197,10 @@ For another tiny breed with the same hypoglycemia and dental risks, see our [Chi
 
 There is no single best food. Choose a complete and balanced small-breed formula with small kibble for your dog's life stage, check how your dog digests it, and confirm with your vet. The options above are a starting shortlist.
 
+### How much should I feed my Maltese?
+
+A neutered 5 lb adult needs roughly 205 calories a day by the standard formula, and a 7 lb dog about 265. Convert that to cups using the kcal per cup on your bag, or use our [calorie calculator](/tools/dog-calorie-calculator/), and adjust by body condition.
+
 ### What size kibble does a Maltese need?
 
 Small or toy-breed kibble. If your dog struggles to pick it up, drops it or gulps it whole, try a smaller piece or soften it with warm water.
@@ -181,13 +209,17 @@ Small or toy-breed kibble. If your dog struggles to pick it up, drops it or gulp
 
 Not reliably. Tear staining is mostly linked to how tears drain and how visible they are on white fur. Have a vet rule out eye problems, keep the face clean, and be cautious about products that promise a food-based cure.
 
-### Is wet or dry food better for a Maltese?
+### What is the best dry or wet dog food for a Maltese?
 
-Dry food is a reasonable default for many adults. Wet food or a wet topper can suit seniors, dogs with sore teeth and picky eaters. If you feed mostly soft food, pay extra attention to brushing and dental checkups.
+Dry food is a reasonable default for many adults. Wet food or a wet topper can suit seniors, dogs with sore teeth and picky eaters. No single brand wins for every dog: pick a complete-and-balanced small-breed recipe for the life stage and match the portion to the calorie table above. If you feed mostly soft food, pay extra attention to brushing and dental checkups.
 
 ### When should I switch my Maltese to senior food?
 
 Many toy breeds are treated as seniors from around 10 years, but go by your dog's condition and your vet's advice rather than a birthday. Switch gradually over about a week.
+
+### What should I feed a Maltese puppy?
+
+A puppy or all-life-stages small-breed food in tiny kibble, fed in small, frequent meals. Wobbling, weakness or tremors in a small puppy are emergencies.
 
 ### Why does my Maltese keep skipping meals?
 

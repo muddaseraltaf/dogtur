@@ -22,6 +22,7 @@ Dogtur covers dog health and vet care, food and nutrition (including breed-by-br
 - [Best Dog Foods for American Bully](https://dogtur.com/senior-dog-nutrition/best-dog-foods-for-american-bully/): 25–30% protein for muscle and strict portion control for a heavy frame.
 - [Best Dog Food for French Bulldogs](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-french-bulldogs/): Choosing food for a Frenchie's gas, skin and allergy problems, with puppy, adult and senior feeding.
 - [Best Dog Food for Chihuahuas](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-chihuahua/): Small kibble, puppy hypoglycemia, dental care and portion control for the smallest breed.
+- [Best Dog Food for Rottweilers](https://dogtur.com/senior-dog-nutrition/best-dog-food-for-rottweilers/): Large-breed puppy growth rules, bloat-safe feeding habits, adult weight control and senior feeding.
 
 ## Joints, Mobility & Pain
 
@@ -51,6 +52,8 @@ Dogtur covers dog health and vet care, food and nutrition (including breed-by-br
 ## Free Tools
 
 - [Dog Calorie & Feeding Calculator](https://dogtur.com/tools/dog-calorie-calculator/): Daily calories (RER × life-stage factor) and cups per meal from the kcal per cup on the food bag.
+- [Dog Age Calculator](https://dogtur.com/tools/dog-age-calculator/): Dog age in human years by the AKC rule and the UC San Diego epigenetic formula, plus life stage and senior onset by size.
+- [Dog Ramp Calculator](https://dogtur.com/tools/dog-ramp-calculator/): Ramp length = height ÷ sin(angle) for 18–25° slopes, with common bed, sofa and SUV heights.
 
 ## Trust & Methods
 

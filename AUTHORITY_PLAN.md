@@ -53,8 +53,51 @@ Only page with real clicks: `/senior-dog-nutrition/best-dog-food-for-less-poop/`
    - Chihuahua post: Royal Canin Chihuahua Adult https://www.amazon.com/dp/B00IK5SPHM · Royal Canin Chihuahua Puppy https://www.amazon.com/dp/B0074JN35Y
    - Umbrella post: PETLESO https://www.amazon.com/dp/B0G8JRFG4P · ENJOYING https://www.amazon.com/dp/B07RGWD7XM · NAMSAN https://www.amazon.com/dp/B0H28Y7D8Z · LOVEPET https://www.amazon.com/dp/B07W116BLK
    - Golden brush post: Coastal Safari Pin Brush https://www.amazon.com/dp/B074N7YPSB · Hertzko Slicker https://www.amazon.com/dp/B00ZGPI3OY · Mars Coat King rake https://www.amazon.com/dp/B007L8Z17Q · FURminator Large Long Hair https://www.amazon.com/dp/B0040QQ07C · Chris Christensen #504 comb https://www.amazon.com/dp/B07T6DQBVF
-   (Check each is in stock first.)
-4. Request indexing in Search Console (shared daily quota) for: /tools/dog-calorie-calculator/, the 4 new posts below, and the homepage.
+   - Rottweiler post (pick the amazon.com pages): Purina Pro Plan Large Breed Puppy Chicken & Rice · Hill's Science Diet Puppy Large Breed · Royal Canin Rottweiler Puppy · Royal Canin Rottweiler Adult · Blue Buffalo Life Protection Large Breed Puppy · Blue Buffalo Life Protection Large Breed Adult
+   (Check each is in stock first. Also check Ruffwear Headwater collar is still sold; the collar page has a button for it.)
+4. Request indexing: only AFTER the page-upgrade round is live. Follow the Indexing plan below.
+
+## Indexing plan (written 12 Nov 2026)
+**Rule: improve first, then ask Google.** A "Request indexing" on a page Google already judged weak just gets it re-judged as weak. So: upgrade → deploy → request. The quota is shared by all 17 sites on muddaser321 (~10 a day in practice), so spread it over 3 days and leave room for other sites.
+
+Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refused ("crawled, not indexed"): Maltese, allergies/yeast, hypothyroidism, ramps, orthopedic beds, senior health guide, senior age. Not crawled yet ("discovered"): Yorkies, /recommended-products/. All of these are in the 12 Nov upgrade round.
+
+**Day 1 (after the upgrade deploy): pages with proven demand**
+1. https://dogtur.com/
+2. /senior-dog-nutrition/best-high-fiber-dog-food/
+3. /senior-dog-gear/dog-proof-trash-cans/
+4. /senior-dog-gear/best-waterproof-dog-collars/
+5. /senior-dog-nutrition/best-dog-food-for-yorkies/
+6. /senior-dog-nutrition/best-dog-food-for-maltese/
+7. /senior-dog-nutrition/best-dog-food-for-boston-terrier/
+8. /senior-dog-nutrition/best-dog-foods-for-american-bully/
+9. /senior-dog-nutrition/best-dog-food-for-french-bulldogs/
+10. /tools/dog-calorie-calculator/
+
+**Day 2: new + previously refused pages**
+11. /senior-dog-nutrition/best-dog-food-for-chihuahua/
+12. /senior-dog-nutrition/best-dog-food-for-rottweilers/
+13. /senior-dog-gear/best-dog-umbrella/
+14. /senior-dog-grooming/best-brush-for-golden-retriever/
+15. /senior-dog-nutrition/best-dog-food-for-allergies-and-yeast-infection/
+16. /senior-dog-gear/best-dog-ramps-senior-dogs/
+17. /senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/
+18. /senior-dog-nutrition/best-dog-foods-for-hypothyroidism/
+19. /senior-dog-health/senior-dog-health-guide/
+20. /senior-dog-health/what-age-is-a-senior-dog/
+
+**Day 3: tools and hubs**
+21. /tools/dog-age-calculator/ 22. /tools/dog-ramp-calculator/ 23. /tools/ 24. /senior-dog-nutrition/best-dog-food-for-less-poop/ (already ranks; request only so the upgrade is seen) 25. /recommended-products/
+
+**After requesting**
+- Don't re-request the same URL. Re-check with URL Inspection after ~14 days (~29 Nov).
+- Still "crawled, not indexed" after 4 weeks → that page needs real-dog photos or merging into a stronger page, not another request.
+- Sitemap (/sitemap-index.xml) updates itself on every deploy; no resubmission needed.
+
+**Noindex / removal decisions**
+- Live posts: none should be noindexed. Every live post now has a clear search purpose; weak ones get upgraded, not hidden.
+- Old WordPress junk (/search/…, /author/…, /category/…) already 404 or 301: leave it, Google drops it on its own. Never use the Removals tool on them (it hides, it doesn't fix).
+- Old addresses that 301 to a loosely related page (soft-404 risk), fix by writing the real page later, then repoint: /best-dog-food-for-corgi/ (→ senior food), /best-names-for-dogs/ (→ homepage; becomes a dog-name tool), /best-puppy-shampoo/ (→ grooming guide).
 
 ## The plan (in order)
 ### Phase 1: recover what is already earned (next 2 weeks)
@@ -82,9 +125,9 @@ Free = pure code, no API. API = needs a key (key goes in Cloudflare env, never i
 | # | Tool | Why | Type |
 |---|---|---|---|
 | 1 | ✅ LIVE 12 Nov: Dog food calorie & feeding calculator (weight, age, activity, kcal/cup on the bag) | Feeds every food page we rank for | Free |
-| 2 | Dog age in human years (breed-size based, not ×7) | Huge evergreen search, fits senior pillar | Free |
+| 2 | ✅ LIVE 12 Nov: Dog age in human years (breed-size based, not ×7) | Huge evergreen search, fits senior pillar | Free |
 | 3 | Chocolate toxicity calculator (type, amount, dog weight → risk + "call vet") | Viral, gets links; strict vet-source wording | Free |
-| 4 | Gear size finders: collar, harness, bed, crate, life jacket, boots | Direct path to affiliate links we already have | Free |
+| 4 | Gear size finders: collar, harness, bed, crate, life jacket, boots (✅ ramp length calculator live 12 Nov) | Direct path to affiliate links we already have | Free |
 | 5 | Dog food recall checker + alerts (FDA recall feed) | Authority + return visits | Free (public FDA data) |
 | 6 | Senior dog quality-of-life scale (HHHHHMM) | Real need, senior pillar | Free |
 | 7 | Dementia (CCD) symptom checklist | Our dementia page sits at pos 77; tool helps | Free |
@@ -104,3 +147,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 ## Log
 - 12 Nov 2026: plan created from fresh GSC pull (28d + 3 months, 1,000 queries, pages, indexing). Waiting on Muddaser: niche scope decision, author yes/no, photos.
 - 12 Nov 2026 (later): widened to all dogs (nav, homepage, about, trust pages, section names, llms.txt). Shipped 4 posts on lost demand: /senior-dog-nutrition/best-dog-food-for-french-bulldogs/, /senior-dog-nutrition/best-dog-food-for-chihuahua/, /senior-dog-gear/best-dog-umbrella/, /senior-dog-grooming/best-brush-for-golden-retriever/ (old WP URLs 301 to them). Shipped /tools/ + /tools/dog-calorie-calculator/ (math in src/lib/dog-calories.mjs, `npm test`). Titles tuned to search wording. Commit 529081d. Next: tool #2 dog age calculator + post "best dog food for anal gland issues"; GSC re-check ~26 Nov.
+- 12 Nov 2026 (round 2, Muddaser: "improve pages before indexing"): GSC drill-down found 7 live posts "crawled, not indexed" + 2 "discovered". Upgraded 14 pages to UPGRADE_STANDARD.md (answer-first, at-a-glance tables, real-query coverage, honest original element, source audit; helpers removed unverifiable stats and fixed errors: Hill's w/d fiber %, CertiPUR-US scope, ramp "2× height" = 30° slope, 2 false "no affiliate links" disclosures). New post: Rottweiler food. Tools #2 dog age + #3 ramp calculators; shared ToolLayout; FAQPage schema auto-generated from every "## FAQ" (31 pages); markdown table styles. Indexing plan written above: request only after this deploy, 3 days, ~10/day.

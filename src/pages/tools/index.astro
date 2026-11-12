@@ -10,18 +10,28 @@ const TOOLS = [
     name: 'Dog Calorie & Feeding Calculator',
     blurb: 'Daily calories, cups per day and per meal from weight, life stage and the kcal per cup on your bag.',
   },
+  {
+    href: '/tools/dog-age-calculator/',
+    name: 'Dog Age Calculator',
+    blurb: 'Your dog’s age in human years by two published methods, plus life stage and when senior care starts for its size.',
+  },
+  {
+    href: '/tools/dog-ramp-calculator/',
+    name: 'Dog Ramp Calculator',
+    blurb: 'How long a ramp must be for your bed, sofa or car at a safe angle for your dog’s mobility.',
+  },
 ];
 ---
 <BaseLayout
   title="Free Dog Calculators & Tools | Dogtur"
-  description="Free, vet-sourced dog calculators: daily calories and feeding amounts, with more tools on the way."
+  description="Free dog calculators with published sources: daily calories and feeding amounts, dog age in human years, and dog ramp length."
   canonical={`${SITE}/tools/`}
 >
   <div class="wrap">
     <Breadcrumbs trail={[{ label: 'Home', href: '/' }, { label: 'Tools' }]} />
     <h1>Free Dog Tools</h1>
     <p class="lede">
-      Simple calculators built on published veterinary formulas, with the
+      Simple calculators built on published formulas and veterinary guidance, with the
       source shown on every tool.
     </p>
     <div class="section-grid">

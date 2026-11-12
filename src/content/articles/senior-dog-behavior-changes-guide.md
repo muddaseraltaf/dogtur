@@ -199,6 +199,8 @@ Practically, this means: at your dog's next senior checkup (twice-yearly exams a
 
 > **A note on review:** This guide is written from veterinary behavior literature (AAHA behavior guidelines, VCA Hospitals, the 2026 CCDS Working Group guidelines in JAVMA, peer-reviewed CCD research) and follows our editorial policy. It has not yet been independently reviewed by a veterinarian — we'll add a named reviewer byline when that step is complete.
 
+Not sure whether your dog counts as a senior yet? The [dog age calculator](/tools/dog-age-calculator/) shows the senior stage for your dog's size.
+
 ## Frequently asked questions
 
 ### Is it normal for senior dogs to become aggressive?

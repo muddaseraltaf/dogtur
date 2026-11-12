@@ -1,0 +1,147 @@
+---
+// Dog ramp length calculator. Math in src/lib/ramp.mjs (tested).
+import ToolLayout from '../../layouts/ToolLayout.astro';
+import { PROFILES } from '../../lib/ramp.mjs';
+
+const faq = [
+  {
+    q: 'How long should a dog ramp be?',
+    a: 'Long enough to keep the slope gentle. Ramp length = height ÷ sin(angle). At 18 degrees a ramp needs to be about 3.2 times as long as the height it climbs; at 25 degrees, about 2.4 times. A 24-inch bed needs roughly a 78-inch ramp at 18 degrees.',
+  },
+  {
+    q: 'What is the best angle for a dog ramp?',
+    a: 'There is no formal veterinary standard. The figure most often attributed to vets is about 18 to 20 degrees for dogs with mobility problems, with about 25 degrees as a practical upper limit for agile dogs. Ask your vet if your dog has arthritis, a back condition or recent surgery.',
+  },
+  {
+    q: 'Is a ramp or stairs better for an older dog?',
+    a: 'Ramps are usually easier on arthritic joints and backs because there is no step-up motion; stairs take less floor space and suit steady dogs. Dogs with back problems such as IVDD are generally better on a ramp.',
+  },
+  {
+    q: 'My ramp is too steep. What can I do?',
+    a: 'Add length (a longer ramp), lower the target (a lower bed or a mid-height platform), or split the climb into two ramps with a landing. Check the surface too: a grippy, carpeted or rubber surface matters as much as the angle.',
+  },
+];
+---
+<ToolLayout
+  slug="dog-ramp-calculator"
+  name="Dog Ramp Calculator"
+  title="Dog Ramp Calculator: How Long Should a Dog Ramp Be? | Dogtur"
+  description="Free dog ramp length calculator: enter the height of your bed, sofa or car and get the ramp length for a safe angle, with a comparison table for 18–25 degrees."
+  h1="Dog Ramp Calculator: How Long Should the Ramp Be?"
+  lede="Measure from the floor to the top of the bed, sofa or car floor, then pick your dog’s mobility. We calculate the ramp length for a gentle, safe slope."
+  faq={faq}
+>
+<div class="tool-page">
+  <form id="calc" class="tool-card" novalidate>
+    <div class="row">
+      <label for="rise">Height to climb</label>
+      <div class="inline">
+        <input id="rise" name="rise" type="number" inputmode="decimal" min="1" step="0.5" placeholder="e.g. 24" />
+        <select id="unit" name="unit" aria-label="Height unit">
+          <option value="in">in</option>
+          <option value="cm">cm</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <label for="profile">Your dog’s mobility</label>
+      <select id="profile" name="profile">
+        {Object.entries(PROFILES).map(([key, p]) => (
+          <option value={key}>{p.label} ({p.angle}°)</option>
+        ))}
+      </select>
+    </div>
+    <button type="submit">Calculate</button>
+    <p id="error" class="error" role="alert" hidden></p>
+  </form>
+
+  <section id="result" class="tool-result" aria-live="polite" hidden>
+    <h2>Ramp length you need</h2>
+    <dl>
+      <div><dt>Recommended length</dt><dd id="r-len"></dd></div>
+      <div><dt>Slope used</dt><dd id="r-angle"></dd></div>
+    </dl>
+    <table>
+      <caption class="sr-only">Ramp length at different angles</caption>
+      <thead><tr><th scope="col">Angle</th><th scope="col">Ramp length</th></tr></thead>
+      <tbody id="r-table"></tbody>
+    </table>
+    <p class="note">
+      Choose a ramp at least this long, with a non-slip surface, raised side
+      edges and a width your dog can walk without crowding. Lengths are the
+      sloped surface, not the floor space it covers.
+    </p>
+  </section>
+
+  <h2>How this calculator works</h2>
+  <p>
+    A ramp is a right-angled triangle: the height is fixed, so a gentler angle
+    needs a longer ramp. The formula is <strong>length = height ÷ sin(angle)</strong>.
+    At 18° that is about 3.2 × the height; at 20° about 2.9 ×; at 25° about 2.4 ×.
+  </p>
+  <p>
+    There is no formal veterinary standard for ramp angle. The figure most
+    often attributed to veterinarians is about 18–20° for dogs with mobility
+    problems, and ramp makers commonly treat about 25° as the upper limit for
+    agile dogs. If your dog has arthritis, a back condition such as IVDD, or is
+    recovering from surgery, ask your vet which slope is safe.
+  </p>
+
+  <h2>Common heights</h2>
+  <table>
+    <thead><tr><th scope="col">Climbing onto</th><th scope="col">Typical height</th><th scope="col">Ramp at 18°</th><th scope="col">Ramp at 22°</th></tr></thead>
+    <tbody>
+      <tr><td>Sofa</td><td>18 in (46 cm)</td><td>59 in (148 cm)</td><td>49 in (123 cm)</td></tr>
+      <tr><td>Bed</td><td>24 in (61 cm)</td><td>78 in (198 cm)</td><td>65 in (163 cm)</td></tr>
+      <tr><td>SUV cargo floor</td><td>30 in (76 cm)</td><td>98 in (247 cm)</td><td>81 in (204 cm)</td></tr>
+    </tbody>
+  </table>
+  <p>Measure your own furniture: heights vary a lot, and a few inches change the ramp length noticeably.</p>
+
+  <h2>Related guides</h2>
+  <ul>
+    <li><a href="/senior-dog-gear/best-dog-ramps-senior-dogs/">Best dog ramps for senior dogs</a></li>
+    <li><a href="/senior-dog-mobility/senior-dog-mobility-guide/">Senior dog mobility guide</a></li>
+    <li><a href="/senior-dog-mobility/how-to-tell-senior-dog-in-pain/">How to tell if your senior dog is in pain</a></li>
+    <li><a href="/tools/dog-age-calculator/">Dog age calculator</a></li>
+  </ul>
+</div>
+</ToolLayout>
+
+<script>
+  import { calculateRamp } from '../../lib/ramp.mjs';
+
+  const form = document.getElementById('calc') as HTMLFormElement;
+  const err = document.getElementById('error') as HTMLParagraphElement;
+  const out = document.getElementById('result') as HTMLElement;
+  const set = (id: string, t: string) => ((document.getElementById(id) as HTMLElement).textContent = t);
+  const both = (inches: number) => `${Math.ceil(inches)} in (${Math.ceil(inches * 2.54)} cm)`;
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const fd = new FormData(form);
+    try {
+      const r = calculateRamp({ rise: fd.get('rise'), unit: fd.get('unit'), profile: fd.get('profile') });
+      err.hidden = true;
+      set('r-len', both(r.lengthIn));
+      set('r-angle', `${r.angle}°`);
+      const tbody = document.getElementById('r-table') as HTMLElement;
+      tbody.replaceChildren(
+        ...r.table.map((row) => {
+          const tr = document.createElement('tr');
+          const a = document.createElement('td');
+          const l = document.createElement('td');
+          a.textContent = `${row.angle}°${row.angle === r.angle ? ' (your pick)' : ''}`;
+          l.textContent = both(row.lengthIn);
+          tr.append(a, l);
+          return tr;
+        })
+      );
+      out.hidden = false;
+    } catch (x) {
+      err.textContent = x instanceof Error ? x.message : 'Please check your entries.';
+      err.hidden = false;
+      out.hidden = true;
+    }
+  });
+</script>
