@@ -12,7 +12,7 @@ const itemListLd = {
   '@type': 'ItemList',
   name: 'Our most recommended dog products',
   description:
-    'The single top pick from each Dogtur buying guide — research-based recommendations for parents of aging dogs.',
+    'The single top pick from each Dogtur buying guide — research-based recommendations for dog owners.',
   itemListElement: RECOMMENDED.map((p, i) => ({
     '@type': 'ListItem',
     position: i + 1,
@@ -23,7 +23,7 @@ const itemListLd = {
 ---
 <BaseLayout
   title="Our Most Recommended Dog Products | Dogtur"
-  description="The short list: the single top pick from each Dogtur buying guide — food, beds, ramps, supplements, and gear for aging dogs."
+  description="The short list: the single top pick from each Dogtur buying guide — food, beds, ramps, supplements, collars and more."
   canonical={`${SITE}/recommended-products/`}
   jsonLd={[itemListLd]}
 >

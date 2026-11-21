@@ -1,6 +1,12 @@
 # dogtur.com authority plan (living file)
 
-Started 12 Nov 2026. Continuous project: every session reads this first, then RECOVERY_STATUS.md, then updates the log at the bottom.
+Started 12 Nov 2026. Continuous project.
+
+**Every session:** (1) read "NEXT UP" below, (2) do it, (3) tick it in the Roadmap, (4) add one dated line to the Log, (5) move NEXT UP to the next open item. When Muddaser asks "what's next?", answer from NEXT UP + Roadmap.
+
+## NEXT UP (updated 21 Nov 2026)
+1. **Indexing, first thing on 22 Nov** (before other sites use the shared quota): the 8 left from Day 1: trash cans, collars, Yorkies, Maltese, Boston, American Bully, French Bulldog, calorie calculator. Then Day 2 list on 23 Nov, Day 3 on 24 Nov.
+2. **Week 1 content:** beef liver post + Corgi food post (see Roadmap, Week 1).
 Search Console: m321 Chrome, property **URL-prefix `https://dogtur.com/`** (the `sc-domain:` property is NOT verified).
 
 ## Snapshot 12 Nov 2026 (Search Console)
@@ -101,25 +107,62 @@ Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refu
 - Old WordPress junk (/search/…, /author/…, /category/…) already 404 or 301: leave it, Google drops it on its own. Never use the Removals tool on them (it hides, it doesn't fix).
 - Old addresses that 301 to a loosely related page (soft-404 risk), fix by writing the real page later, then repoint: /best-dog-food-for-corgi/ (→ senior food), /best-names-for-dogs/ (→ homepage; becomes a dog-name tool), /best-puppy-shampoo/ (→ grooming guide).
 
-## The plan (in order)
-### Phase 1: recover what is already earned (next 2 weeks)
-1. ~~Recreate the 4 lost pages and repoint the old redirects.~~ Done 12 Nov.
-2. Anal-gland/scooting post: "best dog food for anal gland issues" (fiber page's only clicks came from this angle).
-3. Senior Rottweiler food (Rottweiler queries 201 imp).
-4. ~~Title refresh on pages at position 3–15 with 0 clicks.~~ Done 12 Nov (collars, trash cans, fiber, Yorkies, Boston). Check CTR change ~10 Dec.
-5. ~~Remove noindex brief pages.~~ Already out of the build; GSC's "noindex" count is old data and will drain.
+## Roadmap: 21 Nov 2026 to mid-Feb 2027
+Goal: more pages on Google page 1 for searches dogtur already shows for, then widen to new dog topics. Each week mixes the same five jobs: **index**, **improve**, **add**, **interlink**, **measure**.
 
-### Phase 2: trust (needs Muddaser)
-- Author: "Written by Muddaser Altaf" with a short true bio + photo. Still undecided since 7 Nov.
-- Real-dog photos into `photos-inbox/` (still empty).
-- Optional vet reviewer for health posts.
+**KPIs** (baseline 21 Nov): indexed pages 46 · clicks per week 7 · impressions per week ~1,410 · pages averaging top 10: 1 (less-poop, 10.2) · tools 3.
+Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 6 tools.
 
-### Phase 3: tools (link + traffic magnets) — see list below
-Build 1 tool every 1–2 weeks, each with a companion article and links to related buying guides.
+**Standing weekly routine**
+- Index: every new or substantially updated page gets a Request indexing, first thing in the morning, max ~8 a day (shared quota).
+- Add: 2 new posts a week (or 1 post + 1 tool). Topic must come from Search Console demand or sit next to an existing cluster.
+- Interlink: every new page gets links FROM 3+ related existing pages, and links TO its hub, siblings and a relevant tool.
+- Improve: 1–2 existing pages a week to UPGRADE_STANDARD.md, chosen from Search Console: position 8–20 first (closest to page 1), then "crawled, not indexed".
+- Measure: Search Console check every 2 weeks (dates below); update KPIs and the Log.
 
-### Phase 4: steady publishing
-- 2 posts per week, each on a query Google already shows dogtur for, or a topic next to a tool.
-- Monthly Search Console review: update this file's snapshot and pick next topics from rising queries.
+### Month 1
+**Week 1 (21–27 Nov)**
+- [x] Indexing Day 1: homepage, high-fiber (21 Nov; quota then ran out)
+- [ ] Indexing: rest of Day 1 (8), Day 2 (10), Day 3 (5)
+- [ ] New post: how to cook beef liver for dogs (old URL /how-to-cook-beef-liver-for-dogs/ still shows at ~position 10); repoint its 301
+- [ ] New post: best dog food for Corgis (old URL demand); repoint /best-dog-food-for-corgi/
+- [x] Section pages: drop leftover "aging dogs" wording (21 Nov)
+
+**Week 2 (28 Nov–4 Dec)**
+- [ ] 29 Nov: Search Console check: did requested pages get indexed? Old WordPress URLs replaced by new ones? Positions vs 21 Nov
+- [ ] New post: best puppy shampoo (repoint /best-puppy-shampoo/); start a "puppy" angle across food posts
+- [ ] Tool #4: dog chocolate toxicity calculator + companion post "my dog ate chocolate: what to do" (vet-sourced, call-the-vet first)
+- [ ] Improve: less-poop page (position ~10: push into top 5: title/intro CTR, add comparison depth)
+
+**Week 3 (5–11 Dec)**
+- [ ] Hub pages: turn the 7 section pages into real hubs (intro, "start here" picks, tools, all guides). /senior-dog-behavior/ already gets impressions at ~33
+- [ ] Interlinking audit: script that lists pages with fewer than 3 internal links in; fix all
+- [ ] Improve: joint supplements (52→33, rising) and essential products (67→26)
+- [ ] New post: from Search Console's newest rising queries (pick on the day)
+
+**Week 4 (12–18 Dec)**
+- [ ] 13 Dec: Search Console check + CTR review of every page at position ≤15 (titles/descriptions)
+- [ ] Improve: dementia page (position ~76) + Tool #5: canine cognitive dysfunction checklist (CADES-style, vet-sourced)
+- [ ] Improve: senior dog food (position 70–80: rethink angle; compete on a narrower query such as "senior dog food for small dogs")
+- [ ] New post: from Search Console demand
+
+### Month 2 (19 Dec–15 Jan): breed food cluster + gear
+- [ ] Breed food posts, 2 a week, most-searched breeds not yet covered: Labrador, German Shepherd, Golden Retriever, Shih Tzu, Pomeranian, Dachshund, Pit Bull, Husky. Each links to the calorie calculator and sibling breeds
+- [ ] Gear cluster next to collars/trash cans: harness by dog size, crate sizes, car seat covers
+- [ ] Tool #6: gear size finder (collar, harness, crate, bed) linked from the gear posts
+- [ ] 27 Dec + 10 Jan: Search Console checks; improve the 2 pages closest to page 1 each time
+
+### Month 3 (16 Jan–15 Feb): health cluster + links
+- [ ] Health posts with search demand, strict YMYL rules: ear infections, itchy skin, diarrhea, vomiting ("when to see a vet"); anal glands as its own post only if the fiber page reaches top 10 for it
+- [ ] Tools #7–8: dog food recall checker (FDA data), cost of owning a dog
+- [ ] Links: list dog blogs and resource pages that link to calculators; draft outreach emails for the tools (sent only with Muddaser's OK)
+- [ ] Prune/merge: any page still "crawled, not indexed" after 6 weeks gets merged into a stronger page or rewritten
+- [ ] Mid-Feb: full review against KPIs; write the next quarter's roadmap
+
+### Blocked on Muddaser (biggest ranking levers left)
+- Amazon SiteStripe links for products in the 5 new posts (no income from them until then)
+- Author name yes/no + real-dog photos (trust signals Google weighs on pet health and product pages)
+- Approval before any outreach email is sent
 
 ## Tools backlog (ranked: demand × fit with existing traffic × effort)
 Free = pure code, no API. API = needs a key (key goes in Cloudflare env, never in the page).
@@ -152,3 +195,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 - 12 Nov 2026 (round 2, Muddaser: "improve pages before indexing"): GSC drill-down found 7 live posts "crawled, not indexed" + 2 "discovered". Upgraded 14 pages to UPGRADE_STANDARD.md (answer-first, at-a-glance tables, real-query coverage, honest original element, source audit; helpers removed unverifiable stats and fixed errors: Hill's w/d fiber %, CertiPUR-US scope, ramp "2× height" = 30° slope, 2 false "no affiliate links" disclosures). New post: Rottweiler food. Tools #2 dog age + #3 ramp calculators; shared ToolLayout; FAQPage schema auto-generated from every "## FAQ" (31 pages); markdown table styles. Indexing plan written above: request only after this deploy, 3 days, ~10/day.
 - 12 Nov 2026: Day 1 indexing approved by Muddaser; blocked by shared daily quota (already used). Nothing requested yet. Retry 13 Nov.
 - 21 Nov 2026 check (no indexing requests sent yet): last 7 days vs previous 7: clicks 7 vs 5, impressions ~1,410 flat, but positions improving on most upgraded pages (less-poop 12.8→10.2, Chihuahua 47→14, trash cans 62→47, joint supplements 52→33, Boston 55→31, essential products 67→26). Indexed 42→46; crawled-not-indexed 16→20 (report lags). Google still serves several OLD WordPress URLs (yorkies, umbrella, chihuahua, french bulldog) despite 301s, so indexing requests for the new URLs matter. Old URL /how-to-cook-beef-liver-for-dogs/ shows at position ~10 but 301s to the nutrition guide: candidate for its own post.
+- 21 Nov 2026: indexing sent for homepage + high-fiber, then "Quota Exceeded" (shared quota). Wrote the 3-month Roadmap + NEXT UP. Fixed section-page description wording.
