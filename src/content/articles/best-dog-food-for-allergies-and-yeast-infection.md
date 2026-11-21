@@ -164,6 +164,8 @@ The World Association for Veterinary Dermatology's clinical consensus guidelines
 
 (1) A gap analysis of top-ranking articles; (2) veterinary sources cited with links throughout; (3) label and formulation analysis; (4) mining of verified-purchase Chewy reviews — owner self-reports with selection bias, not our testing. Hands-on feeding trials are planned. The Natural Balance button is an Amazon affiliate link; it did not decide the listing.
 
+Some breeds show up often with skin and food-allergy problems. Breed-specific advice: [French Bulldogs](/senior-dog-nutrition/best-dog-food-for-french-bulldogs/) and [Boston Terriers](/senior-dog-nutrition/best-dog-food-for-boston-terrier/).
+
 ## FAQ
 
 ### What are the most common food allergies in dogs?

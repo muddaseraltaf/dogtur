@@ -162,6 +162,8 @@ Two things owners consistently say afterward: they wish they'd had the conversat
 
 Sizing a ramp for the bed, sofa or car? Our free [dog ramp calculator](/tools/dog-ramp-calculator/) gives the length you need for a gentle slope.
 
+Many arthritic dogs stiffen up in cold, wet weather. A [dog umbrella](/senior-dog-gear/best-dog-umbrella/) or a raincoat keeps a small senior dry on short walks.
+
 ## Frequently asked questions
 
 ### Can arthritis in dogs be cured?

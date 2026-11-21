@@ -153,6 +153,10 @@ Diet can only fix a food problem. Persistent digestive changes deserve a veterin
 
 Not sure how much to feed? Our free [dog calorie calculator](/tools/dog-calorie-calculator/) turns your dog's weight and the kcal per cup on the bag into cups per day.
 
+Sudden loose stool after a raid on the garbage is common; if your dog is a scavenger, a [dog-proof trash can](/senior-dog-gear/dog-proof-trash-cans/) removes the cause.
+
+Gassy flat-faced breeds have their own feeding tricks: see our [Boston Terrier food guide](/senior-dog-nutrition/best-dog-food-for-boston-terrier/).
+
 ## FAQ
 
 ### Does wet food make dogs poop more?

@@ -197,6 +197,8 @@ Go to the emergency clinic for a swollen, hot, painful lump that appears quickly
 
 > **A note on review:** This guide is based on published veterinary sources (VCA Hospitals, the MSD Veterinary Manual, and the American Kennel Club) and follows our editorial standards. It is general information, not a diagnosis, and has not yet been independently reviewed by a veterinarian. We will add a named reviewer when that step is complete.
 
+Brushing a double coat? Our [Golden Retriever brush guide](/senior-dog-grooming/best-brush-for-golden-retriever/) explains which tool does what. For dogs that swim, a [waterproof collar](/senior-dog-gear/best-waterproof-dog-collars/) stops the wet-nylon smell around the neck.
+
 ## Frequently asked questions
 
 ### How often should I brush a senior dog?

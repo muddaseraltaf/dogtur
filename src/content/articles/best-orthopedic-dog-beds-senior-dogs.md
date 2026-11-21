@@ -233,6 +233,8 @@ Rough tiers: **budget ($30-$70)** thin foam and short warranties, fine as a seco
 
 Wash the cover weekly for droolers or incontinent seniors, and check for a waterproof liner or add a mattress protector. Replace the bed when the foam no longer rebounds after your dog gets up, when you can feel the floor through it, or when seams and zippers fail. Check for replacement covers before replacing a good foam core.
 
+Big, heavy breeds put the most load on a bed. If you share your home with one, see our guides to [dog beds for Golden Retrievers](/senior-dog-gear/best-dog-beds-for-golden-retrievers/) and [feeding Rottweilers](/senior-dog-nutrition/best-dog-food-for-rottweilers/) to keep joints carrying less weight.
+
 ## Frequently asked questions
 
 ### Are orthopedic beds worth it for arthritic senior dogs?

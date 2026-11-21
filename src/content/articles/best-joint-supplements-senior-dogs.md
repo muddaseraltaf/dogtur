@@ -202,6 +202,8 @@ This is non-negotiable. **Never give your dog ibuprofen (Advil), acetaminophen (
 
 A supplement is one small piece of arthritis care. The pieces with the strongest evidence are the unglamorous ones: keeping your dog lean (every extra pound multiplies joint load), low-impact exercise, non-slip flooring, an [orthopedic bed](/senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/), and vet-prescribed pain medication when needed. A joint chew without weight management is like an umbrella in a hurricane — technically present, practically limited. If you're still deciding whether your dog qualifies as senior at all, see [when a dog is considered senior](/senior-dog-health/what-age-is-a-senior-dog/).
 
+Large breeds are where joint care starts earliest: our [Rottweiler food guide](/senior-dog-nutrition/best-dog-food-for-rottweilers/) covers controlled growth in puppies, and our [Golden Retriever bed guide](/senior-dog-gear/best-dog-beds-for-golden-retrievers/) covers support at rest.
+
 ## Frequently asked questions
 
 ### Do joint supplements actually work for senior dogs?

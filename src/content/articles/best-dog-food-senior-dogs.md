@@ -215,6 +215,8 @@ Sometimes the food isn't the problem — getting to it is. The AKC's senior nutr
 
 Don't swap cold turkey. A gradual transition over 7–10 days (mixing increasing amounts of the new food into the old) prevents most digestive upset. Watch stool quality and appetite during the switch — loose stool that persists past two weeks, or a dog that stops eating, is a vet conversation. Our [Senior Dog Nutrition Guide](/senior-dog-nutrition/senior-dog-nutrition-guide/) covers feeding schedules and special cases in more depth.
 
+Breed matters as much as age. Breed-by-breed guides: [Maltese](/senior-dog-nutrition/best-dog-food-for-maltese/), [Chihuahua](/senior-dog-nutrition/best-dog-food-for-chihuahua/), [Yorkie](/senior-dog-nutrition/best-dog-food-for-yorkies/), [French Bulldog](/senior-dog-nutrition/best-dog-food-for-french-bulldogs/), [Boston Terrier](/senior-dog-nutrition/best-dog-food-for-boston-terrier/), [American Bully](/senior-dog-nutrition/best-dog-foods-for-american-bully/) [Rottweiler](/senior-dog-nutrition/best-dog-food-for-rottweilers/) and [Corgi](/senior-dog-nutrition/best-dog-food-for-corgis/).
+
 ## Frequently asked questions
 
 ### How much protein should a senior dog food have?

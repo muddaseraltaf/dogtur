@@ -184,6 +184,8 @@ Our [senior dog food guide](/senior-dog-nutrition/best-dog-food-senior-dogs/) co
 
 Have a different toy breed? See our [Chihuahua food guide](/senior-dog-nutrition/best-dog-food-for-chihuahua/) and [Maltese food guide](/senior-dog-nutrition/best-dog-food-for-maltese/).
 
+Cooked liver is a popular high-value treat for small dogs, but portions must be tiny; see [how to cook beef liver for dogs](/senior-dog-nutrition/how-to-cook-beef-liver-for-dogs/) for amounts by size.
+
 ## FAQ
 
 ### What is the best dog food for Yorkies?

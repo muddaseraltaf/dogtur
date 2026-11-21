@@ -142,6 +142,8 @@ Whichever you choose, the feeding amount matters more than the brand: even the b
 
 Most weight-loss plans fail on treats, not meals. Keep treats to about 10% of daily calories, feed two measured meals rather than free-feeding, weigh monthly on the same scale, and log weight, energy and coat. Bring your exact feeding amounts to every recheck: if weight keeps climbing despite careful feeding, that is a conversation for your vet, who decides based on bloodwork, not how the dog looks. Layer this onto senior feeding basics: see our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/) and [senior food guide](/senior-dog-nutrition/best-dog-food-senior-dogs/).
 
+Weight control looks similar in breeds that gain easily without a thyroid problem; our [Corgi food guide](/senior-dog-nutrition/best-dog-food-for-corgis/) has a worked weight-loss feeding table.
+
 ## FAQ
 
 ### Should I look for a low-iodine dog food?

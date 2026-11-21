@@ -12,3 +12,4 @@ Goal: make each page the most useful, honest answer for the searches Google alre
 8. Set `updated: 2026-11-12` when changes are substantive. Do not change slug, section, hub or (unless told) title.
 9. Keep every existing affiliate button and internal link (including recent "see also" lines). Add 2–4 relevant internal links to published dogtur posts (check `status: published` and the right section prefix: s1 senior-dog-health, s2 senior-dog-nutrition, s3 senior-dog-mobility, s4 senior-dog-behavior, s5 senior-dog-grooming, s6 senior-dog-gear, s7 senior-dog-lifestyle).
 10. Health: "signs to discuss with your vet", no medicine dosages, no diagnoses.
+11. **Interlinking check.** After any new page: `npm run build && npm run audit`. Every article and tool must have 3+ contextual links from other articles (nav, footer and auto "related" lists don't count) and zero broken links.

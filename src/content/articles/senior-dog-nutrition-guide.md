@@ -165,6 +165,8 @@ The short honest list: omega-3s (if the diet is light on them), a joint suppleme
 
 Not sure how much to feed? Our free [dog calorie calculator](/tools/dog-calorie-calculator/) turns your dog's weight and the kcal per cup on the bag into cups per day.
 
+Making treats at home? Our guide to [cooking beef liver for dogs](/senior-dog-nutrition/how-to-cook-beef-liver-for-dogs/) covers safe methods and why vitamin A means a little goes a long way.
+
 ## Frequently asked questions
 
 ### Do senior dogs really need senior dog food?

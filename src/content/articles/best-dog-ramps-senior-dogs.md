@@ -208,6 +208,10 @@ Keep sessions to a few minutes, use treats your dog loves, and stop while it is 
 
 Rinse mud and grit off the walking surface (embedded grit makes sandpaper-style surfaces worse), keep folding latches and telescoping slides free of sand, store the ramp indoors and out of a hot trunk (heat and UV age plastic and turf), and check seasonally for worn spots or peeling turf. Do not use an indoor carpeted ramp as a car ramp; it will soak up weather and wear out fast.
 
+Heavy dogs are hardest to lift into a car, which is why ramps matter most for large breeds; keeping them lean helps too (see our [Rottweiler feeding guide](/senior-dog-nutrition/best-dog-food-for-rottweilers/)).
+
+Long-backed breeds such as Corgis and Dachshunds are the classic case for a ramp instead of jumping; keeping them lean matters just as much (see our [Corgi food guide](/senior-dog-nutrition/best-dog-food-for-corgis/)).
+
 ## Frequently asked questions
 
 ### Are ramps or stairs better for senior dogs?

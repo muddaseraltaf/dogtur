@@ -174,6 +174,10 @@ We run no affiliate programs: no product links, no commissions, no paid placemen
 
 For coat and skin care, start with the [senior dog grooming routine](/senior-dog-grooming/senior-dog-grooming-daily-care-guide/) and our guide to the [best brush for short-haired dogs](/senior-dog-grooming/best-dog-brush-for-short-hair/).
 
+Older dogs that scavenge are at real risk from kitchen trash (cooked bones, corn cobs, xylitol gum). A locking can is the simplest fix; see our [dog-proof trash can guide](/senior-dog-gear/dog-proof-trash-cans/).
+
+For rainy walks, a [waterproof collar](/senior-dog-gear/best-waterproof-dog-collars/) won't soak up water and smell, and small dogs who refuse to go out in the rain may do better under a [leash-mounted dog umbrella](/senior-dog-gear/best-dog-umbrella/).
+
 ## Frequently asked questions
 
 ### What is the single most important product for a senior dog?

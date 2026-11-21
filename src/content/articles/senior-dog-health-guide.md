@@ -199,6 +199,8 @@ This is the section most senior-dog guides skip, and the one owners say they nee
 
 If your older dog is drinking and peeing more, eating ravenously and getting a pot belly, read [Cushing's disease in senior dogs](/senior-dog-health/cushings-disease-in-senior-dogs/) before assuming it is just age.
 
+Prevention beats treatment for poisoning: most dangerous ingestions start in the kitchen bin. Our [dog-proof trash can guide](/senior-dog-gear/dog-proof-trash-cans/) covers which lids actually stop a determined dog.
+
 ## Frequently asked questions
 
 ### At what age is my dog officially a senior?

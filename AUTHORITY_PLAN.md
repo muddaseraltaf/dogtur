@@ -5,8 +5,8 @@ Started 12 Nov 2026. Continuous project.
 **Every session:** (1) read "NEXT UP" below, (2) do it, (3) tick it in the Roadmap, (4) add one dated line to the Log, (5) move NEXT UP to the next open item. When Muddaser asks "what's next?", answer from NEXT UP + Roadmap.
 
 ## NEXT UP (updated 21 Nov 2026)
-1. **Indexing, first thing on 22 Nov** (before other sites use the shared quota): the 8 left from Day 1: trash cans, collars, Yorkies, Maltese, Boston, American Bully, French Bulldog, calorie calculator. Then Day 2 list on 23 Nov, Day 3 on 24 Nov.
-2. **Week 1 content:** beef liver post + Corgi food post (see Roadmap, Week 1).
+1. **Indexing, first thing on 22 Nov** (before other sites use the shared quota): the 8 left from Day 1: trash cans, collars, Yorkies, Maltese, Boston, American Bully, French Bulldog, calorie calculator. Then Day 2 list on 23 Nov, Day 3 on 24 Nov (Day 3 now also includes the Corgi and beef liver posts).
+2. **Week 2 (from 28 Nov):** 29 Nov Search Console check, puppy shampoo post, Tool #4 chocolate calculator, push less-poop page to top 5 (see Roadmap).
 Search Console: m321 Chrome, property **URL-prefix `https://dogtur.com/`** (the `sc-domain:` property is NOT verified).
 
 ## Snapshot 12 Nov 2026 (Search Console)
@@ -60,6 +60,7 @@ Only page with real clicks: `/senior-dog-nutrition/best-dog-food-for-less-poop/`
    - Umbrella post: PETLESO https://www.amazon.com/dp/B0G8JRFG4P · ENJOYING https://www.amazon.com/dp/B07RGWD7XM · NAMSAN https://www.amazon.com/dp/B0H28Y7D8Z · LOVEPET https://www.amazon.com/dp/B07W116BLK
    - Golden brush post: Coastal Safari Pin Brush https://www.amazon.com/dp/B074N7YPSB · Hertzko Slicker https://www.amazon.com/dp/B00ZGPI3OY · Mars Coat King rake https://www.amazon.com/dp/B007L8Z17Q · FURminator Large Long Hair https://www.amazon.com/dp/B0040QQ07C · Chris Christensen #504 comb https://www.amazon.com/dp/B07T6DQBVF
    - Rottweiler post (pick the amazon.com pages): Purina Pro Plan Large Breed Puppy Chicken & Rice · Hill's Science Diet Puppy Large Breed · Royal Canin Rottweiler Puppy · Royal Canin Rottweiler Adult · Blue Buffalo Life Protection Large Breed Puppy · Blue Buffalo Life Protection Large Breed Adult
+   - Corgi post: Royal Canin Medium Adult (dry) · Royal Canin Medium Puppy (dry)
    (Check each is in stock first. Also check Ruffwear Headwater collar is still sold; the collar page has a button for it.)
 4. Request indexing: only AFTER the page-upgrade round is live. Follow the Indexing plan below.
 
@@ -93,7 +94,7 @@ Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refu
 20. /senior-dog-health/what-age-is-a-senior-dog/
 
 **Day 3: tools and hubs**
-21. /tools/dog-age-calculator/ 22. /tools/dog-ramp-calculator/ 23. /tools/ 24. /senior-dog-nutrition/best-dog-food-for-less-poop/ (already ranks; request only so the upgrade is seen) 25. /recommended-products/
+21. /tools/dog-age-calculator/ 22. /tools/dog-ramp-calculator/ 23. /tools/ 24. /senior-dog-nutrition/best-dog-food-for-less-poop/ (already ranks; request only so the upgrade is seen) 25. /recommended-products/ 26. /senior-dog-nutrition/best-dog-food-for-corgis/ 27. /senior-dog-nutrition/how-to-cook-beef-liver-for-dogs/
 
 **How to send (works, 12 Nov):** m321 Chrome → Search Console property `https://dogtur.com/` → type the full URL in the top "Inspect any URL" box → Enter → wait ~10 s → click REQUEST INDEXING (a JS-dispatched mousedown/mouseup/click works) → wait up to ~2 min for "Indexing requested" or "Quota Exceeded" → Dismiss. Stop at the first Quota Exceeded.
 
@@ -110,7 +111,7 @@ Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refu
 ## Roadmap: 21 Nov 2026 to mid-Feb 2027
 Goal: more pages on Google page 1 for searches dogtur already shows for, then widen to new dog topics. Each week mixes the same five jobs: **index**, **improve**, **add**, **interlink**, **measure**.
 
-**KPIs** (baseline 21 Nov): indexed pages 46 · clicks per week 7 · impressions per week ~1,410 · pages averaging top 10: 1 (less-poop, 10.2) · tools 3.
+**KPIs** (baseline 21 Nov): indexed pages 46 · clicks per week 7 · impressions per week ~1,410 · pages averaging top 10: 1 (less-poop, 10.2) · tools 3 · live posts 36 (incl. tools).
 Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 6 tools.
 
 **Standing weekly routine**
@@ -124,8 +125,8 @@ Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 
 **Week 1 (21–27 Nov)**
 - [x] Indexing Day 1: homepage, high-fiber (21 Nov; quota then ran out)
 - [ ] Indexing: rest of Day 1 (8), Day 2 (10), Day 3 (5)
-- [ ] New post: how to cook beef liver for dogs (old URL /how-to-cook-beef-liver-for-dogs/ still shows at ~position 10); repoint its 301
-- [ ] New post: best dog food for Corgis (old URL demand); repoint /best-dog-food-for-corgi/
+- [x] New post: how to cook beef liver for dogs; 301 repointed (21 Nov)
+- [x] New post: best dog food for Corgis; 301 repointed (21 Nov)
 - [x] Section pages: drop leftover "aging dogs" wording (21 Nov)
 
 **Week 2 (28 Nov–4 Dec)**
@@ -136,7 +137,7 @@ Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 
 
 **Week 3 (5–11 Dec)**
 - [ ] Hub pages: turn the 7 section pages into real hubs (intro, "start here" picks, tools, all guides). /senior-dog-behavior/ already gets impressions at ~33
-- [ ] Interlinking audit: script that lists pages with fewer than 3 internal links in; fix all
+- [x] Interlinking audit: `npm run audit` (scripts/link-audit.py); 10 weak pages fixed, all 36 now have 3+ contextual links in (21 Nov, pulled forward)
 - [ ] Improve: joint supplements (52→33, rising) and essential products (67→26)
 - [ ] New post: from Search Console's newest rising queries (pick on the day)
 
@@ -196,3 +197,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 - 12 Nov 2026: Day 1 indexing approved by Muddaser; blocked by shared daily quota (already used). Nothing requested yet. Retry 13 Nov.
 - 21 Nov 2026 check (no indexing requests sent yet): last 7 days vs previous 7: clicks 7 vs 5, impressions ~1,410 flat, but positions improving on most upgraded pages (less-poop 12.8→10.2, Chihuahua 47→14, trash cans 62→47, joint supplements 52→33, Boston 55→31, essential products 67→26). Indexed 42→46; crawled-not-indexed 16→20 (report lags). Google still serves several OLD WordPress URLs (yorkies, umbrella, chihuahua, french bulldog) despite 301s, so indexing requests for the new URLs matter. Old URL /how-to-cook-beef-liver-for-dogs/ shows at position ~10 but 301s to the nutrition guide: candidate for its own post.
 - 21 Nov 2026: indexing sent for homepage + high-fiber, then "Quota Exceeded" (shared quota). Wrote the 3-month Roadmap + NEXT UP. Fixed section-page description wording.
+- 21 Nov 2026 (later): published Corgi food + beef liver posts (old WP URLs now 301 to them; Search Console showed little demand for either, kept as breed-cluster start + common owner question). Built `npm run audit` internal-link checker; fixed 10 under-linked pages (trash cans had 0 contextual links in). 53 pages, 0 broken links.
