@@ -175,6 +175,8 @@ Have a different breed with a weight problem? See our [French Bulldog food guide
 
 For food-motivated Corgis, a few pieces of plain cooked liver make a strong training reward without many calories; see [how to cook beef liver for dogs](/senior-dog-nutrition/how-to-cook-beef-liver-for-dogs/).
 
+Food-motivated dogs are frequent chocolate thieves; our [chocolate toxicity calculator](/tools/dog-chocolate-toxicity-calculator/) shows how much is dangerous for your dog's weight.
+
 ## FAQ
 
 ### What is the best dog food for Corgis?

@@ -75,7 +75,7 @@ Do not wait for a lump to become large. Vets can often sample a small lump quick
 
 There is no single schedule. The AKC says the right frequency depends on breed, coat, and lifestyle, and warns that over-bathing can strip too much oil from the skin ([AKC](https://www.akc.org/expert-advice/health/how-often-should-you-wash-your-dog/)). For a typical senior with ordinary skin, that usually means bathing only when the dog is dirty or smelly, and brushing and spot-cleaning in between.
 
-**Choosing a shampoo.** Look for a mild shampoo made for dogs. Human shampoos are formulated for a different skin pH and are not designed for dogs. For dry or itchy skin, ask your vet before picking a medicated or moisturizing product, because itching can signal allergies, infection, or other conditions that need treatment, not just a different soap. The AKC notes that a groomer or veterinarian may recommend medicated shampoo for certain health conditions.
+**Choosing a shampoo.** Look for a mild shampoo made for dogs. Human shampoos are formulated for a different skin pH and are not designed for dogs. For dry or itchy skin, ask your vet before picking a medicated or moisturizing product, because itching can signal allergies, infection, or other conditions that need treatment, not just a different soap. The AKC notes that a groomer or veterinarian may recommend medicated shampoo for certain health conditions. For a young dog, see our [puppy shampoo guide](/senior-dog-grooming/best-puppy-shampoo/).
 
 **Making bath time easier on stiff joints:**
 

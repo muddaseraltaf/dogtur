@@ -1,0 +1,206 @@
+---
+// Dog chocolate toxicity estimate. Math in src/lib/chocolate.mjs (tested).
+// Figures: Merck Veterinary Manual, Chocolate Toxicosis in Animals.
+import ToolLayout from '../../layouts/ToolLayout.astro';
+import { CHOCOLATES } from '../../lib/chocolate.mjs';
+
+const MERCK = 'https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals';
+const faq = [
+  {
+    q: 'My dog ate chocolate. What should I do?',
+    a: 'Call your veterinarian, an emergency vet, or a pet poison hotline right away, even if your dog seems fine: signs usually start 6 to 12 hours after eating. Have ready your dog’s weight, the type of chocolate, how much was eaten and when. Don’t try to make your dog vomit unless a vet tells you to.',
+  },
+  {
+    q: 'How much chocolate is toxic to a dog?',
+    a: 'It depends on the type of chocolate and the dog’s weight. The Merck Veterinary Manual reports mild signs at about 20 mg of methylxanthines (theobromine and caffeine) per kg of body weight, heart effects at 40 to 50 mg/kg and seizures at 60 mg/kg or more. Dark and baking chocolate and cocoa powder are far more dangerous than milk chocolate.',
+  },
+  {
+    q: 'Which chocolate is the most dangerous for dogs?',
+    a: 'Dry cocoa powder and unsweetened baking chocolate contain the most methylxanthines, followed by dark and semisweet chocolate, then milk chocolate. White chocolate contains very little, though its fat and sugar can still upset a dog’s stomach.',
+  },
+  {
+    q: 'How long after eating chocolate will a dog get sick?',
+    a: 'According to the Merck Veterinary Manual, signs usually appear within 6 to 12 hours and can last up to 72 hours in severe cases. Early signs include vomiting, diarrhea, thirst, restlessness and a racing heart.',
+  },
+  {
+    q: 'My dog ate chocolate but seems fine. Is it safe to wait?',
+    a: 'No. Because signs can take hours to appear, the safest step is to call a vet or poison hotline now. Treatment is simpler and more effective when it starts early.',
+  },
+];
+---
+<ToolLayout
+  slug="dog-chocolate-toxicity-calculator"
+  name="Dog Chocolate Toxicity Calculator"
+  title="Dog Chocolate Toxicity Calculator: How Much Is Dangerous? | Dogtur"
+  description="My dog ate chocolate: estimate the risk from your dog's weight, the chocolate type and amount, using Merck Veterinary Manual figures. Then call your vet."
+  h1="Dog Chocolate Toxicity Calculator"
+  lede="Your dog ate chocolate? Enter what and how much to estimate the risk, using figures from the Merck Veterinary Manual. Whatever the result, call your vet or a pet poison hotline now."
+  faq={faq}
+>
+<div class="tool-page">
+  <aside class="urgent" role="note">
+    <strong>Emergency first:</strong> call your vet or an emergency clinic. US pet poison
+    hotlines (24/7, a consultation fee may apply):
+    <a href="tel:+18884264435">ASPCA Animal Poison Control (888) 426-4435</a> ·
+    <a href="tel:+18557647661">Pet Poison Helpline (855) 764-7661</a>.
+  </aside>
+
+  <form id="calc" class="tool-card" novalidate>
+    <div class="row">
+      <label for="type">Type of chocolate</label>
+      <select id="type" name="type">
+        {Object.entries(CHOCOLATES).map(([key, c]) => (
+          <option value={key} selected={key === 'milk'}>{c.label}</option>
+        ))}
+      </select>
+    </div>
+    <div class="row" id="pct-row" hidden>
+      <label for="cocoaPct">Cocoa % on the wrapper</label>
+      <input id="cocoaPct" name="cocoaPct" type="number" inputmode="numeric" min="30" max="100" step="1" placeholder="e.g. 70" />
+    </div>
+    <div class="row">
+      <label for="amount">How much was eaten</label>
+      <div class="inline">
+        <input id="amount" name="amount" type="number" inputmode="decimal" min="0" step="any" placeholder="e.g. 1.5" />
+        <select id="amountUnit" name="amountUnit" aria-label="Amount unit">
+          <option value="oz">oz</option>
+          <option value="g">g</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <label for="weight">Dog’s weight</label>
+      <div class="inline">
+        <input id="weight" name="weight" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 20" />
+        <select id="weightUnit" name="weightUnit" aria-label="Weight unit">
+          <option value="lb">lb</option>
+          <option value="kg">kg</option>
+        </select>
+      </div>
+    </div>
+    <button type="submit">Estimate risk</button>
+    <p id="error" class="error" role="alert" hidden></p>
+  </form>
+
+  <section id="result" class="tool-result" aria-live="polite" hidden>
+    <h2 id="r-title"></h2>
+    <dl>
+      <div><dt>Estimated dose</dt><dd id="r-dose"></dd></div>
+      <div><dt>Methylxanthines eaten</dt><dd id="r-mg"></dd></div>
+    </dl>
+    <p id="r-text"></p>
+    <p class="note">
+      This is an estimate from average values; real chocolate varies, and some
+      dogs react at lower doses. It is not a diagnosis. Call your vet or a
+      poison hotline now and tell them these numbers.
+    </p>
+  </section>
+
+  <h2>How the estimate works</h2>
+  <p>
+    Chocolate contains theobromine and caffeine (methylxanthines), which dogs
+    break down slowly. The calculator multiplies the amount eaten by the
+    methylxanthine content of that chocolate type, divides by your dog’s
+    weight, and compares the result with the dose levels published in the
+    <a href={MERCK} rel="noopener" target="_blank">Merck Veterinary Manual</a>:
+  </p>
+  <table>
+    <thead><tr><th scope="col">Chocolate</th><th scope="col">Methylxanthines</th></tr></thead>
+    <tbody>
+      <tr><td>Dry cocoa powder</td><td>28.5 mg/g (807 mg/oz)</td></tr>
+      <tr><td>Unsweetened baking chocolate</td><td>15.5 mg/g (440 mg/oz)</td></tr>
+      <tr><td>Cocoa bean hulls (mulch)</td><td>9 mg/g (255 mg/oz)</td></tr>
+      <tr><td>Semisweet / sweet dark</td><td>5.3–5.6 mg/g (150–160 mg/oz)</td></tr>
+      <tr><td>Milk chocolate</td><td>2.3 mg/g (64 mg/oz)</td></tr>
+      <tr><td>White chocolate</td><td>0.04 mg/g (1.1 mg/oz)</td></tr>
+    </tbody>
+  </table>
+  <table>
+    <thead><tr><th scope="col">Dose (mg per kg of body weight)</th><th scope="col">What Merck reports</th></tr></thead>
+    <tbody>
+      <tr><td>About 20</td><td>Mild signs: vomiting, diarrhea, thirst</td></tr>
+      <tr><td>40–50</td><td>Heart effects: racing or irregular heartbeat</td></tr>
+      <tr><td>60 or more</td><td>Seizures possible</td></tr>
+    </tbody>
+  </table>
+  <p>
+    For a dark bar with a cocoa percentage, we scale from unsweetened chocolate
+    the way Merck does (a 65% bar ≈ 15.5 × 0.65 ≈ 10 mg/g). For semisweet we
+    use the top of Merck’s range to stay on the cautious side.
+  </p>
+
+  <h2>My dog ate chocolate: what to do now</h2>
+  <ol>
+    <li><strong>Call now.</strong> Your vet, an emergency clinic, or a pet poison hotline (numbers above). Don’t wait for signs: they usually start 6–12 hours after eating.</li>
+    <li><strong>Have the facts ready:</strong> your dog’s weight, the chocolate type (keep the wrapper), roughly how much, and when.</li>
+    <li><strong>Don’t make your dog vomit at home</strong> unless a vet tells you to and explains how.</li>
+    <li><strong>Watch for:</strong> vomiting, diarrhea, heavy thirst or urination, restlessness, panting, a racing heart, tremors or seizures. Signs can last up to 72 hours in severe cases.</li>
+    <li><strong>Check for other dangers in the treat:</strong> raisins, macadamia nuts and the sweetener xylitol are also toxic to dogs (<a href="https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets" rel="noopener" target="_blank">ASPCA list</a>).</li>
+  </ol>
+
+  <h2>Related guides</h2>
+  <ul>
+    <li><a href="/senior-dog-gear/dog-proof-trash-cans/">Dog-proof trash cans</a>: most chocolate and food poisonings start with a raid on the bin.</li>
+    <li><a href="/senior-dog-health/senior-dog-health-guide/">Senior dog health guide</a>: older dogs and dogs with heart disease are more vulnerable.</li>
+    <li><a href="/tools/dog-calorie-calculator/">Dog calorie calculator</a> and <a href="/tools/">all dog tools</a>.</li>
+  </ul>
+</div>
+</ToolLayout>
+
+<script>
+  import { calculateChocolate } from '../../lib/chocolate.mjs';
+
+  const form = document.getElementById('calc') as HTMLFormElement;
+  const err = document.getElementById('error') as HTMLParagraphElement;
+  const out = document.getElementById('result') as HTMLElement;
+  const typeSel = document.getElementById('type') as HTMLSelectElement;
+  const pctRow = document.getElementById('pct-row') as HTMLElement;
+  const set = (id: string, t: string) => ((document.getElementById(id) as HTMLElement).textContent = t);
+  const syncPct = () => (pctRow.hidden = typeSel.value !== 'darkPct');
+  typeSel.addEventListener('change', syncPct);
+  syncPct();
+
+  const COPY: Record<string, [string, string]> = {
+    low: ['Below the level Merck links to mild signs', 'This amount is below the ~20 mg/kg level where the Merck Veterinary Manual reports mild signs. Some dogs still react, and fat and sugar can cause stomach upset or pancreatitis. Call your vet for advice and watch your dog closely for the next 12–24 hours.'],
+    mild: ['Mild signs likely: call your vet now', 'This is at or above the ~20 mg/kg level where vomiting, diarrhea and thirst are reported. Call your vet or a poison hotline now; early treatment is simpler.'],
+    heart: ['Heart effects possible: urgent', 'This is in the 40–50 mg/kg range where heart effects (racing or irregular heartbeat) are reported. Contact a vet or emergency clinic immediately.'],
+    seizure: ['Seizure risk: emergency', 'This is at or above 60 mg/kg, where seizures are reported. Go to a vet or emergency clinic now and call ahead.'],
+  };
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const fd = new FormData(form);
+    try {
+      const r = calculateChocolate({
+        type: fd.get('type'),
+        cocoaPct: fd.get('cocoaPct'),
+        amount: fd.get('amount'),
+        amountUnit: fd.get('amountUnit'),
+        weight: fd.get('weight'),
+        weightUnit: fd.get('weightUnit'),
+      });
+      err.hidden = true;
+      const [title, text] = COPY[r.band];
+      set('r-title', title);
+      set('r-text', text);
+      set('r-dose', `${r.mgPerKg.toFixed(1)} mg per kg`);
+      set('r-mg', `about ${Math.round(r.mg)} mg`);
+      out.dataset.band = r.band;
+      out.hidden = false;
+      out.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    } catch (x) {
+      err.textContent = x instanceof Error ? x.message : 'Please check your entries.';
+      err.hidden = false;
+      out.hidden = true;
+    }
+  });
+</script>
+
+<style>
+  .urgent {
+    background: var(--warn-soft); border: 1px solid var(--warn); border-radius: var(--radius);
+    padding: .9rem 1rem; margin: 1rem 0; line-height: 1.6;
+  }
+  .urgent a { color: var(--warn); font-weight: 700; }
+  #result[data-band='heart'], #result[data-band='seizure'] { background: var(--warn-soft); border-color: var(--warn); }
+</style>

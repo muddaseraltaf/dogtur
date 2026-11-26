@@ -50,12 +50,14 @@ Dogtur covers dog health and vet care, food and nutrition (including breed-by-br
 ## Grooming & Daily Care
 
 - [Best Brush for a Golden Retriever](https://dogtur.com/senior-dog-grooming/best-brush-for-golden-retriever/): Pin brushes, slickers, undercoat rakes and combs for a double coat, with shedding-season routines.
+- [Best Puppy Shampoo](https://dogtur.com/senior-dog-grooming/best-puppy-shampoo/): When a puppy can first be bathed, how often, why not baby shampoo, a step-by-step first bath and five gentle puppy shampoos.
 
 ## Free Tools
 
 - [Dog Calorie & Feeding Calculator](https://dogtur.com/tools/dog-calorie-calculator/): Daily calories (RER × life-stage factor) and cups per meal from the kcal per cup on the food bag.
-- [Dog Age Calculator](https://dogtur.com/tools/dog-age-calculator/): Dog age in human years by the AKC rule and the UC San Diego epigenetic formula, plus life stage and senior onset by size.
+- [Dog Age Calculator](https://dogtur.com/tools/dog-age-calculator/): Dog age in human years by the AKC rule and the UC San Diego epigenetic formula, plus life stage, senior onset by size, and a Lap Day calculator (when your dog catches up with your age).
 - [Dog Ramp Calculator](https://dogtur.com/tools/dog-ramp-calculator/): Ramp length = height ÷ sin(angle) for 18–25° slopes, with common bed, sofa and SUV heights.
+- [Dog Chocolate Toxicity Calculator](https://dogtur.com/tools/dog-chocolate-toxicity-calculator/): Methylxanthine dose (mg/kg) from chocolate type, amount and dog weight, compared with Merck Veterinary Manual thresholds (20 mild, 40–50 heart, 60+ seizures).
 
 ## Trust & Methods
 

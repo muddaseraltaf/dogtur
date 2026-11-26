@@ -133,6 +133,8 @@ For senior dogs there's an added wrinkle: cognitive decline can erode previously
 
 **Until hands-on testing begins, every comparison above rests on three legs: published evaluations with named methodology, verified owner reviews, and manufacturer specifications — never our own untested claims.** The published evaluations we drew on: Puppy Growth Calculator's vet-advised roundup (Dr. Amanda Jondle's selection criteria: locking lids, cost, ease of cleaning), Homesthetics' in-house evaluation of pet-proof cans (including paw-swipe and stability trials on the simplehuman dual recycler), and Yahoo's 2026 editor-tested kitchen trash can roundup. Owner-review signal came from verified reviews on Home Depot, Target, and Amazon. Planned dog testing will add tip-resistance and lock-durability trials.
 
+Chocolate is one of the most common things dogs steal from the bin. If it happens, our [dog chocolate toxicity calculator](/tools/dog-chocolate-toxicity-calculator/) estimates the risk from the type, amount and your dog's weight, but call your vet first.
+
 ## FAQ
 
 ### What is the most dog-proof trash can?

@@ -55,3 +55,40 @@ export function calculateAge({ years, months = 0, size }) {
     yearsToSenior: Math.max(0, s.seniorFrom - total),
   };
 }
+
+// ---- Lap Day: the date your dog's human-equivalent age catches up with yours.
+// Uses the classic rule above (the one Lap Day calculators conventionally use).
+// A fun estimate, not a health measure.
+const DAY_MS = 86400000;
+const YEAR_DAYS = 365.2425;
+
+function parseDate(v) {
+  if (v instanceof Date) return new Date(Date.UTC(v.getUTCFullYear(), v.getUTCMonth(), v.getUTCDate()));
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(v ?? ''));
+  if (!m) return null;
+  const d = new Date(Date.UTC(+m[1], +m[2] - 1, +m[3]));
+  return Number.isNaN(d.getTime()) ? null : d;
+}
+
+/**
+ * @returns {{date: Date, dogYears: number, humanAge: number}|null} null if it never happens within 30 dog years.
+ */
+export function lapDay({ ownerBirth, dogBirth, today = new Date() }) {
+  const ob = parseDate(ownerBirth);
+  const db = parseDate(dogBirth);
+  const now = parseDate(today);
+  if (!ob || !db) throw new RangeError('Enter both birth dates.');
+  if (db > now) throw new RangeError('Your dog’s birth date can’t be in the future.');
+  if (ob > now) throw new RangeError('Your birth date can’t be in the future.');
+  if (db < ob) throw new RangeError('This calculator expects the dog to be born after you.');
+  if ((now - db) / DAY_MS / YEAR_DAYS > MAX_YEARS) throw new RangeError(`Dog age must be ${MAX_YEARS} years or less.`);
+  for (let day = 1; day <= MAX_YEARS * 366; day++) {
+    const t = db.getTime() + day * DAY_MS;
+    const dogYears = day / YEAR_DAYS;
+    const ownerAge = (t - ob.getTime()) / DAY_MS / YEAR_DAYS;
+    if (classicHumanAge(dogYears) >= ownerAge) {
+      return { date: new Date(t), dogYears, humanAge: ownerAge };
+    }
+  }
+  return null;
+}

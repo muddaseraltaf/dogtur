@@ -201,6 +201,8 @@ If your older dog is drinking and peeing more, eating ravenously and getting a p
 
 Prevention beats treatment for poisoning: most dangerous ingestions start in the kitchen bin. Our [dog-proof trash can guide](/senior-dog-gear/dog-proof-trash-cans/) covers which lids actually stop a determined dog.
 
+Older dogs and dogs with heart disease handle toxins worse. If your dog eats chocolate, use our [chocolate toxicity calculator](/tools/dog-chocolate-toxicity-calculator/) while you call your vet.
+
 ## Frequently asked questions
 
 ### At what age is my dog officially a senior?

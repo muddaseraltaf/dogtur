@@ -125,6 +125,7 @@ If you find a mat, loosen it gently with your fingers and comb. VCA Hospitals sa
 **Chris Christensen Greyhound-Style Butter Comb, Fine/Coarse.** A brass-core comb with steel teeth, built for groomers. It is a good match for combing through the feathering behind the ears, the chest, and the tail, and it doubles as the check tool for hidden tangles. It costs more than a basic comb.
 
 Goldens love water. A [waterproof dog collar](/senior-dog-gear/best-waterproof-dog-collars/) won't stay damp and smelly against the coat after every swim.
+Raising a Golden puppy? Brushing comes first; for bath time, see our [best puppy shampoo](/senior-dog-grooming/best-puppy-shampoo/) guide and step-by-step first bath.
 
 ## FAQ
 

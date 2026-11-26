@@ -186,6 +186,8 @@ Have a different toy breed? See our [Chihuahua food guide](/senior-dog-nutrition
 
 Cooked liver is a popular high-value treat for small dogs, but portions must be tiny; see [how to cook beef liver for dogs](/senior-dog-nutrition/how-to-cook-beef-liver-for-dogs/) for amounts by size.
 
+Tiny dogs reach a toxic chocolate dose with very little. See how little with our [dog chocolate toxicity calculator](/tools/dog-chocolate-toxicity-calculator/).
+
 ## FAQ
 
 ### What is the best dog food for Yorkies?

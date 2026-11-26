@@ -5,6 +5,14 @@ import { SIZES } from '../../lib/dog-age.mjs';
 
 const faq = [
   {
+    q: 'What is a dog’s Lap Day?',
+    a: 'Lap Day is the date your dog’s age in human years catches up with your own age. Because dogs age so quickly early on, most dogs “lap” their owners within a few years. Enter both birth dates in the Lap Day calculator above to find yours. It is a fun milestone, not a health measure.',
+  },
+  {
+    q: 'How long do dogs live on average?',
+    a: 'A 2024 study of 584,734 UK dogs found a median lifespan of 12.5 years. Small, long-nosed breeds tended to live longest, while large and flat-faced breeds tended to have shorter lives.',
+  },
+  {
     q: 'How old is my dog in human years?',
     a: 'A widely used rule from the American Kennel Club counts a medium-sized dog’s first year as about 15 human years, the second as about 9 more, and each later year as about 5. A 2020 DNA-methylation study from UC San Diego gives a different curve: human age ≈ 16 × ln(dog age) + 31, which makes young dogs “older” than the classic rule. Both are estimates.',
   },
@@ -29,10 +37,10 @@ const faq = [
 <ToolLayout
   slug="dog-age-calculator"
   name="Dog Age Calculator"
-  title="Dog Age Calculator: Dog Years to Human Years by Size | Dogtur"
-  description="Free dog age calculator: your dog's age in human years with two methods (AKC rule and the UC San Diego DNA formula), plus life stage and when senior care starts."
+  title="Dog Age Calculator: Dog Years to Human Years + Lap Day | Dogtur"
+  description="Free age calculator for dogs: dog years to human years by two methods, life stage, when senior care starts, and your Lap Day (when your dog catches up with you)."
   h1="Dog Age Calculator: How Old Is My Dog in Human Years?"
-  lede="Enter your dog’s age and size to see the human-years equivalent by two published methods, your dog’s life stage, and when senior care usually begins."
+  lede="Enter your dog’s age and size to see the human-years equivalent by two published methods, your dog’s life stage, and when senior care usually begins. Then find your Lap Day: the date your dog catches up with you."
   faq={faq}
 >
 <div class="tool-page">
@@ -66,6 +74,46 @@ const faq = [
     </dl>
     <p class="note" id="r-note"></p>
   </section>
+
+  <h2 id="lap-day">Lap Day calculator: when does your dog catch up with you?</h2>
+  <p>
+    “Lap Day” is the day your dog’s age in human years equals yours. Dogs age
+    fast, so they lap their owners, often within a few years. It’s a fun
+    milestone, not a health measure. Nothing you enter leaves your browser.
+  </p>
+  <form id="lap" class="tool-card" novalidate>
+    <div class="row">
+      <label for="ownerBirth">Your birth date</label>
+      <input id="ownerBirth" name="ownerBirth" type="date" />
+    </div>
+    <div class="row">
+      <label for="dogBirth">Your dog’s birth date (or best guess)</label>
+      <input id="dogBirth" name="dogBirth" type="date" />
+    </div>
+    <button type="submit">Find my Lap Day</button>
+    <p id="lap-error" class="error" role="alert" hidden></p>
+  </form>
+  <section id="lap-result" class="tool-result" aria-live="polite" hidden>
+    <h2>Your Lap Day</h2>
+    <dl>
+      <div><dt>Date</dt><dd id="lap-date"></dd></div>
+      <div><dt>Your dog will be</dt><dd id="lap-dog"></dd></div>
+      <div><dt>You will both be about</dt><dd id="lap-age"></dd></div>
+    </dl>
+    <p class="note">Calculated with the classic dog-years rule (15, then 9, then 5 a year), the one Lap Day calculators conventionally use.</p>
+  </section>
+
+  <h2>How long do dogs live?</h2>
+  <p>
+    The largest study so far, covering 584,734 dogs in the UK (McMillan and
+    colleagues, <a href="https://www.nature.com/articles/s41598-023-50458-w" rel="noopener" target="_blank"><em>Scientific Reports</em>, 2024</a>), found a median lifespan of
+    <strong>12.5 years</strong>. Small breeds with longer noses tended to live
+    longest; larger and flat-faced breeds tended to have shorter lives. Any
+    “life expectancy calculator” for an individual dog is a rough guess:
+    weight, genetics and care matter more than a formula. Keeping your dog
+    lean is one of the few factors with strong evidence behind it (see our
+    <a href="/tools/dog-calorie-calculator/">calorie calculator</a>).
+  </p>
 
   <h2>How this calculator works</h2>
   <p>
@@ -101,7 +149,7 @@ const faq = [
 </ToolLayout>
 
 <script>
-  import { calculateAge } from '../../lib/dog-age.mjs';
+  import { calculateAge, lapDay } from '../../lib/dog-age.mjs';
 
   const form = document.getElementById('calc') as HTMLFormElement;
   const err = document.getElementById('error') as HTMLParagraphElement;
@@ -132,6 +180,33 @@ const faq = [
       err.textContent = x instanceof Error ? x.message : 'Please check your entries.';
       err.hidden = false;
       out.hidden = true;
+    }
+  });
+
+  const lapForm = document.getElementById('lap') as HTMLFormElement;
+  const lapErr = document.getElementById('lap-error') as HTMLParagraphElement;
+  const lapOut = document.getElementById('lap-result') as HTMLElement;
+  lapForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const fd = new FormData(lapForm);
+    try {
+      const r = lapDay({ ownerBirth: fd.get('ownerBirth'), dogBirth: fd.get('dogBirth') });
+      lapErr.hidden = true;
+      if (!r) {
+        set('lap-date', 'Not within a normal dog lifespan');
+        set('lap-dog', '—');
+        set('lap-age', '—');
+      } else {
+        const past = r.date.getTime() < Date.now();
+        set('lap-date', r.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }) + (past ? ' (already passed!)' : ''));
+        set('lap-dog', `${r.dogYears.toFixed(1)} years old`);
+        set('lap-age', `${Math.round(r.humanAge)} in human years`);
+      }
+      lapOut.hidden = false;
+    } catch (x) {
+      lapErr.textContent = x instanceof Error ? x.message : 'Please check the dates.';
+      lapErr.hidden = false;
+      lapOut.hidden = true;
     }
   });
 </script>
