@@ -40,10 +40,10 @@ Boston Terriers are 10 to 25 pounds of flat-faced charm (VCA lists 10–25 lb), 
 
 | Food | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice) | Gassy or sensitive-stomach Bostons | Digestibility-first, prebiotic fiber, live probiotics, salmon base for dogs that don't suit chicken | Check you buy the size and life stage you want (puppy, adult, small breed) |
-| Hill's Science Diet Sensitive Stomach & Skin | Soft stools alongside gas | Digestibility-focused with prebiotic fiber | Not a cure for swallowed-air gas |
-| Diamond Naturals Small Breed | Budget-minded owners | Meat-first, small breed, probiotics included | Compare the fat and calorie numbers on the bag against your dog's needs |
-| Natural Balance L.I.D. | Dogs with a vet-identified protein trigger | Limited ingredient, single-protein recipe | Use after a vet diagnosis, not before |
+| <a class="amazon-link" href="https://www.amazon.com/dp/B01EY9KPZM?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice)</a> | Gassy or sensitive-stomach Bostons | Digestibility-first, prebiotic fiber, live probiotics, salmon base for dogs that don't suit chicken | Check you buy the size and life stage you want (puppy, adult, small breed) |
+| <a class="amazon-link" href="https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Sensitive Stomach & Skin</a> | Soft stools alongside gas | Digestibility-focused with prebiotic fiber | Not a cure for swallowed-air gas |
+| <a class="amazon-link" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals Small Breed</a> | Budget-minded owners | Meat-first, small breed, probiotics included | Compare the fat and calorie numbers on the bag against your dog's needs |
+| <a class="amazon-link" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Natural Balance L.I.D.</a> | Dogs with a vet-identified protein trigger | Limited ingredient, single-protein recipe | Use after a vet diagnosis, not before |
 
 ## What a Boston Terrier's food must do
 
@@ -101,20 +101,20 @@ That changes the strategy. A digestible food reduces fermentable leftovers, and 
 
 > **How we picked these:** label and specification analysis only, not feeding tests. We don't quote ratings or prices because they change. Owner experiences come from other publications and are attributed.
 
-**Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice).** Digestibility-first with prebiotic fiber and live probiotics, and a salmon-based recipe for Bostons that don't tolerate chicken. In [TinyHowl's review](https://www.tinyhowl.com/purina-pro-plan-sensitive-skin-stomach-small-breed-adult-salmon-rice-dog-food-review-a-lifesaver-for-itchy-pups-and-upset-tummies/) of the Small Breed adult version, the reviewer reports that within two weeks stools were consistently firm and the dog's gassiness "completely vanished." That is one reviewer's observation of one dog, not a lab trial.
+**<a class="amazon-link" href="https://www.amazon.com/dp/B01EY9KPZM?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice)</a>.** Digestibility-first with prebiotic fiber and live probiotics, and a salmon-based recipe for Bostons that don't tolerate chicken. In [TinyHowl's review](https://www.tinyhowl.com/purina-pro-plan-sensitive-skin-stomach-small-breed-adult-salmon-rice-dog-food-review-a-lifesaver-for-itchy-pups-and-upset-tummies/) of the Small Breed adult version, the reviewer reports that within two weeks stools were consistently firm and the dog's gassiness "completely vanished." That is one reviewer's observation of one dog, not a lab trial.
 
-**Hill's Science Diet Adult Sensitive Stomach & Skin.** Digestibility-focused with prebiotic fiber and a vet-recommended track record for sensitive stomachs. Worth trying first when soft stools accompany the gas.
+**<a class="amazon-link" href="https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Sensitive Stomach & Skin</a>.** Digestibility-focused with prebiotic fiber and a vet-recommended track record for sensitive stomachs. Worth trying first when soft stools accompany the gas.
 
-<p><a class="affiliate-btn plain" href="https://www.amazon.com/dp/B003MW7790" target="_blank" rel="nofollow noopener">View on Amazon</a></p>
+<p><a class="affiliate-btn" href="https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 
-**Diamond Naturals Small Breed.** Budget-friendly, meat-first, with probiotics included. Bostons eat like much bigger dogs, so price per pound matters.
+**<a class="amazon-link" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals Small Breed</a>.** Budget-friendly, meat-first, with probiotics included. Bostons eat like much bigger dogs, so price per pound matters.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg" alt="Diamond Naturals Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Natural Balance L.I.D.** If you and your vet have identified a specific protein your Boston doesn't tolerate, a limited-ingredient, single-protein recipe simplifies the label. Ingredient restriction belongs after veterinary diagnosis, not before it.
+**<a class="amazon-link" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Natural Balance L.I.D</a>.** If you and your vet have identified a specific protein your Boston doesn't tolerate, a limited-ingredient, single-protein recipe simplifies the label. Ingredient restriction belongs after veterinary diagnosis, not before it.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg" alt="Natural Balance L.I.D" width="120" height="120" loading="lazy" /></a>

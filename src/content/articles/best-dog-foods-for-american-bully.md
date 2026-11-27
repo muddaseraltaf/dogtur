@@ -35,12 +35,12 @@ The best food for an American Bully is a complete, high-quality dry food with 25
 
 | Product | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| VICTOR Hi-Pro Plus (30/20) | Active adult Bullies | 30% protein, 20% fat, ~405 kcal/cup, all life stages | Easy to overfeed a sedentary dog |
-| Bully Max 30/20 | Hard keepers, very active dogs | 30% protein, 20% fat, ~535 kcal/cup | Very calorie-dense; contains sorghum and brown rice (not grain-free) |
-| Bully Max 25/11 | Bullies that need to lose weight | 25% protein, 11% fat, ~415 kcal/cup | Lower fat; adjust for very active dogs |
-| Taste of the Wild Wetlands | Hepper's top pick (their testing) | 32% protein from duck and chicken meals | Grain-free: check pulse content (see DCM section) |
-| Diamond Naturals | Budget-minded owners of big eaters | Meat-first, probiotics | Check the calorie count before assuming it suits your dog |
-| Nulo Freestyle | Middle ground on price | ~30% protein, mostly meat | Grain-free: pulse content |
+| <a class="amazon-link" href="https://amzn.to/4hZn0fN" target="_blank" rel="nofollow sponsored noopener">VICTOR Hi-Pro Plus (30/20)</a> | Active adult Bullies | 30% protein, 20% fat, ~405 kcal/cup, all life stages | Easy to overfeed a sedentary dog |
+| <a class="amazon-link" href="https://amzn.to/4hxCsiO" target="_blank" rel="nofollow sponsored noopener">Bully Max 30/20</a> | Hard keepers, very active dogs | 30% protein, 20% fat, ~535 kcal/cup | Very calorie-dense; contains sorghum and brown rice (not grain-free) |
+| <a class="amazon-link" href="https://amzn.to/4hG5ixH" target="_blank" rel="nofollow sponsored noopener">Bully Max 25/11</a> | Bullies that need to lose weight | 25% protein, 11% fat, ~415 kcal/cup | Lower fat; adjust for very active dogs |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Taste+of+the+Wild+Wetlands+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Taste of the Wild Wetlands</a> | Hepper's top pick (their testing) | 32% protein from duck and chicken meals | Grain-free: check pulse content (see DCM section) |
+| <a class="amazon-link" href="https://amzn.to/4jysyjq" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals</a> | Budget-minded owners of big eaters | Meat-first, probiotics | Check the calorie count before assuming it suits your dog |
+| <a class="amazon-link" href="https://amzn.to/4xQN967" target="_blank" rel="nofollow sponsored noopener">Nulo Freestyle</a> | Middle ground on price | ~30% protein, mostly meat | Grain-free: pulse content |
 
 For a Bully **puppy**, none of these adult or all-life-stages bags is automatically right: check the puppy rules below first.
 

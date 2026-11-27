@@ -113,23 +113,23 @@ VCA also lists oral antacids, iron and high amounts of fiber as things to use ca
 
 > **Honest note:** Hands-on feeding trials with real dogs are planned but haven't happened yet, so this section is built on label and specification analysis plus other publications' and owners' reported findings — explicitly cited, never presented as our own testing. None of these treats hypothyroidism; all are supportive weight-management choices to discuss with your vet.
 
-**Royal Canin Satiety Support (veterinary diet).** A vet-directed weight-loss formula built around high protein plus a fiber blend for fullness, the profile hypothyroid weight gain calls for. It needs a vet's direction, which is appropriate. Worth discussing when an over-the-counter food is not moving the needle.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Satiety+Support+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Satiety Support (veterinary diet)</a>.** A vet-directed weight-loss formula built around high protein plus a fiber blend for fullness, the profile hypothyroid weight gain calls for. It needs a vet's direction, which is appropriate. Worth discussing when an over-the-counter food is not moving the needle.
 
-**Hill's Science Diet Adult Perfect Weight.** A weight-management formula built around the high-protein, higher-fiber profile hypothyroid dogs need, with L-carnitine for fat metabolism. A sensible over-the-counter starting point for the hypothyroid dog that's gaining.
+**<a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight</a>.** A weight-management formula built around the high-protein, higher-fiber profile hypothyroid dogs need, with L-carnitine for fat metabolism. A sensible over-the-counter starting point for the hypothyroid dog that's gaining.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Adult Perfect Weight" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Purina Pro Plan Weight Management.** Another protein-forward weight-control option with live probiotics and prebiotic fiber. Widely available and mid-priced for the long feeding durations weight programs require. [Best Pets Choice's](https://bestpetschoice.com/best-dry-dog-foods-for-hypothyroidism/) 2026 roundup of this category reported its sibling Complete Essentials line at 4.6/5 from 16,600+ Amazon ratings — an indicator of the line's consistency, not a thyroid claim.
+**<a class="amazon-link" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Weight Management</a>.** Another protein-forward weight-control option with live probiotics and prebiotic fiber. Widely available and mid-priced for the long feeding durations weight programs require. [Best Pets Choice's](https://bestpetschoice.com/best-dry-dog-foods-for-hypothyroidism/) 2026 roundup of this category reported its sibling Complete Essentials line at 4.6/5 from 16,600+ Amazon ratings — an indicator of the line's consistency, not a thyroid claim.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71AcAAWCgdL._AC_SX679_.jpg" alt="Purina Pro Plan Weight Management" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Wellness CORE Healthy Weight.** A meat-first, reduced-fat recipe with probiotics and no by-products, for owners who want a premium-leaning label in a weight-control formula. [Best Pets Choice](https://bestpetschoice.com/best-dry-dog-foods-for-hypothyroidism/) reported it at 4.5/5 from 1,700+ Amazon ratings, noting its 42% protein with fat cut by 25% versus the brand's original recipe — the muscle-preserving, calorie-cutting combination weight loss depends on.
+**<a class="amazon-link" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Healthy Weight</a>.** A meat-first, reduced-fat recipe with probiotics and no by-products, for owners who want a premium-leaning label in a weight-control formula. [Best Pets Choice](https://bestpetschoice.com/best-dry-dog-foods-for-hypothyroidism/) reported it at 4.5/5 from 1,700+ Amazon ratings, noting its 42% protein with fat cut by 25% versus the brand's original recipe — the muscle-preserving, calorie-cutting combination weight loss depends on.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61U3ZZ4GGgL._AC_SX679_.jpg" alt="Wellness CORE Healthy Weight" width="120" height="120" loading="lazy" /></a>

@@ -37,12 +37,12 @@ This guide explains what fiber does, why the crude-fiber number on the bag is mi
 
 | Product | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| Royal Canin Gastrointestinal High Fiber (vet diet, dry) | Fiber-responsive digestive issues, vet-directed | Top of the fiber range in this group: 7.9% min to 13.3% max as fed; 21% protein min | Prescription clinical diet, calorie-diluted; not an everyday food for a healthy dog |
-| Hill's Prescription Diet w/d Multi-Benefit (vet diet, dry and canned) | Overweight dogs, vet-managed weight plans | Fiber 14.4% dry matter (dry) and 13.7% (canned) per Hill's | Prescription diet; needs vet direction |
-| Hill's Science Diet Adult Perfect Weight (over the counter) | Slimming a chunky dog without a prescription | 10.3% fiber dry matter, 28.8% protein dry matter per Hill's | Weight formula, not specifically an anal gland food |
-| Nutro Natural Choice Healthy Weight (over the counter) | Weight control with named fibers | 11% max crude fiber on retailer listings; beet pulp listed as prebiotic fiber by Nutro | Guaranteed analysis is an image on Nutro's page, so the figure comes from retailer listings |
-| Natural Balance Fat Dogs (over the counter) | Weight control on a budget | 10.5% max crude fiber, 7.5% min fat, 26% protein min per Natural Balance | Calorie-reduced; adult dogs only |
-| Glandex Soft Chews (supplement) | Add-on for chronic scooters after a vet rules out infection | Pumpkin seed and apple pectin fiber blend | Owner reviews, not clinical evidence |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Gastrointestinal+High+Fiber+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Gastrointestinal High Fiber (vet diet, dry)</a> | Fiber-responsive digestive issues, vet-directed | Top of the fiber range in this group: 7.9% min to 13.3% max as fed; 21% protein min | Prescription clinical diet, calorie-diluted; not an everyday food for a healthy dog |
+| <a class="amazon-link" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Hill's Prescription Diet w/d Multi-Benefit (vet diet, dry and canned)</a> | Overweight dogs, vet-managed weight plans | Fiber 14.4% dry matter (dry) and 13.7% (canned) per Hill's | Prescription diet; needs vet direction |
+| <a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight (over the counter)</a> | Slimming a chunky dog without a prescription | 10.3% fiber dry matter, 28.8% protein dry matter per Hill's | Weight formula, not specifically an anal gland food |
+| <a class="amazon-link" href="https://amzn.to/4rDwX6O" target="_blank" rel="nofollow sponsored noopener">Nutro Natural Choice Healthy Weight (over the counter)</a> | Weight control with named fibers | 11% max crude fiber on retailer listings; beet pulp listed as prebiotic fiber by Nutro | Guaranteed analysis is an image on Nutro's page, so the figure comes from retailer listings |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Natural+Balance+Fat+Dogs+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Natural Balance Fat Dogs (over the counter)</a> | Weight control on a budget | 10.5% max crude fiber, 7.5% min fat, 26% protein min per Natural Balance | Calorie-reduced; adult dogs only |
+| <a class="amazon-link" href="https://amzn.to/4hFOoz3" target="_blank" rel="nofollow sponsored noopener">Glandex Soft Chews (supplement)</a> | Add-on for chronic scooters after a vet rules out infection | Pumpkin seed and apple pectin fiber blend | Owner reviews, not clinical evidence |
 
 ## Fiber comparison table: what the labels actually say
 
@@ -50,12 +50,12 @@ Crude fiber is printed in two different ways, so the first column matters. Hill'
 
 | Food | Crude fiber as published | Dry-matter equivalent | Source of figure |
 |---|---|---|---|
-| Royal Canin Gastrointestinal High Fiber (dry) | 7.9% min, 13.3% max as fed; moisture 10.5% max | about 8.8% to 14.9% (our calculation) | [Royal Canin US product page](https://www.royalcanin.com/us/dogs/products/vet-products/gastrointestinal-high-fiber-3959) |
-| Hill's Prescription Diet w/d (dry) | 14.4% dry matter | 14.4% | [Hill's product page](https://www.hillspet.com/dog-food/pd-wd-canine-dry) |
-| Hill's Prescription Diet w/d (canned) | 13.7% dry matter | 13.7% | [Hill's product page](https://www.hillspet.com/dog-food/pd-wd-canine-canned) |
-| Hill's Science Diet Adult Perfect Weight (dry) | 10.3% dry matter | 10.3% | [Hill's product page](https://www.hillspet.com/dog-food/science-diet-adult-perfect-weight-dry) |
-| Natural Balance Fat Dogs (dry) | 10.5% max as fed; moisture 10% max | about 11.7% (our calculation) | [Natural Balance product page](https://www.naturalbalanceinc.com/dog-recipes/dry/fat-dogs/fat-dogs) |
-| Nutro Natural Choice Healthy Weight (dry) | 11% max as fed (retailer listing) | about 12.2% if moisture is 10% (our calculation) | [PetSmart listing](https://www.petsmart.com/5231837.html); [K9 of Mine](https://www.k9ofmine.com/best-high-fiber-dog-food/) |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Gastrointestinal+High+Fiber+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Gastrointestinal High Fiber (dry)</a> | 7.9% min, 13.3% max as fed; moisture 10.5% max | about 8.8% to 14.9% (our calculation) | [Royal Canin US product page](https://www.royalcanin.com/us/dogs/products/vet-products/gastrointestinal-high-fiber-3959) |
+| <a class="amazon-link" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Hill's Prescription Diet w/d (dry)</a> | 14.4% dry matter | 14.4% | [Hill's product page](https://www.hillspet.com/dog-food/pd-wd-canine-dry) |
+| <a class="amazon-link" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Hill's Prescription Diet w/d (canned)</a> | 13.7% dry matter | 13.7% | [Hill's product page](https://www.hillspet.com/dog-food/pd-wd-canine-canned) |
+| <a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight (dry)</a> | 10.3% dry matter | 10.3% | [Hill's product page](https://www.hillspet.com/dog-food/science-diet-adult-perfect-weight-dry) |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Natural+Balance+Fat+Dogs+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Natural Balance Fat Dogs (dry)</a> | 10.5% max as fed; moisture 10% max | about 11.7% (our calculation) | [Natural Balance product page](https://www.naturalbalanceinc.com/dog-recipes/dry/fat-dogs/fat-dogs) |
+| <a class="amazon-link" href="https://amzn.to/4rDwX6O" target="_blank" rel="nofollow sponsored noopener">Nutro Natural Choice Healthy Weight (dry)</a> | 11% max as fed (retailer listing) | about 12.2% if moisture is 10% (our calculation) | [PetSmart listing](https://www.petsmart.com/5231837.html); [K9 of Mine](https://www.k9ofmine.com/best-high-fiber-dog-food/) |
 
 Formulas change and retailers sometimes print old panels, so check the bag in your hands. One earlier figure we removed: a third-party guide put Hill's w/d canned near 22.7% dry matter. Hill's own page now says 13.7%.
 
@@ -146,23 +146,23 @@ There's no regulatory definition. Compared on the labels above, veterinary and w
 
 > **How we picked:** Research-based, not tested. Hands-on feeding trials haven't happened yet. Products are compared on manufacturer-published specifications and, where attributed, other publications' findings or owner reviews.
 
-**Royal Canin Gastrointestinal High Fiber (veterinary diet).** The reference point for genuinely high fiber: 7.9% to 13.3% crude fiber as fed, with pea fiber among the first ingredients (after chicken by-product meal and brewers rice) and 21% protein minimum. Your vet should be the one to recommend it, typically for fiber-responsive digestive issues. It's a clinical tool, not an everyday food for a healthy dog.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Gastrointestinal+High+Fiber+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Gastrointestinal High Fiber (veterinary diet)</a>.** The reference point for genuinely high fiber: 7.9% to 13.3% crude fiber as fed, with pea fiber among the first ingredients (after chicken by-product meal and brewers rice) and 21% protein minimum. Your vet should be the one to recommend it, typically for fiber-responsive digestive issues. It's a clinical tool, not an everyday food for a healthy dog.
 
-**Hill's Prescription Diet w/d Multi-Benefit (veterinary diet).** 14.4% fiber dry matter in dry, 13.7% in canned, formulated for weight, glucose and urinary management together. Puppy Growth Calculator's veterinary advisor Dr. Jennifer Coates, DVM, [chose it as best overall](https://puppygrowthcalculator.com/best-high-fiber-dog-food/). Their assessment, not ours.
+**<a class="amazon-link" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Hill's Prescription Diet w/d Multi-Benefit (veterinary diet)</a>.** 14.4% fiber dry matter in dry, 13.7% in canned, formulated for weight, glucose and urinary management together. Puppy Growth Calculator's veterinary advisor Dr. Jennifer Coates, DVM, [chose it as best overall](https://puppygrowthcalculator.com/best-high-fiber-dog-food/). Their assessment, not ours.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71WeIQSPjxL._AC_SX679_.jpg" alt="Hill&#x27;s Prescription Diet w/d Multi-Benefit (veterinary diet)" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4rEcWgm" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Hill's Science Diet Adult Perfect Weight (over the counter).** 10.3% fiber and 28.8% protein on a dry-matter basis, per Hill's. The right call when the goal is slimming a chunky dog rather than treating a GI condition. Hill's says over 70% of dogs lost weight within 10 weeks in its own study, which we have not verified.
+**<a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight (over the counter)</a>.** 10.3% fiber and 28.8% protein on a dry-matter basis, per Hill's. The right call when the goal is slimming a chunky dog rather than treating a GI condition. Hill's says over 70% of dogs lost weight within 10 weeks in its own study, which we have not verified.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Adult Perfect Weight (over the counter)" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Nutro Natural Choice Healthy Weight (over the counter).** K9 of Mine named it best overall; retailer listings show 11% max crude fiber. Nutro lists chicken first, then chicken meal, brown rice, barley and oatmeal, with beet pulp as a prebiotic fiber.
+**<a class="amazon-link" href="https://amzn.to/4rDwX6O" target="_blank" rel="nofollow sponsored noopener">Nutro Natural Choice Healthy Weight (over the counter)</a>.** K9 of Mine named it best overall; retailer listings show 11% max crude fiber. Nutro lists chicken first, then chicken meal, brown rice, barley and oatmeal, with beet pulp as a prebiotic fiber.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4rDwX6O" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71fpnoj9SkL._AC_SX679_.jpg" alt="Nutro Natural Choice Healthy Weight (over the counter)" width="120" height="120" loading="lazy" /></a>
@@ -171,7 +171,7 @@ There's no regulatory definition. Compared on the labels above, veterinary and w
 
 **Budget-friendly options.** K9 of Mine highlights Diamond Naturals Light as an affordable high-fiber kibble (they list 8% max fiber), and Puppy Growth Calculator's budget pick is Natural Balance Fat Dogs (10.5% max per the manufacturer). Both are weight formulas.
 
-**Glandex Soft Chews (Vetnique Labs).** A supplement rather than a food: a fiber blend built on pumpkin seed powder, granulated pumpkin seed and apple pectin, plus probiotics, digestive enzymes and omega fatty acids, dosed by weight. On Petco's listing (roughly 1,470 reviews at last check) the chews average 4.6 stars. Those are owner reports, not clinical evidence, and a reasonable add-on only after your vet rules out infection.
+**<a class="amazon-link" href="https://amzn.to/4hFOoz3" target="_blank" rel="nofollow sponsored noopener">Glandex Soft Chews (Vetnique Labs)</a>.** A supplement rather than a food: a fiber blend built on pumpkin seed powder, granulated pumpkin seed and apple pectin, plus probiotics, digestive enzymes and omega fatty acids, dosed by weight. On Petco's listing (roughly 1,470 reviews at last check) the chews average 4.6 stars. Those are owner reports, not clinical evidence, and a reasonable add-on only after your vet rules out infection.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4hFOoz3" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71rQuARIlEL._AC_SX679_.jpg" alt="Glandex Soft Chews (Vetnique Labs)" width="120" height="120" loading="lazy" /></a>

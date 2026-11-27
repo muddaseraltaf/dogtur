@@ -39,8 +39,13 @@ targets = articles | tools
 
 inbound = defaultdict(set)
 broken = defaultdict(set)
+bad_amazon = defaultdict(set)  # Amazon links that would earn nothing or lack rel=sponsored
 for u, p in pages.items():
     html = open(p, encoding='utf-8').read()
+    for tag in re.findall(r'<a\b[^>]*href="https://(?:www\.amazon\.com|amzn\.to)/[^"]*"[^>]*>', html):
+        href = re.search(r'href="([^"]*)"', tag).group(1)
+        if ('amazon.com' in href and 'tag=dogtur0f-20' not in href) or 'sponsored' not in tag:
+            bad_amazon[href].add(u)
     for href in re.findall(r'href="(/[^"#?]*)', body_html(html)):
         if '.' in href.rsplit('/', 1)[-1]:
             continue
@@ -62,4 +67,8 @@ if broken:
     print('\nBROKEN internal links:')
     for h, src in sorted(broken.items()):
         print(f'  {h}  <- {sorted(src)[:3]}')
-sys.exit(1 if broken else 0)
+if bad_amazon:
+    print('\nAMAZON links missing tag=dogtur0f-20 or rel="sponsored":')
+    for h, src in sorted(bad_amazon.items()):
+        print(f'  {h}  <- {sorted(src)[:3]}')
+sys.exit(1 if broken or bad_amazon else 0)

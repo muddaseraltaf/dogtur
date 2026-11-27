@@ -170,7 +170,7 @@ And the free interventions that outperform most purchases: keeping the dog lean,
 - **Published research**, attributed in the text: the Purdue raised-feeder/bloat study (Glickman et al., JAVMA 2000), the Veterinary Evidence review of feeder-height studies, and the studies behind AKC's reporting on antioxidants, omega-3s, and MCT oils for senior cognition.
 - **Owner-review data mined from public sources** — explicitly *not* our testing: Amazon aggregates for a leading orthopedic bed line (97,000+ ratings, via iHeartDogs), a ~19,600-review cross-platform aggregation (via TrueScore Reviews), and ~1,100 customer reviews plus a hands-on magazine test for a support harness.
 
-We run no affiliate programs: no product links, no commissions, no paid placements.
+This page has no product links, no commissions and no paid placements: it is category guidance only.
 
 For coat and skin care, start with the [senior dog grooming routine](/senior-dog-grooming/senior-dog-grooming-daily-care-guide/) and our guide to the [best brush for short-haired dogs](/senior-dog-grooming/best-dog-brush-for-short-hair/).
 

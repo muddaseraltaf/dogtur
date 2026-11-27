@@ -41,13 +41,13 @@ There is no single best senior dog food — the right one depends on your dog's 
 
 | Food | Format | Worth a closer look for |
 |------|--------|-------------------------|
-| Hill's Science Diet Adult 7+ | Dry | The all-rounder: vet-clinic staple, easy digestion, strong owner ratings |
-| Purina Pro Plan Bright Mind 7+ | Dry | Cognitive support; MCT oils with published feeding research behind them |
-| Royal Canin Aging 8+ / 10+ | Dry | Very senior or size-specific needs; breed-size tailored formulas |
-| Blue Buffalo Life Protection Senior | Dry | Mainstream pick with broad availability and middle-of-the-road pricing |
-| Blue Buffalo Basics Senior | Dry | Limited-ingredient recipe for seniors with sensitive stomachs or skin |
-| Wellness CORE Age Advantage | Dry (grain-free) | Higher-protein, grain-free route with quantified joint-support levels |
-| Purina ONE Vibrant Maturity 7+ | Dry | Budget pick: brain-support nutrition near supermarket prices |
+| <a class="amazon-link" href="https://amzn.to/4yZUm4W" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult 7+</a> | Dry | The all-rounder: vet-clinic staple, easy digestion, strong owner ratings |
+| <a class="amazon-link" href="https://amzn.to/47rW0jT" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Bright Mind 7+</a> | Dry | Cognitive support; MCT oils with published feeding research behind them |
+| <a class="amazon-link" href="https://amzn.to/4z7fNRx" target="_blank" rel="nofollow sponsored noopener">Royal Canin Aging 8+ / 10+</a> | Dry | Very senior or size-specific needs; breed-size tailored formulas |
+| <a class="amazon-link" href="https://amzn.to/4z2JVgP" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Senior</a> | Dry | Mainstream pick with broad availability and middle-of-the-road pricing |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Blue+Buffalo+Basics+Limited+Ingredient+Senior+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Basics Senior</a> | Dry | Limited-ingredient recipe for seniors with sensitive stomachs or skin |
+| <a class="amazon-link" href="https://amzn.to/4z8mjr5" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Age Advantage</a> | Dry (grain-free) | Higher-protein, grain-free route with quantified joint-support levels |
+| <a class="amazon-link" href="https://amzn.to/4z9zJTX" target="_blank" rel="nofollow sponsored noopener">Purina ONE Vibrant Maturity 7+</a> | Dry | Budget pick: brain-support nutrition near supermarket prices |
 | The Farmer's Dog | Fresh | Picky eaters and dogs needing maximum palatability |
 
 None of these picks comes from a feeding trial we ran. They are shortlisted from label data, manufacturer-published formulations, aggregated verified-owner feedback, and widespread veterinary use — and each is discussed in detail below.

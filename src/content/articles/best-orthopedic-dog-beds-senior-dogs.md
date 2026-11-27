@@ -39,12 +39,12 @@ Facts below come from manufacturer-published specs or the outlet named; we have 
 
 | Bed | Best for | Why it fits | Watch out for |
 |-----|----------|-------------|---------------|
-| Big Barker Original | Large and giant seniors | 7" layered foam (2" comfort / 3" support / 2" base); 10-year no-flatten warranty; subject of a UPenn pilot study | Premium price; heavy; the study was open-label and small |
-| PetFusion Ultimate | Most seniors, mid-range | 4-5" solid CertiPUR-US memory foam; low entry; liner; Wirecutter's top pick | Wirecutter noted bolsters soften and it sags more than firmer beds |
+| <a class="amazon-link" href="https://amzn.to/4hz38jj" target="_blank" rel="nofollow sponsored noopener">Big Barker Original</a> | Large and giant seniors | 7" layered foam (2" comfort / 3" support / 2" base); 10-year no-flatten warranty; subject of a UPenn pilot study | Premium price; heavy; the study was open-label and small |
+| <a class="amazon-link" href="https://amzn.to/4xZxnG1" target="_blank" rel="nofollow sponsored noopener">PetFusion Ultimate</a> | Most seniors, mid-range | 4-5" solid CertiPUR-US memory foam; low entry; liner; Wirecutter's top pick | Wirecutter noted bolsters soften and it sags more than firmer beds |
 | BullyBeds 3-Sided Bolster | Heavy dogs, long warranty | 7" foam; 3-sided open-front bolster; 20-year warranty per Love Old Pets | Higher price; warranty terms are worth reading |
-| Bedsure Orthopedic | Budget-mid, second bed | High-density egg-crate foam; very large review count | Egg-crate compresses faster under heavy dogs |
-| FurHaven Ultra Plush Lounger | Tight budgets, small sizes | Wirecutter's 2022 lounger pick; many sizes | Range includes thin pads; check the exact model's foam |
-| Casper Dog Bed | Owners who want firm support | Wirecutter noted firm support; 30-night trial | Narrow bolsters; only three sizes (to 90 lb) |
+| <a class="amazon-link" href="https://amzn.to/3TbSgji" target="_blank" rel="nofollow sponsored noopener">Bedsure Orthopedic</a> | Budget-mid, second bed | High-density egg-crate foam; very large review count | Egg-crate compresses faster under heavy dogs |
+| <a class="amazon-link" href="https://amzn.to/4iTryGv" target="_blank" rel="nofollow sponsored noopener">FurHaven Ultra Plush Lounger</a> | Tight budgets, small sizes | Wirecutter's 2022 lounger pick; many sizes | Range includes thin pads; check the exact model's foam |
+| <a class="amazon-link" href="https://amzn.to/4yf7ToB" target="_blank" rel="nofollow sponsored noopener">Casper Dog Bed</a> | Owners who want firm support | Wirecutter noted firm support; 30-night trial | Narrow bolsters; only three sizes (to 90 lb) |
 
 ## How we picked: an honest note
 

@@ -4,9 +4,10 @@ Started 12 Nov 2026. Continuous project.
 
 **Every session:** (1) read "NEXT UP" below, (2) do it, (3) tick it in the Roadmap, (4) add one dated line to the Log, (5) move NEXT UP to the next open item. When Muddaser asks "what's next?", answer from NEXT UP + Roadmap.
 
-## NEXT UP (updated 21 Nov 2026)
-1. **Indexing, first thing on 22 Nov** (before other sites use the shared quota): the 8 left from Day 1: trash cans, collars, Yorkies, Maltese, Boston, American Bully, French Bulldog, calorie calculator. Then Day 2 list on 23 Nov, Day 3 on 24 Nov (Day 3 now also includes the Corgi and beef liver posts).
-2. **Week 2 (from 28 Nov):** 29 Nov Search Console check, puppy shampoo post, Tool #4 chocolate calculator, push less-poop page to top 5 (see Roadmap).
+## NEXT UP (updated 26 Nov 2026)
+1. **Indexing, first thing on 27 Nov** (shared quota, ~8 a day): Maltese, Boston, American Bully, French Bulldog, calorie calculator, then the 26 Nov pages: chocolate calculator, puppy shampoo, age calculator (Lap Day), less-poop, joint supplements. 28 Nov: Day 2 list. 29 Nov: Day 3 list + Corgi + beef liver.
+2. **29 Nov Search Console check** (Week 2): age calculator CTR after new title (was 1,044 impressions, 8 clicks site-wide), joint (19.8) and less-poop positions, which requested pages got indexed.
+3. Then Week 3: hub pages + "my dog ate chocolate" companion post + essential products upgrade.
 Search Console: m321 Chrome, property **URL-prefix `https://dogtur.com/`** (the `sc-domain:` property is NOT verified).
 
 ## Snapshot 12 Nov 2026 (Search Console)
@@ -61,6 +62,7 @@ Only page with real clicks: `/senior-dog-nutrition/best-dog-food-for-less-poop/`
    - Golden brush post: Coastal Safari Pin Brush https://www.amazon.com/dp/B074N7YPSB · Hertzko Slicker https://www.amazon.com/dp/B00ZGPI3OY · Mars Coat King rake https://www.amazon.com/dp/B007L8Z17Q · FURminator Large Long Hair https://www.amazon.com/dp/B0040QQ07C · Chris Christensen #504 comb https://www.amazon.com/dp/B07T6DQBVF
    - Rottweiler post (pick the amazon.com pages): Purina Pro Plan Large Breed Puppy Chicken & Rice · Hill's Science Diet Puppy Large Breed · Royal Canin Rottweiler Puppy · Royal Canin Rottweiler Adult · Blue Buffalo Life Protection Large Breed Puppy · Blue Buffalo Life Protection Large Breed Adult
    - Corgi post: Royal Canin Medium Adult (dry) · Royal Canin Medium Puppy (dry)
+   - Puppy shampoo post (pick the amazon.com pages): earthbath Ultra-Mild Puppy Shampoo Wild Cherry · Burt's Bees 2-in-1 Tearless Puppy Shampoo & Conditioner · Wahl Gentle Puppy Shampoo (Cornflower & Aloe) · TropiClean Hypo-Allergenic Gentle Coconut Puppy & Kitten · Hartz Groomer's Best Extra Gentle Tearless Puppy
    (Check each is in stock first. Also check Ruffwear Headwater collar is still sold; the collar page has a button for it.)
 4. Request indexing: only AFTER the page-upgrade round is live. Follow the Indexing plan below.
 
@@ -112,6 +114,7 @@ Where things stand (GSC, 12 Nov): 42 indexed. Live posts Google crawled but refu
 Goal: more pages on Google page 1 for searches dogtur already shows for, then widen to new dog topics. Each week mixes the same five jobs: **index**, **improve**, **add**, **interlink**, **measure**.
 
 **KPIs** (baseline 21 Nov): indexed pages 46 · clicks per week 7 · impressions per week ~1,410 · pages averaging top 10: 1 (less-poop, 10.2) · tools 3 · live posts 36 (incl. tools).
+Latest (26 Nov): impressions per week 2,973 · clicks per week 8 · age calculator at pos 9.9 · tools 4 · live posts 38 (incl. tools).
 Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 6 tools.
 
 **Standing weekly routine**
@@ -124,21 +127,21 @@ Targets by mid-Feb: indexed 70+ · clicks per week 50+ · 8+ pages in top 10 · 
 ### Month 1
 **Week 1 (21–27 Nov)**
 - [x] Indexing Day 1: homepage, high-fiber (21 Nov; quota then ran out)
-- [ ] Indexing: rest of Day 1 (8), Day 2 (10), Day 3 (5)
+- [ ] Indexing: rest of Day 1 (8), Day 2 (10), Day 3 (5). 26 Nov: trash cans, collars, Yorkies sent; quota hit at Maltese
 - [x] New post: how to cook beef liver for dogs; 301 repointed (21 Nov)
 - [x] New post: best dog food for Corgis; 301 repointed (21 Nov)
 - [x] Section pages: drop leftover "aging dogs" wording (21 Nov)
 
 **Week 2 (28 Nov–4 Dec)**
 - [ ] 29 Nov: Search Console check: did requested pages get indexed? Old WordPress URLs replaced by new ones? Positions vs 21 Nov
-- [ ] New post: best puppy shampoo (repoint /best-puppy-shampoo/); start a "puppy" angle across food posts
-- [ ] Tool #4: dog chocolate toxicity calculator + companion post "my dog ate chocolate: what to do" (vet-sourced, call-the-vet first)
-- [ ] Improve: less-poop page (position ~10: push into top 5: title/intro CTR, add comparison depth)
+- [x] New post (26 Nov, pulled forward): best puppy shampoo (repoint /best-puppy-shampoo/); start a "puppy" angle across food posts
+- [x] Tool #4 LIVE 26 Nov: dog chocolate toxicity calculator. Companion post still open (move to Week 3): "my dog ate chocolate: what to do" (vet-sourced, call-the-vet first)
+- [x] Improve (26 Nov): less-poop page (position ~10: push into top 5: title/intro CTR, add comparison depth)
 
 **Week 3 (5–11 Dec)**
 - [ ] Hub pages: turn the 7 section pages into real hubs (intro, "start here" picks, tools, all guides). /senior-dog-behavior/ already gets impressions at ~33
 - [x] Interlinking audit: `npm run audit` (scripts/link-audit.py); 10 weak pages fixed, all 36 now have 3+ contextual links in (21 Nov, pulled forward)
-- [ ] Improve: joint supplements (52→33, rising) and essential products (67→26)
+- [~] Improve: joint supplements DONE 26 Nov (evidence table, NASC/VOHC, Librela); essential products (67→26) still open
 - [ ] New post: from Search Console's newest rising queries (pick on the day)
 
 **Week 4 (12–18 Dec)**
@@ -172,7 +175,7 @@ Free = pure code, no API. API = needs a key (key goes in Cloudflare env, never i
 |---|---|---|---|
 | 1 | ✅ LIVE 12 Nov: Dog food calorie & feeding calculator (weight, age, activity, kcal/cup on the bag) | Feeds every food page we rank for | Free |
 | 2 | ✅ LIVE 12 Nov: Dog age in human years (breed-size based, not ×7) | Huge evergreen search, fits senior pillar | Free |
-| 3 | Chocolate toxicity calculator (type, amount, dog weight → risk + "call vet") | Viral, gets links; strict vet-source wording | Free |
+| 3 | ✅ LIVE 26 Nov: Chocolate toxicity calculator (type, amount, dog weight → risk + "call vet") | Viral, gets links; strict vet-source wording | Free |
 | 4 | Gear size finders: collar, harness, bed, crate, life jacket, boots (✅ ramp length calculator live 12 Nov) | Direct path to affiliate links we already have | Free |
 | 5 | Dog food recall checker + alerts (FDA recall feed) | Authority + return visits | Free (public FDA data) |
 | 6 | Senior dog quality-of-life scale (HHHHHMM) | Real need, senior pillar | Free |
@@ -198,3 +201,4 @@ Note: Muddaser also owns puppysizecalculator.com; cross-link, don't duplicate th
 - 21 Nov 2026 check (no indexing requests sent yet): last 7 days vs previous 7: clicks 7 vs 5, impressions ~1,410 flat, but positions improving on most upgraded pages (less-poop 12.8→10.2, Chihuahua 47→14, trash cans 62→47, joint supplements 52→33, Boston 55→31, essential products 67→26). Indexed 42→46; crawled-not-indexed 16→20 (report lags). Google still serves several OLD WordPress URLs (yorkies, umbrella, chihuahua, french bulldog) despite 301s, so indexing requests for the new URLs matter. Old URL /how-to-cook-beef-liver-for-dogs/ shows at position ~10 but 301s to the nutrition guide: candidate for its own post.
 - 21 Nov 2026: indexing sent for homepage + high-fiber, then "Quota Exceeded" (shared quota). Wrote the 3-month Roadmap + NEXT UP. Fixed section-page description wording.
 - 21 Nov 2026 (later): published Corgi food + beef liver posts (old WP URLs now 301 to them; Search Console showed little demand for either, kept as breed-cluster start + common owner question). Built `npm run audit` internal-link checker; fixed 10 under-linked pages (trash cans had 0 contextual links in). 53 pages, 0 broken links.
+- 26 Nov 2026: Search Console week-on-week: impressions 2,973 (was 1,199), clicks flat at 8 = CTR problem. Age calculator 1,044 impressions at pos 9.9; joint 458 at 19.8; trash cans now 34. Indexing sent: trash cans, collars, Yorkies (quota at Maltese). Shipped (d9064e7): chocolate toxicity calculator (tool #4), Lap Day + lifespan + new title on age calculator, best puppy shampoo post (4 links in), less-poop and joint upgrades, llms.txt + homepage. Audit 0 below 3. Tools now 4.

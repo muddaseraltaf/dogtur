@@ -39,10 +39,10 @@ A note on how this page is written: it is research-based. We have not run feedin
 
 | Food | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| Hill's Science Diet Small & Mini Adult | Healthy adults, a conservative choice | Small kibble, grain-inclusive, from a brand vets commonly recommend | Confirm the piece size suits a 4 to 6 lb dog |
-| Blue Buffalo Life Protection Small Breed | A mid-priced everyday option | Small kibble, real chicken listed first | If your dog has had pancreatitis or stomach upsets, check the fat percentage |
-| Diamond Naturals Small Breed | Budget-minded owners or multi-dog homes | Meat listed first, probiotics added | Compare the calories per cup against your dog's needs |
-| Wellness CORE Small Breed | Owners wanting a protein-forward, grain-free recipe | Small kibble with freeze-dried pieces in the CORE+ line we link | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet |
+| <a class="amazon-link" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Small & Mini Adult</a> | Healthy adults, a conservative choice | Small kibble, grain-inclusive, from a brand vets commonly recommend | Confirm the piece size suits a 4 to 6 lb dog |
+| <a class="amazon-link" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Small Breed</a> | A mid-priced everyday option | Small kibble, real chicken listed first | If your dog has had pancreatitis or stomach upsets, check the fat percentage |
+| <a class="amazon-link" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals Small Breed</a> | Budget-minded owners or multi-dog homes | Meat listed first, probiotics added | Compare the calories per cup against your dog's needs |
+| <a class="amazon-link" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Small Breed</a> | Owners wanting a protein-forward, grain-free recipe | Small kibble with freeze-dried pieces in the CORE+ line we link | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet |
 
 ## What does a Maltese need from its food?
 
@@ -71,28 +71,28 @@ For general background on how to compare foods, the [WSAVA Global Nutrition Guid
 
 > **How we picked:** These are small-breed formulas from established brands that suit the needs above on paper. We have not tested them ourselves, and we do not quote ratings or prices here because those change. Check the current listing and ingredient panel, and confirm the choice with your vet.
 
-**Hill's Science Diet Small & Mini Adult.** A small-kibble adult recipe from a brand that vets commonly recommend. It is a conservative, grain-inclusive choice for a healthy adult Maltese without special medical needs.
+**<a class="amazon-link" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Small & Mini Adult</a>.** A small-kibble adult recipe from a brand that vets commonly recommend. It is a conservative, grain-inclusive choice for a healthy adult Maltese without special medical needs.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Small &amp; Mini Adult" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Blue Buffalo Life Protection Small Breed.** A widely available small-breed recipe with small kibble and real chicken listed first. A reasonable mid-priced option for a Maltese that eats well and digests well.
+**<a class="amazon-link" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Small Breed</a>.** A widely available small-breed recipe with small kibble and real chicken listed first. A reasonable mid-priced option for a Maltese that eats well and digests well.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg" alt="Blue Buffalo Life Protection Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Diamond Naturals Small Breed.** A budget-friendly small-breed recipe with meat listed first and probiotics added. Worth a look if price per pound matters or you are feeding more than one small dog.
+**<a class="amazon-link" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals Small Breed</a>.** A budget-friendly small-breed recipe with meat listed first and probiotics added. Worth a look if price per pound matters or you are feeding more than one small dog.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg" alt="Diamond Naturals Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Wellness CORE Small Breed.** A protein-forward, grain-free small-breed option. The grain-free caveat applies: the FDA has investigated a possible link between some grain-free diets and dilated cardiomyopathy, so discuss it with your vet first. The listing we link to is the CORE+ small-breed line with freeze-dried pieces.
+**<a class="amazon-link" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Small Breed</a>.** A protein-forward, grain-free small-breed option. The grain-free caveat applies: the FDA has investigated a possible link between some grain-free diets and dilated cardiomyopathy, so discuss it with your vet first. The listing we link to is the CORE+ small-breed line with freeze-dried pieces.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg" alt="Wellness CORE Small Breed" width="120" height="120" loading="lazy" /></a>

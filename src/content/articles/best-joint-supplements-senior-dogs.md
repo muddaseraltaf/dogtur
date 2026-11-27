@@ -39,13 +39,13 @@ No supplement has been proven to rebuild cartilage or cure arthritis, so "best" 
 
 | Product | Best for | Why it fits | Watch out for |
 |---------|----------|-------------|---------------|
-| Nutramax Dasuquin with ASU / with MSM | Dogs whose vet suggested a supplement | Vet-clinic standard; NASC seal; glucosamine, chondroitin and ASU | Soy component in ASU; priced above Cosequin |
-| Nutramax Cosequin DS + MSM | Longest-established, affordable start | 25+ years on the market; NASC seal; published studies on the formula (per Nutramax) | No ASU; glucosamine-chondroitin evidence is weak |
-| Nutramax Dasuquin for Senior Dogs | Dogs already on Dasuquin | Senior-targeted variant with omega-3s added | Lower owner scores, likely because buyers have more advanced stiffness |
-| Nutramax Dasuquin Advanced | Vet wants a broader approach | Adds Boswellia, turmeric, omega-3s, eggshell membrane | Extra ingredients have thinner evidence |
-| Vetoquinol Flexadin Advanced with UC-II | Dogs that did not respond to glucosamine products | Different mechanism; one chew a day regardless of size | Modest trial data |
-| PetLab Co. Joint Care Chews | Soft chews with green-lipped mussel | Green-lipped mussel lead; widely reviewed | No independent trials on this exact product |
-| Zesty Paws Mobility Bites | Easy-to-find first trial | Widely available soft chew | Availability is not evidence |
+| <a class="amazon-link" href="https://amzn.to/4hnVKs5" target="_blank" rel="nofollow sponsored noopener">Nutramax Dasuquin with ASU / with MSM</a> | Dogs whose vet suggested a supplement | Vet-clinic standard; NASC seal; glucosamine, chondroitin and ASU | Soy component in ASU; priced above Cosequin |
+| <a class="amazon-link" href="https://amzn.to/4houcD3" target="_blank" rel="nofollow sponsored noopener">Nutramax Cosequin DS + MSM</a> | Longest-established, affordable start | 25+ years on the market; NASC seal; published studies on the formula (per Nutramax) | No ASU; glucosamine-chondroitin evidence is weak |
+| <a class="amazon-link" href="https://amzn.to/4iYaGyo" target="_blank" rel="nofollow sponsored noopener">Nutramax Dasuquin for Senior Dogs</a> | Dogs already on Dasuquin | Senior-targeted variant with omega-3s added | Lower owner scores, likely because buyers have more advanced stiffness |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Nutramax+Dasuquin+Advanced&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Nutramax Dasuquin Advanced</a> | Vet wants a broader approach | Adds Boswellia, turmeric, omega-3s, eggshell membrane | Extra ingredients have thinner evidence |
+| <a class="amazon-link" href="https://amzn.to/4jrZBFW" target="_blank" rel="nofollow sponsored noopener">Vetoquinol Flexadin Advanced with UC-II</a> | Dogs that did not respond to glucosamine products | Different mechanism; one chew a day regardless of size | Modest trial data |
+| <a class="amazon-link" href="https://amzn.to/47ppsHk" target="_blank" rel="nofollow sponsored noopener">PetLab Co. Joint Care Chews</a> | Soft chews with green-lipped mussel | Green-lipped mussel lead; widely reviewed | No independent trials on this exact product |
+| <a class="amazon-link" href="https://amzn.to/47rVMcx" target="_blank" rel="nofollow sponsored noopener">Zesty Paws Mobility Bites</a> | Easy-to-find first trial | Widely available soft chew | Availability is not evidence |
 
 None of these picks comes from testing we ran. They're shortlisted from published ingredient panels, quality certifications, manufacturer-published research, and aggregated verified-owner feedback — each discussed in detail below.
 

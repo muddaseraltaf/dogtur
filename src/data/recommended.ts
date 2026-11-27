@@ -53,8 +53,8 @@ export const RECOMMENDED: RecommendedProduct[] = [
   {
     name: 'Hill\u2019s Science Diet Adult Sensitive Stomach & Skin',
     why: 'Digestibility-first with prebiotic fiber \u2014 the vet-recommended line behind the strongest owner-reported stool improvements we found.',
-    url: 'https://www.amazon.com/dp/B003MW7790',
-    plain: true,
+    url: 'https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20',
+    plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-food-for-less-poop/',
     guideTitle: 'Best Dog Food for Less Poop',
     image: null,
@@ -62,8 +62,8 @@ export const RECOMMENDED: RecommendedProduct[] = [
   {
     name: 'Hill\u2019s Science Diet Adult Sensitive Stomach & Skin',
     why: 'A vet-recommended digestibility line with prebiotic fiber \u2014 our first suggestion for gassy, sensitive-stomach seniors.',
-    url: 'https://www.amazon.com/dp/B003MW7790',
-    plain: true,
+    url: 'https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20',
+    plain: false,
     guideHref: '/senior-dog-nutrition/best-dog-food-for-boston-terrier/',
     guideTitle: 'Best Dog Food for Boston Terriers',
     image: null,
@@ -125,8 +125,8 @@ export const RECOMMENDED: RecommendedProduct[] = [
   {
     name: 'Tuff Pupper Classic Heavy Duty Collar',
     why: 'A 3mm ballistic-polymer weave that shrugs off water and stink \u2014 the strong-dog waterproof pick.',
-    url: 'https://www.amazon.com/dp/B0863X178G',
-    plain: true,
+    url: 'https://www.amazon.com/dp/B0863X178G?tag=dogtur0f-20',
+    plain: false,
     guideHref: '/senior-dog-gear/best-waterproof-dog-collars/',
     guideTitle: 'Best Waterproof Dog Collars',
     image: 'https://m.media-amazon.com/images/I/71p-kAhn3VL._AC_SX679_.jpg',

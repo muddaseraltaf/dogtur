@@ -129,16 +129,16 @@ If it takes the full 12 weeks plus add-backs, that is normal. One stray treat ca
 
 > **How this section was built — honestly:** No hands-on feeding trials yet (planned). The foods below are compared on label and formulation analysis only, plus quantitative mining of verified-purchase Chewy reviews — owner reports, not our testing. Strict elimination trials stay with your vet's prescription; these are over-the-counter options for the investigation phase or maintenance afterward.
 
-**Royal Canin Hydrolyzed Protein HP** and **Hill's Prescription Diet z/d (veterinary diets).** The two prescription mainstays for elimination trials: hydrolyzed proteins plus skin-supporting nutrients. Prescription-only and vet-directed — this is what "doing it properly" looks like.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Hydrolyzed+Protein+HP+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Hydrolyzed Protein HP</a>** and **Hill's Prescription Diet z/d (veterinary diets).** The two prescription mainstays for elimination trials: hydrolyzed proteins plus skin-supporting nutrients. Prescription-only and vet-directed — this is what "doing it properly" looks like.
 
-**Natural Balance L.I.D. (Limited Ingredient Diets).** Single-animal-protein recipes (salmon, duck, venison, lamb, and others) with short ingredient lists. On Chewy: the Lamb & Brown Rice formula carries 4.5 stars across 1,814 ratings with "Allergen-Free" at 81% positive; the Vegetarian Small Breed formula holds 4.6 across 151 ratings with "Allergen-Free" at 85% positive. Verified reviewers repeatedly describe itchy dogs calming down after switching; individual stories aren't proof.
+**<a class="amazon-link" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Natural Balance L.I.D. (Limited Ingredient Diets)</a>.** Single-animal-protein recipes (salmon, duck, venison, lamb, and others) with short ingredient lists. On Chewy: the Lamb & Brown Rice formula carries 4.5 stars across 1,814 ratings with "Allergen-Free" at 81% positive; the Vegetarian Small Breed formula holds 4.6 across 151 ratings with "Allergen-Free" at 85% positive. Verified reviewers repeatedly describe itchy dogs calming down after switching; individual stories aren't proof.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg" alt="Natural Balance L.I.D. (Limited Ingredient Diets)" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/3TssQhn" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Zignature.** Single, less-common proteins (kangaroo, salmon, trout, pork, turkey) with no chicken, corn, wheat, soy, or dairy across the line. On Chewy: Kangaroo has 4.5 stars across 1,291 ratings; Salmon 25-lb has 4.5 across 770 ratings, with Digestibility and Ingredients in the low-80s percent positive. Useful when the dog's history rules out the common proteins — though mind cross-reactivity when choosing the protein.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Zignature+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Zignature</a>.** Single, less-common proteins (kangaroo, salmon, trout, pork, turkey) with no chicken, corn, wheat, soy, or dairy across the line. On Chewy: Kangaroo has 4.5 stars across 1,291 ratings; Salmon 25-lb has 4.5 across 770 ratings, with Digestibility and Ingredients in the low-80s percent positive. Useful when the dog's history rules out the common proteins — though mind cross-reactivity when choosing the protein.
 
 Some owners report limited-ingredient foods didn't resolve itching — expected when the real problem is environmental allergy or infection. Food only fixes a food problem.
 

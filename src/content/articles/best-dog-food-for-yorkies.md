@@ -40,10 +40,10 @@ A Yorkie rarely tops seven pounds, so every decision is scaled down: the kibble 
 
 | Food | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| Royal Canin Yorkshire Terrier Adult | Healthy adult Yorkies | Breed-specific kibble shape, omega fatty acids plus biotin for the coat, ingredient to help reduce tartar (per the maker) | A reviewer with two five-pound Yorkies found the pieces slightly large; Royal Canin's X-Small Adult has smaller pieces |
-| Hill's Science Diet Small & Mini Adult | A conservative, vet-familiar pick | Small kibble, grain-inclusive, omega-6 and vitamin E for skin and coat (per the maker) | Not Yorkie-shaped kibble; check piece size on a 4–5 lb dog |
-| Blue Buffalo Life Protection Small Breed | A mid-priced everyday option | Small kibble, real chicken listed first | Check the fat percentage on the label if your dog has had pancreatitis |
-| Wellness CORE Small Breed | Owners who want a protein-forward, grain-free recipe | Small kibble with added probiotics and omega fatty acids | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet first |
+| <a class="amazon-link" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener">Royal Canin Yorkshire Terrier Adult</a> | Healthy adult Yorkies | Breed-specific kibble shape, omega fatty acids plus biotin for the coat, ingredient to help reduce tartar (per the maker) | A reviewer with two five-pound Yorkies found the pieces slightly large; Royal Canin's X-Small Adult has smaller pieces |
+| <a class="amazon-link" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Small & Mini Adult</a> | A conservative, vet-familiar pick | Small kibble, grain-inclusive, omega-6 and vitamin E for skin and coat (per the maker) | Not Yorkie-shaped kibble; check piece size on a 4–5 lb dog |
+| <a class="amazon-link" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Small Breed</a> | A mid-priced everyday option | Small kibble, real chicken listed first | Check the fat percentage on the label if your dog has had pancreatitis |
+| <a class="amazon-link" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Small Breed</a> | Owners who want a protein-forward, grain-free recipe | Small kibble with added probiotics and omega fatty acids | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet first |
 
 ## What does a Yorkshire Terrier's body need from its food?
 
@@ -66,28 +66,28 @@ Three traits shape every food choice. Metabolism: small dogs burn plenty of calo
 
 > **How we picked:** label and manufacturer-feature analysis only. We have not fed these ourselves, and we don't quote ratings or prices because they change. The one owner report below is attributed to its source.
 
-**Royal Canin Yorkshire Terrier Adult.** The breed-specific reference point: kibble shaped for the Yorkie's muzzle and bite, omega fatty acids plus biotin for the long coat, and sodium tripolyphosphate to help reduce tartar. One honest wrinkle from a verified Chewy reviewer with two five-pound Yorkies: the kibble ran slightly large for her dogs, and she preferred Royal Canin's X-Small Adult for its smaller, rounder pieces. Worth knowing if your Yorkie is on the tiny end of the breed.
+**<a class="amazon-link" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener">Royal Canin Yorkshire Terrier Adult</a>.** The breed-specific reference point: kibble shaped for the Yorkie's muzzle and bite, omega fatty acids plus biotin for the long coat, and sodium tripolyphosphate to help reduce tartar. One honest wrinkle from a verified Chewy reviewer with two five-pound Yorkies: the kibble ran slightly large for her dogs, and she preferred Royal Canin's X-Small Adult for its smaller, rounder pieces. Worth knowing if your Yorkie is on the tiny end of the breed.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71hKPUkWkXL._AC_SX679_.jpg" alt="Royal Canin Yorkshire Terrier Adult" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jwnsEm" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Hill's Science Diet Small & Mini Adult.** The conservative, vet-familiar alternative: small kibble, prebiotic fiber for digestion, and omega-6 fatty acids and vitamin E for skin and coat. Hill's states that the formula is backed by AAFCO feeding trials, so confirm that on the current bag.
+**<a class="amazon-link" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Small & Mini Adult</a>.** The conservative, vet-familiar alternative: small kibble, prebiotic fiber for digestion, and omega-6 fatty acids and vitamin E for skin and coat. Hill's states that the formula is backed by AAFCO feeding trials, so confirm that on the current bag.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Small &amp; Mini Adult" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Wellness CORE Small Breed.** A protein-forward, grain-free small-breed option with small kibble, probiotics and omega fatty acids. The grain-free caveat applies: the FDA has investigated a potential link between grain-free diets and dilated cardiomyopathy, so discuss it with your vet first.
+**<a class="amazon-link" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Small Breed</a>.** A protein-forward, grain-free small-breed option with small kibble, probiotics and omega fatty acids. The grain-free caveat applies: the FDA has investigated a potential link between grain-free diets and dilated cardiomyopathy, so discuss it with your vet first.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg" alt="Wellness CORE Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Blue Buffalo Life Protection Small Breed.** A widely available small-breed recipe with real chicken first, small kibble and the brand's antioxidant "LifeSource Bits." A reasonable mid-priced option for a Yorkie that eats happily and digests well.
+**<a class="amazon-link" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Small Breed</a>.** A widely available small-breed recipe with real chicken first, small kibble and the brand's antioxidant "LifeSource Bits." A reasonable mid-priced option for a Yorkie that eats happily and digests well.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg" alt="Blue Buffalo Life Protection Small Breed" width="120" height="120" loading="lazy" /></a>

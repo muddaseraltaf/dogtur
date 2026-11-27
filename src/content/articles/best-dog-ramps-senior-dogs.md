@@ -41,11 +41,11 @@ The best ramp is long enough to keep the incline gentle, wide enough for your do
 
 | Ramp | Length / Width | Capacity | Best for |
 |------|---------------|----------|----------|
-| Gen7Pets Natural-Step Ramp 72" | 72" x 16" | 250 lb | Cars/SUVs; gentlest incline, paw-friendly turf |
-| PetSafe Happy Ride Folding Dog Ramp | 62" x 16" | 150 lb | Cars and SUVs; light and affordable |
-| PetSafe Happy Ride Telescoping Ramp | 28–70" (adjustable) | 300 lb | Tall trucks/SUVs; highest capacity, compact storage |
-| Gen7Pets Indoor-Carpet Mini Ramp 42" | 42" x 16" | 200 lb | Beds and couches; indoor use |
-| PetSafe CozyUp Bed Ramp | Furniture height | 120 lb | Bedroom furniture; looks like furniture |
+| <a class="amazon-link" href="https://amzn.to/4z8cSbk" target="_blank" rel="nofollow sponsored noopener">Gen7Pets Natural-Step Ramp 72"</a> | 72" x 16" | 250 lb | Cars/SUVs; gentlest incline, paw-friendly turf |
+| <a class="amazon-link" href="https://amzn.to/4ykHeHv" target="_blank" rel="nofollow sponsored noopener">PetSafe Happy Ride Folding Dog Ramp</a> | 62" x 16" | 150 lb | Cars and SUVs; light and affordable |
+| <a class="amazon-link" href="https://amzn.to/4ywx2vW" target="_blank" rel="nofollow sponsored noopener">PetSafe Happy Ride Telescoping Ramp</a> | 28–70" (adjustable) | 300 lb | Tall trucks/SUVs; highest capacity, compact storage |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Gen7Pets+Indoor+Carpet+Mini+Ramp+42&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Gen7Pets Indoor-Carpet Mini Ramp 42"</a> | 42" x 16" | 200 lb | Beds and couches; indoor use |
+| <a class="amazon-link" href="https://amzn.to/4yICwUt" target="_blank" rel="nofollow sponsored noopener">PetSafe CozyUp Bed Ramp</a> | Furniture height | 120 lb | Bedroom furniture; looks like furniture |
 
 ## What hundreds of verified owners report
 

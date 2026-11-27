@@ -57,37 +57,37 @@ Four traits drive the choice.
 
 > **How we picked:** These are small-breed formulas from established brands that fit the needs above on paper. We have not tested them ourselves and do not rank them. Check the current ingredient panel and adequacy statement, and confirm the choice with your vet.
 
-**Royal Canin Breed Health Nutrition Chihuahua Adult.** A breed-specific formula for purebred Chihuahuas 8 months and older, with a small kibble shaped for the breed's jaw. Royal Canin's listing says it uses digestible proteins and controlled fiber to reduce stool odor and adds omega-3 fatty acids and biotin for skin and coat. These are manufacturer claims. A natural first choice if you want kibble made for this exact mouth.
+**<a class="amazon-link" href="https://www.amazon.com/dp/B00IK5SPHM?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Breed Health Nutrition Chihuahua Adult</a>.** A breed-specific formula for purebred Chihuahuas 8 months and older, with a small kibble shaped for the breed's jaw. Royal Canin's listing says it uses digestible proteins and controlled fiber to reduce stool odor and adds omega-3 fatty acids and biotin for skin and coat. These are manufacturer claims. A natural first choice if you want kibble made for this exact mouth.
 
-**Hill's Science Diet Small & Mini Adult.** A small-kibble adult recipe from a brand that vets commonly recommend. It is a conservative, grain-inclusive choice for a healthy adult Chihuahua without special medical needs.
+**<a class="amazon-link" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Small & Mini Adult</a>.** A small-kibble adult recipe from a brand that vets commonly recommend. It is a conservative, grain-inclusive choice for a healthy adult Chihuahua without special medical needs.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Small &amp; Mini Adult" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMd2X" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Blue Buffalo Life Protection Small Breed.** A widely available small-breed recipe with small kibble and real chicken listed first. A reasonable mid-priced option for a Chihuahua that eats well and digests well.
+**<a class="amazon-link" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Blue Buffalo Life Protection Small Breed</a>.** A widely available small-breed recipe with small kibble and real chicken listed first. A reasonable mid-priced option for a Chihuahua that eats well and digests well.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg" alt="Blue Buffalo Life Protection Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4ho3L0g" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Diamond Naturals Small Breed.** A budget-friendly small-breed recipe with meat listed first and probiotics added. Worth a look if price per pound matters or you feed more than one small dog.
+**<a class="amazon-link" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Diamond Naturals Small Breed</a>.** A budget-friendly small-breed recipe with meat listed first and probiotics added. Worth a look if price per pound matters or you feed more than one small dog.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg" alt="Diamond Naturals Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jxMiDN" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Wellness CORE Small Breed.** A protein-forward, grain-free small-breed option. The grain-free caveat applies: the FDA has investigated a possible link between some grain-free diets and dilated cardiomyopathy and, [as of its latest update](https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-investigation-potential-link-between-certain-diets-and-canine-dilated-cardiomyopathy), says it has not established a causal link. Discuss it with your vet first. The listing we link to is the CORE+ small-breed line with freeze-dried pieces.
+**<a class="amazon-link" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Small Breed</a>.** A protein-forward, grain-free small-breed option. The grain-free caveat applies: the FDA has investigated a possible link between some grain-free diets and dilated cardiomyopathy and, [as of its latest update](https://www.fda.gov/animal-veterinary/outbreaks-and-advisories/fda-investigation-potential-link-between-certain-diets-and-canine-dilated-cardiomyopathy), says it has not established a causal link. Discuss it with your vet first. The listing we link to is the CORE+ small-breed line with freeze-dried pieces.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg" alt="Wellness CORE Small Breed" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/3Tu5V5m" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Royal Canin Breed Health Nutrition Chihuahua Puppy.** For purebred Chihuahua puppies from 8 weeks to 8 months, according to the listing, with antioxidants and vitamin E for immune development. If you choose a different puppy food, make sure it carries a growth or all-life-stages adequacy statement and a small kibble size.
+**<a class="amazon-link" href="https://www.amazon.com/dp/B0074JN35Y?tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Breed Health Nutrition Chihuahua Puppy</a>.** For purebred Chihuahua puppies from 8 weeks to 8 months, according to the listing, with antioxidants and vitamin E for immune development. If you choose a different puppy food, make sure it carries a growth or all-life-stages adequacy statement and a small kibble size.
 
 Related toy-breed shortlists are in our [Maltese guide](/senior-dog-nutrition/best-dog-food-for-maltese/) and [Yorkie guide](/senior-dog-nutrition/best-dog-food-for-yorkies/). For formulas built for older dogs, see our [senior dog food guide](/senior-dog-nutrition/best-dog-food-senior-dogs/).
 

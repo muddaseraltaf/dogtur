@@ -38,11 +38,11 @@ Corgis are low, long and very good at begging. VCA says plainly that "Pembrokes 
 
 | Food | Best for | Why it fits | Watch out for |
 |---|---|---|---|
-| Hill's Science Diet Adult Perfect Weight | Overweight adult Corgis | Weight-loss formula with about 10.3% fiber and 28.8% protein (dry matter), per Hill's | Adults only. Hill's does not recommend it for puppies |
-| Purina Pro Plan Weight Management (Shredded Blend, Chicken & Rice) | Adults that need to slim down, picky eaters | Reduced-fat adult formula with probiotics, widely sold | Purina label PDFs show different calorie counts by version, so read your bag |
-| Wellness CORE Healthy Weight | Owners who want a reduced-fat, grain-free recipe | Retailer listings describe a reduced-fat, higher-protein recipe | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet first |
-| Royal Canin Medium Adult | Healthy adult Corgis at a normal weight | Made for adults of 23 to 55 lb, 340 kcal per cup, per Royal Canin | Not a weight-loss food. It has no fat-loss claim, so portions still matter |
-| Royal Canin Medium Puppy | Corgi puppies up to a year old | Made for puppies expected to reach 23 to 55 lb as adults, 410 kcal per cup, per Royal Canin | Calorie-dense: measure it, because a chubby puppy is a chubby adult |
+| <a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight</a> | Overweight adult Corgis | Weight-loss formula with about 10.3% fiber and 28.8% protein (dry matter), per Hill's | Adults only. Hill's does not recommend it for puppies |
+| <a class="amazon-link" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Weight Management (Shredded Blend, Chicken & Rice)</a> | Adults that need to slim down, picky eaters | Reduced-fat adult formula with probiotics, widely sold | Purina label PDFs show different calorie counts by version, so read your bag |
+| <a class="amazon-link" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Healthy Weight</a> | Owners who want a reduced-fat, grain-free recipe | Retailer listings describe a reduced-fat, higher-protein recipe | Grain-free: the FDA has investigated a possible link with dilated cardiomyopathy, so ask your vet first |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Medium+Adult+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Medium Adult</a> | Healthy adult Corgis at a normal weight | Made for adults of 23 to 55 lb, 340 kcal per cup, per Royal Canin | Not a weight-loss food. It has no fat-loss claim, so portions still matter |
+| <a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Medium+Puppy+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Medium Puppy</a> | Corgi puppies up to a year old | Made for puppies expected to reach 23 to 55 lb as adults, 410 kcal per cup, per Royal Canin | Calorie-dense: measure it, because a chubby puppy is a chubby adult |
 
 ## What does a Corgi's body need from its food?
 
@@ -67,30 +67,30 @@ A Corgi needs a food that keeps a long, short-legged frame lean while still supp
 
 > **How we picked:** label and manufacturer-feature analysis only. We have not fed these ourselves, and we do not quote ratings or prices because they change. Formulas and calorie counts change between bag versions, so always check your bag.
 
-**Hill's Science Diet Adult Perfect Weight.** The most clearly documented weight-loss option here. Hill's lists 298 kcal per cup, 28.8% protein and 10.3% crude fiber on a dry-matter basis, and says the food provides complete and balanced nutrition for adult maintenance based on AAFCO feeding tests. Hill's also claims over 70% of dogs lost weight within 10 weeks in its own study, which we have not verified. It is not intended for puppies, pregnant or nursing dogs.
+**<a class="amazon-link" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Hill's Science Diet Adult Perfect Weight</a>.** The most clearly documented weight-loss option here. Hill's lists 298 kcal per cup, 28.8% protein and 10.3% crude fiber on a dry-matter basis, and says the food provides complete and balanced nutrition for adult maintenance based on AAFCO feeding tests. Hill's also claims over 70% of dogs lost weight within 10 weeks in its own study, which we have not verified. It is not intended for puppies, pregnant or nursing dogs.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg" alt="Hill&#x27;s Science Diet Adult Perfect Weight" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4rGieYE" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Purina Pro Plan Weight Management (Shredded Blend, Chicken & Rice).** A reduced-fat, protein-forward adult formula with probiotics, in the shredded-kibble style that some picky dogs prefer. Purina's published label PDFs disagree on calories (roughly 330 to 354 kcal per cup depending on the version we found), so use the figure printed on your own bag when you work out cups.
+**<a class="amazon-link" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener">Purina Pro Plan Weight Management (Shredded Blend, Chicken & Rice)</a>.** A reduced-fat, protein-forward adult formula with probiotics, in the shredded-kibble style that some picky dogs prefer. Purina's published label PDFs disagree on calories (roughly 330 to 354 kcal per cup depending on the version we found), so use the figure printed on your own bag when you work out cups.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/71AcAAWCgdL._AC_SX679_.jpg" alt="Purina Pro Plan Weight Management" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4jwnEDA" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Wellness CORE Healthy Weight.** A grain-free, reduced-fat recipe. Retailer listings describe it as higher in protein and about 25% lower in fat than the brand's original CORE recipe, but the numbers differ between listings, so confirm the guaranteed analysis on the bag. The grain-free caveat applies: the FDA has investigated a potential link between certain grain-free diets and dilated cardiomyopathy, so discuss it with your vet first.
+**<a class="amazon-link" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener">Wellness CORE Healthy Weight</a>.** A grain-free, reduced-fat recipe. Retailer listings describe it as higher in protein and about 25% lower in fat than the brand's original CORE recipe, but the numbers differ between listings, so confirm the guaranteed analysis on the bag. The grain-free caveat applies: the FDA has investigated a potential link between certain grain-free diets and dilated cardiomyopathy, so discuss it with your vet first.
 
 <div class="product-cta">
   <a class="product-cta-img" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener"><img src="https://m.media-amazon.com/images/I/61U3ZZ4GGgL._AC_SX679_.jpg" alt="Wellness CORE Healthy Weight" width="120" height="120" loading="lazy" /></a>
   <p><a class="affiliate-btn" href="https://amzn.to/4s06YXD" target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a></p>
 </div>
 
-**Royal Canin Medium Adult.** A medium-breed adult kibble for dogs over 12 months old weighing about 23 to 55 lb. Royal Canin lists 340 kcal per cup, an optimal-protein profile to support body condition, and an AAFCO adult-maintenance statement. It is a sensible default for a healthy-weight Corgi, but it is not a weight-loss formula, so measure it carefully.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Medium+Adult+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Medium Adult</a>.** A medium-breed adult kibble for dogs over 12 months old weighing about 23 to 55 lb. Royal Canin lists 340 kcal per cup, an optimal-protein profile to support body condition, and an AAFCO adult-maintenance statement. It is a sensible default for a healthy-weight Corgi, but it is not a weight-loss formula, so measure it carefully.
 
-**Royal Canin Medium Puppy.** Designed for puppies expected to reach 23 to 55 lb as adults, up to 12 months old. Royal Canin lists 410 kcal per cup, DHA and omega-3 fatty acids for brain development, and an AAFCO growth statement. That calorie density is why puppy portions need weighing.
+**<a class="amazon-link" href="https://www.amazon.com/s?k=Royal+Canin+Medium+Puppy+dry+dog+food&tag=dogtur0f-20" target="_blank" rel="nofollow sponsored noopener">Royal Canin Medium Puppy</a>.** Designed for puppies expected to reach 23 to 55 lb as adults, up to 12 months old. Royal Canin lists 410 kcal per cup, DHA and omega-3 fatty acids for brain development, and an AAFCO growth statement. That calorie density is why puppy portions need weighing.
 
 ## What to feed a Corgi puppy
 
