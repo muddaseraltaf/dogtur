@@ -17,6 +17,19 @@ description: "Dog umbrellas clip to the leash and shelter small dogs on rainy wa
 minutes: 11
 published: 2026-11-12
 updated: 2026-11-12
+picks:
+  - label: "Best for: Small dogs up to about 20 in long"
+    name: "PETLESO Clear Dog Umbrella for Small Dogs"
+    url: "https://www.amazon.com/dp/B0G8JRFG4P?tag=dogtur0f-20"
+  - label: "Best for: Chewers (metal chain leash)"
+    name: "ENJOYING Dog Umbrella for Small Dogs, Metal Leash"
+    url: "https://www.amazon.com/dp/B07RGWD7XM?tag=dogtur0f-20"
+  - label: "Best for: Most adjustable"
+    name: "NAMSAN Small Dog Rain Umbrella"
+    url: "https://www.amazon.com/dp/B0H28Y7D8Z?tag=dogtur0f-20"
+  - label: "Best for: Built-in leash holder"
+    name: "LOVEPET Transparent Dog Umbrella with Leash Holder"
+    url: "https://www.amazon.com/dp/B07W116BLK?tag=dogtur0f-20"
 ---
 
 A dog umbrella is a small clear dome that attaches to the leash and rides over your dog's back, so rain lands on the canopy instead of the coat. It works best for small dogs that hate getting wet, and it works poorly for big dogs, windy days, and any dog that panics at a moving object overhead. This guide explains who actually benefits, where umbrellas fall short, how to size one, and which products are worth a look. We have not tested any of these products ourselves, and no veterinary study of dog umbrellas exists that we could find, so everything here rests on the sources linked at the bottom and on the manufacturers' own listings.

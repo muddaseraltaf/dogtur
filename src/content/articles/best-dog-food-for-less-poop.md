@@ -19,6 +19,25 @@ description: "Which dog food makes dogs poop less? Digestibility, fiber and port
 minutes: 10
 hero: "/images/best-dog-food-for-less-poop.jpg"
 heroAlt: "Dog eating kibble from a white food bowl indoors"
+picks:
+  - label: "Best for: Soft stools on an ordinary food"
+    name: "Hill's Science Diet Adult Sensitive Stomach & Skin"
+    url: "https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20"
+  - label: "Best for: Chicken-sensitive dogs; also has a puppy line"
+    name: "Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice)"
+    url: "https://www.amazon.com/dp/B01EY9KPZM?tag=dogtur0f-20"
+  - label: "Best for: Budget"
+    name: "Diamond Naturals (Chicken & Rice)"
+    url: "https://amzn.to/4jysyjq"
+    image: "https://m.media-amazon.com/images/I/71EbtyFq9FL._AC_SX679_.jpg"
+  - label: "Best for: Protein-forward feeding"
+    name: "Wellness CORE"
+    url: "https://amzn.to/3TiWoxX"
+    image: "https://m.media-amazon.com/images/I/71K4hWJZmWL._AC_SX679_.jpg"
+  - label: "Best for: Persistent problems, vet-directed"
+    name: "Royal Canin Gastrointestinal (veterinary diet)"
+    url: "https://amzn.to/3VgUL4t"
+    image: "https://m.media-amazon.com/images/I/719T+tOnR8L._AC_SX679_.jpg"
 ---
 
 The best dog food for less poop is a highly digestible one: dogs make less waste when they absorb more of what they eat, so the food your dog digests well, fed in the right portion, is the food that produces less poop. Soft stool is a separate problem with its own fix: a gradual food change, modest fiber and a vet check if it lasts more than a day or two (steps below). This guide covers both, shows what to read on the label, and points to foods worth a closer look. It's part of our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/), which covers how aging changes a dog's digestive needs.

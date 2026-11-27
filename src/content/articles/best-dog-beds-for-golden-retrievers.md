@@ -19,6 +19,26 @@ description: "Golden Retrievers need big, dense, washable beds built for 70-lb s
 minutes: 13
 hero: "/images/best-dog-beds-for-golden-retrievers.jpg"
 heroAlt: "Golden retriever resting on a light-blue dog bed with a tennis ball"
+picks:
+  - label: "Best for: Big Goldens, longest warranty"
+    name: "Big Barker 7\" Orthopedic"
+    url: "https://amzn.to/4hz38jj"
+    image: "https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg"
+  - label: "Best for: Swimmers: waterproof liner"
+    name: "PetFusion Ultimate"
+    url: "https://amzn.to/4xZxnG1"
+    image: "https://m.media-amazon.com/images/I/61M7gtoFuuL._AC_SX679_.jpg"
+  - label: "Best for: Mass-market value"
+    name: "Bedsure Orthopedic"
+    url: "https://amzn.to/3TbSgji"
+    image: "https://m.media-amazon.com/images/I/71H2ALDagcL._AC_SX679_.jpg"
+  - label: "Best for: Tight budgets"
+    name: "FurHaven"
+    url: "https://amzn.to/4iTryGv"
+    image: "https://m.media-amazon.com/images/I/61i7aWVLKtL._AC_SX679_.jpg"
+  - label: "Best for: Nesters who curl up"
+    name: "BarkBox Memory Foam Cuddler"
+    url: "https://www.amazon.com/s?k=BarkBox+Memory+Foam+Cuddler+dog+bed&tag=dogtur0f-20"
 ---
 
 Golden Retrievers are 55–75 pounds of enthusiastic, muddy, shedding joy — and they are unusually hard on dog beds. A thin pad that works for a Beagle will bottom out under a Golden within months, leaving hips and elbows on the hard floor. Goldens also run warm, shed constantly, and swim whenever given the chance, so washability and breathability matter as much as cushioning. And the breed carries a real orthopedic burden: in OFA screening data, roughly 1 in 5 evaluated Golden Retrievers shows hip dysplasia and 10–15% show elbow dysplasia — which means a Golden's bed is doing joint work long before the dog turns gray. For the deep dive on support, see our guide to [orthopedic beds for senior dogs](/senior-dog-gear/best-orthopedic-dog-beds-senior-dogs/); this one is about what the breed specifically demands.

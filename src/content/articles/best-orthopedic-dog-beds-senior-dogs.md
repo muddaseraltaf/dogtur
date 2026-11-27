@@ -20,6 +20,27 @@ minutes: 15
 updated: 2026-11-12
 hero: "/images/best-orthopedic-dog-beds-senior-dogs.jpg"
 heroAlt: "Black-and-white dog sleeping curled up on a bed"
+picks:
+  - label: "Best for: Large and giant seniors"
+    name: "Big Barker Original"
+    url: "https://amzn.to/4hz38jj"
+    image: "https://m.media-amazon.com/images/I/61Qcqdf2u7L._AC_SX679_.jpg"
+  - label: "Best for: Most seniors, mid-range"
+    name: "PetFusion Ultimate"
+    url: "https://amzn.to/4xZxnG1"
+    image: "https://m.media-amazon.com/images/I/61M7gtoFuuL._AC_SX679_.jpg"
+  - label: "Best for: Budget-mid, second bed"
+    name: "Bedsure Orthopedic"
+    url: "https://amzn.to/3TbSgji"
+    image: "https://m.media-amazon.com/images/I/71H2ALDagcL._AC_SX679_.jpg"
+  - label: "Best for: Tight budgets, small sizes"
+    name: "FurHaven Ultra Plush Lounger"
+    url: "https://amzn.to/4iTryGv"
+    image: "https://m.media-amazon.com/images/I/61i7aWVLKtL._AC_SX679_.jpg"
+  - label: "Best for: Owners who want firm support"
+    name: "Casper Dog Bed"
+    url: "https://amzn.to/4yf7ToB"
+    image: "https://m.media-amazon.com/images/I/71USMB5fQkL._AC_SX679_.jpg"
 ---
 
 The best orthopedic bed for a senior dog is a thick (4 to 7 inches), solid-foam mattress with a low step-in edge, a removable washable cover, a waterproof liner and a non-slip bottom. Size it to the dog stretched out asleep (nose to tail base) plus 6 to 12 inches, and treat the word "orthopedic" on the label as marketing until the foam type, density and thickness are listed.

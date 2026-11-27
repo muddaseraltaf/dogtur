@@ -20,6 +20,17 @@ description: "True food allergies are uncommon and yeast is usually secondary. A
 minutes: 10
 hero: "/images/best-dog-food-for-allergies-and-yeast-infection.jpg"
 heroAlt: "Small terrier scratching its side with a hind leg"
+picks:
+  - label: "Best for: Vet-run elimination trials"
+    name: "Royal Canin Hydrolyzed Protein HP"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Hydrolyzed+Protein+HP+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Single animal protein"
+    name: "Natural Balance L.I.D. (Limited Ingredient Diets)"
+    url: "https://amzn.to/3TssQhn"
+    image: "https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg"
+  - label: "Best for: Less-common proteins"
+    name: "Zignature"
+    url: "https://www.amazon.com/s?k=Zignature+dry+dog+food&tag=dogtur0f-20"
 ---
 
 There is no single best dog food for allergies and yeast infections, because a food only helps if food is the cause — and you can only find out with a vet-guided elimination diet trial of about 8–12 weeks. Yeast overgrowth is usually a secondary problem treated by your vet, not by a kibble: no dry food "kills yeast." This page shows how the trial works week by week, how to choose between a hydrolyzed, novel-protein, or limited-ingredient diet, and what to look for once your vet confirms a food allergy.

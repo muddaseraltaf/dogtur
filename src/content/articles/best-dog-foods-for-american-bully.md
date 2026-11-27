@@ -19,6 +19,27 @@ description: "American Bullies need 25–30% protein for muscle and strict porti
 minutes: 9
 hero: "/images/best-dog-foods-for-american-bully.jpg"
 heroAlt: "American bully sitting among autumn leaves"
+picks:
+  - label: "Best for: Active adult Bullies"
+    name: "VICTOR Hi-Pro Plus (30/20)"
+    url: "https://amzn.to/4hZn0fN"
+    image: "https://m.media-amazon.com/images/I/818ty+cyzCL._AC_SY879_.jpg"
+  - label: "Best for: Hard keepers, very active dogs"
+    name: "Bully Max 30/20"
+    url: "https://amzn.to/4hxCsiO"
+    image: "https://m.media-amazon.com/images/I/7120tzJSXiL._AC_SX679_.jpg"
+  - label: "Best for: Bullies that need to lose weight"
+    name: "Bully Max 25/11"
+    url: "https://amzn.to/4hG5ixH"
+    image: "https://m.media-amazon.com/images/I/71O9XhzCXUL._AC_SX679_.jpg"
+  - label: "Best for: Budget-minded owners of big eaters"
+    name: "Diamond Naturals"
+    url: "https://amzn.to/4jysyjq"
+    image: "https://m.media-amazon.com/images/I/71EbtyFq9FL._AC_SX679_.jpg"
+  - label: "Best for: Middle ground on price"
+    name: "Nulo Freestyle"
+    url: "https://amzn.to/4xQN967"
+    image: "https://m.media-amazon.com/images/I/71D3gHumugL._AC_SX679_.jpg"
 ---
 
 The best food for an American Bully is a complete, high-quality dry food with 25–30% protein from named animal sources, fat matched to activity, and measured portions based on ideal weight — and for puppies, a food labeled for growth of large-size dogs. There is no official "bully breed" food, so what matters is the label, the calories per cup, and how much goes in the bowl. Below: a feeding table by weight (with the math shown), puppy rules, a quick comparison, and the formulas we looked at. For the bigger picture, see our [senior dog nutrition guide](/senior-dog-nutrition/senior-dog-nutrition-guide/).

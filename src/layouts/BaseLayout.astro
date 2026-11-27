@@ -82,6 +82,15 @@ const pageUrl = canonical ?? `${SITE}${Astro.url.pathname}`;
       window.addEventListener('resize', update);
       update();
     }
+    // Label each table cell with its column header so tables can stack as cards on phones.
+    document.querySelectorAll('main table:not(.compare-table)').forEach((t) => {
+      const heads = [...t.querySelectorAll('thead th')].map((th) => th.textContent.trim());
+      if (heads.length < 2) return;
+      t.querySelectorAll('tbody tr').forEach((tr) =>
+        [...tr.children].forEach((td, i) => heads[i] && td.setAttribute('data-label', heads[i]))
+      );
+      t.classList.add('cards');
+    });
   </script>
   <main id="main">
     <slot />

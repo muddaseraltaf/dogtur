@@ -19,6 +19,27 @@ description: "Senior dog food, honestly: label analysis, 4,600+ verified Chewy o
 minutes: 14
 hero: "/images/best-dog-food-senior-dogs.jpg"
 heroAlt: "Dog eating kibble from a white bowl while being gently petted"
+picks:
+  - label: "Best for: All-rounder for healthy seniors"
+    name: "Hill's Science Diet Adult 7+"
+    url: "https://amzn.to/4yZUm4W"
+    image: "https://m.media-amazon.com/images/I/713uvvCtRXL._AC_SX679_.jpg"
+  - label: "Best for: The aging brain"
+    name: "Purina Pro Plan Bright Mind 7+"
+    url: "https://amzn.to/47rW0jT"
+    image: "https://m.media-amazon.com/images/I/81d01xWvn7L._AC_SX679_.jpg"
+  - label: "Best for: Very senior dogs, by size"
+    name: "Royal Canin Aging 8+ / 10+"
+    url: "https://amzn.to/4z7fNRx"
+    image: "https://m.media-amazon.com/images/I/71Vwle9VItL._AC_SX679_.jpg"
+  - label: "Best for: Higher protein, grain-free"
+    name: "Wellness CORE Age Advantage"
+    url: "https://amzn.to/4z8mjr5"
+    image: "https://m.media-amazon.com/images/I/61WWvreVVkL._AC_SX679_.jpg"
+  - label: "Best for: Budget pick"
+    name: "Purina ONE SmartBlend Vibrant Maturity 7+"
+    url: "https://amzn.to/4z9zJTX"
+    image: "https://m.media-amazon.com/images/I/71E01zmpseL._AC_SX679_.jpg"
 ---
 
 Switching your aging dog to a senior formula is one of the simplest upgrades you can make to their daily care. The hard part is the pet-store aisle: dozens of bags all claim "senior" on the front, and the word means something different on every label.

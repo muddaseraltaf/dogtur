@@ -8,6 +8,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import HeroImage from '../components/HeroImage.astro';
 import DisclosureBox from '../components/DisclosureBox.astro';
 import RecommendedCTA from '../components/RecommendedCTA.astro';
+import TopPicks from '../components/TopPicks.astro';
 import { render, type CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -92,6 +93,8 @@ const crumbLd = {
       <HeroImage hero={d.hero} heroAlt={d.heroAlt} />
 
       <DisclosureBox />
+
+      <TopPicks picks={d.picks} />
 
       <Content />
 

@@ -1,0 +1,29 @@
+---
+// "Our top picks" comparison box shown above a buying guide's content.
+// Data comes from the article's `picks` frontmatter (generated from its
+// at-a-glance table). Images: Amazon SiteStripe image URLs only, never re-hosted.
+interface Pick { label: string; name: string; url: string; image?: string }
+interface Props { picks: Pick[] }
+const { picks } = Astro.props;
+---
+{picks.length > 0 && (
+  <section class="top-picks" aria-labelledby="top-picks-h">
+    <h2 id="top-picks-h">Our top picks at a glance</h2>
+    <ol>
+      {picks.map((p, i) => (
+        <li>
+          <span class="tp-rank" aria-hidden="true">{i + 1}</span>
+          <a class="tp-img" href={p.url} target="_blank" rel="nofollow sponsored noopener" tabindex="-1" aria-hidden="true">
+            {p.image ? <img src={p.image} alt="" width="88" height="88" loading="lazy" /> : <span class="tp-noimg">🐾</span>}
+          </a>
+          <div class="tp-body">
+            <span class="tp-label">{p.label}</span>
+            <a class="tp-name" href={p.url} target="_blank" rel="nofollow sponsored noopener">{p.name}</a>
+          </div>
+          <a class="affiliate-btn tp-btn" href={p.url} target="_blank" rel="nofollow sponsored noopener">Check price on Amazon</a>
+        </li>
+      ))}
+    </ol>
+    <p class="tp-note">Picks and reasons are explained below. Amazon links are affiliate links; prices change, so check the live listing.</p>
+  </section>
+)}

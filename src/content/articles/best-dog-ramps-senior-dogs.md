@@ -20,6 +20,26 @@ minutes: 13
 updated: 2026-11-12
 hero: "/images/best-dog-ramps-senior-dogs.jpg"
 heroAlt: "Dog sitting in the back of a pickup truck"
+picks:
+  - label: "Best for: Cars/SUVs; gentlest incline, paw-friendly turf"
+    name: "Gen7Pets Natural-Step Ramp 72\""
+    url: "https://amzn.to/4z8cSbk"
+    image: "https://m.media-amazon.com/images/I/81jnZyGaVPL._AC_SX679_.jpg"
+  - label: "Best for: Cars and SUVs; light and affordable"
+    name: "PetSafe Happy Ride Folding Dog Ramp"
+    url: "https://amzn.to/4ykHeHv"
+    image: "https://m.media-amazon.com/images/I/61jJ0Mw2neL._AC_SX679_.jpg"
+  - label: "Best for: Tall trucks/SUVs; highest capacity, compact storage"
+    name: "PetSafe Happy Ride Telescoping Ramp"
+    url: "https://amzn.to/4ywx2vW"
+    image: "https://m.media-amazon.com/images/I/713Enlm2lDL._AC_SX679_.jpg"
+  - label: "Best for: Beds and couches; indoor use"
+    name: "Gen7Pets Indoor-Carpet Mini Ramp 42\""
+    url: "https://www.amazon.com/s?k=Gen7Pets+Indoor+Carpet+Mini+Ramp+42&tag=dogtur0f-20"
+  - label: "Best for: Bedroom furniture; looks like furniture"
+    name: "PetSafe CozyUp Bed Ramp"
+    url: "https://amzn.to/4yICwUt"
+    image: "https://m.media-amazon.com/images/I/61ZGuJRfp6L._AC_SX679_.jpg"
 ---
 
 The best dog ramp for a senior dog is a long, 16-inch-plus-wide ramp with a turf or carpet surface and a gentle slope, ideally under about 20 degrees. For a 30-inch SUV cargo floor, that means roughly 70 to 90 inches of ramp, which is longer than most 62-inch folding ramps. The math is below, and you can run your own numbers in our [dog ramp calculator](/tools/dog-ramp-calculator/).

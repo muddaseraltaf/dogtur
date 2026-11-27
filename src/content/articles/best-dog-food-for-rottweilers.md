@@ -17,6 +17,22 @@ publishQueue: null
 entities: ["Rottweiler (large-breed nutrition)", "large-breed puppy food", "AAFCO large-size growth statement (70 lb or more as an adult)", "calcium and phosphorus in puppy growth", "hip and elbow dysplasia", "gastric dilatation-volvulus (bloat)", "resting energy requirement (RER)", "body condition score", "kibble versus wet food", "senior large-breed nutrition"]
 description: "What to feed a Rottweiler at every age: large-breed puppy rules, kibble vs wet, a calorie table by weight, bloat-safe feeding habits, and senior feeding."
 minutes: 12
+picks:
+  - label: "Best for: Puppies, mainstream and widely available"
+    name: "Purina Pro Plan Large Breed Puppy (chicken & rice)"
+    url: "https://www.amazon.com/s?k=Purina+Pro+Plan+Large+Breed+Puppy+Chicken+and+Rice&tag=dogtur0f-20"
+  - label: "Best for: Puppies, vet-recommended brand"
+    name: "Hill's Science Diet Puppy Large Breed"
+    url: "https://www.amazon.com/s?k=Hill%27s+Science+Diet+Puppy+Large+Breed+dry+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Rottweiler-specific puppy kibble (8 weeks to 18 months)"
+    name: "Royal Canin Rottweiler Puppy"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Rottweiler+Puppy+dry+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Puppies, \"natural\" mainstream option"
+    name: "Blue Buffalo Life Protection Large Breed Puppy"
+    url: "https://www.amazon.com/s?k=Blue+Buffalo+Life+Protection+Large+Breed+Puppy&tag=dogtur0f-20"
+  - label: "Best for: Adults wanting a breed-specific kibble"
+    name: "Royal Canin Rottweiler Adult"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Rottweiler+Adult+dry+dog+food&tag=dogtur0f-20"
 ---
 
 The best dog food for a Rottweiler puppy is a dry (or dry plus a little wet) food labeled for growth of large-size dogs, fed in measured meals so the puppy stays lean while the bones and joints develop. For adults, it is a complete large-breed adult formula in portions based on ideal weight, split into two meals a day to lower bloat risk. This guide covers each life stage, kibble versus wet food, a calorie table with the math shown, and the products we looked at. Part of our [senior dog nutrition series](/senior-dog-nutrition/senior-dog-nutrition-guide/): Rottweilers are a large breed with a lifespan of roughly 9 to 10 years, so how you feed them early shapes how they age.

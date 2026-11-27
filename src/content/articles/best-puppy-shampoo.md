@@ -17,6 +17,22 @@ description: "Best puppy shampoo? What to look for, when you can bathe a puppy, 
 minutes: 12
 published: 2026-11-26
 updated: 2026-11-26
+picks:
+  - label: "Best for: Normal skin, young puppies"
+    name: "earthbath Ultra-Mild Puppy Shampoo (Wild Cherry)"
+    url: "https://www.amazon.com/s?k=earthbath+Ultra-Mild+Puppy+Shampoo+Wild+Cherry&tag=dogtur0f-20"
+  - label: "Best for: Dry or dull coat, simple bath"
+    name: "Burt's Bees 2-in-1 Tearless Puppy Shampoo & Conditioner"
+    url: "https://www.amazon.com/s?k=Burt%27s+Bees+2-in-1+Tearless+Puppy+Shampoo+Conditioner&tag=dogtur0f-20"
+  - label: "Best for: Easy lather, budget bottle"
+    name: "Wahl Gentle Puppy Shampoo (Cornflower & Aloe)"
+    url: "https://www.amazon.com/s?k=Wahl+Gentle+Puppy+Shampoo+Cornflower+Aloe&tag=dogtur0f-20"
+  - label: "Best for: Puppies prone to dry skin"
+    name: "TropiClean Hypo-Allergenic Gentle Coconut Puppy Shampoo"
+    url: "https://www.amazon.com/s?k=TropiClean+Hypo-Allergenic+Gentle+Coconut+Puppy+Kitten+Shampoo&tag=dogtur0f-20"
+  - label: "Best for: Budget, widely stocked"
+    name: "Hartz Groomer's Best Extra Gentle Tearless Puppy Shampoo"
+    url: "https://www.amazon.com/s?k=Hartz+Groomer%27s+Best+Extra+Gentle+Tearless+Puppy+Shampoo&tag=dogtur0f-20"
 ---
 
 The best puppy shampoo is a mild shampoo made for dogs, labeled pH-balanced for puppies and tearless, used sparingly and rinsed out completely. Human and baby shampoo are not a good routine choice, because dog skin is less acidic than ours. For timing, the American Kennel Club (AKC) says a puppy can start with a plain warm washcloth and move to dog shampoo from about 3 months, and that a bath roughly once a month is enough for most puppies. This guide covers what to look for, how to give a first bath, which shampoo suits which puppy, and five widely sold options. We have not tested any of them ourselves. The product notes come from retailer and manufacturer listings and from published veterinary guidance.

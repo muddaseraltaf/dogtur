@@ -19,6 +19,25 @@ description: "The best fiber for dogs and the best high-fiber dog food for anal 
 minutes: 10
 hero: "/images/best-high-fiber-dog-food.jpg"
 heroAlt: "Brown dog eating kibble from a white bowl"
+picks:
+  - label: "Best for: Fiber-responsive digestive issues, vet-directed"
+    name: "Royal Canin Gastrointestinal High Fiber (vet diet, dry)"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Gastrointestinal+High+Fiber+dry+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Overweight dogs, vet-managed weight plans"
+    name: "Hill's Prescription Diet w/d Multi-Benefit (vet diet, dry and canned)"
+    url: "https://amzn.to/4rEcWgm"
+    image: "https://m.media-amazon.com/images/I/71WeIQSPjxL._AC_SX679_.jpg"
+  - label: "Best for: Slimming a chunky dog without a prescription"
+    name: "Hill's Science Diet Adult Perfect Weight (over the counter)"
+    url: "https://amzn.to/4rGieYE"
+    image: "https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg"
+  - label: "Best for: Weight control with named fibers"
+    name: "Nutro Natural Choice Healthy Weight (over the counter)"
+    url: "https://amzn.to/4rDwX6O"
+    image: "https://m.media-amazon.com/images/I/71fpnoj9SkL._AC_SX679_.jpg"
+  - label: "Best for: Weight control on a budget"
+    name: "Natural Balance Fat Dogs (over the counter)"
+    url: "https://www.amazon.com/s?k=Natural+Balance+Fat+Dogs+dry+dog+food&tag=dogtur0f-20"
 ---
 
 High-fiber dog food is food with noticeably more fiber than a standard maintenance diet: on the labels we checked, roughly 10–15% crude fiber on a dry-matter basis, versus a few percent in a typical adult kibble. For anal gland problems, the best high-fiber dog food is one your vet agrees fits your dog, because fiber can help prevent recurrence in dogs with healthy glands but does nothing for an infected or impacted gland.

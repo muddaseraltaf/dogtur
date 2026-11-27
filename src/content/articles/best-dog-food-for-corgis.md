@@ -17,6 +17,25 @@ publishQueue: null
 entities: ["Pembroke Welsh Corgi", "Cardigan Welsh Corgi", "obesity in Corgis", "intervertebral disc disease (IVDD)", "chondrodystrophic breeds", "medium-breed puppy food", "AAFCO nutritional adequacy statement", "calorie density", "resting energy requirement (RER)", "body condition score", "weight-management dog food", "senior dog mobility"]
 description: "What to feed a Corgi at every age: weight-control rules for a long-backed breed, puppy feeding, a calorie table by weight, treats, and senior Corgi care."
 minutes: 12
+picks:
+  - label: "Best for: Overweight adult Corgis"
+    name: "Hill's Science Diet Adult Perfect Weight"
+    url: "https://amzn.to/4rGieYE"
+    image: "https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg"
+  - label: "Best for: Adults that need to slim down, picky eaters"
+    name: "Purina Pro Plan Weight Management (Shredded Blend, Chicken & Rice)"
+    url: "https://amzn.to/4jwnEDA"
+    image: "https://m.media-amazon.com/images/I/71AcAAWCgdL._AC_SX679_.jpg"
+  - label: "Best for: Owners who want a reduced-fat, grain-free recipe"
+    name: "Wellness CORE Healthy Weight"
+    url: "https://amzn.to/4s06YXD"
+    image: "https://m.media-amazon.com/images/I/61U3ZZ4GGgL._AC_SX679_.jpg"
+  - label: "Best for: Healthy adult Corgis at a normal weight"
+    name: "Royal Canin Medium Adult"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Medium+Adult+dry+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Corgi puppies up to a year old"
+    name: "Royal Canin Medium Puppy"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Medium+Puppy+dry+dog+food&tag=dogtur0f-20"
 ---
 
 **The best dog food for a Corgi is a complete-and-balanced formula for the right life stage, fed in measured portions, because the real feeding problem with this breed is weight, not ingredients.** For most adult Corgis that means a medium-breed or weight-management adult food, roughly 585 to 890 calories a day at 20 to 35 pounds if neutered and at a healthy weight; for a Corgi puppy, a medium-breed puppy food until about a year old.

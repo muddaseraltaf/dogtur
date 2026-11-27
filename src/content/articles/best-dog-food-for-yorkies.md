@@ -19,6 +19,23 @@ minutes: 11
 hero: "/images/best-dog-food-for-yorkies.jpg"
 heroAlt: "Yorkshire terrier resting on grass in sunlight"
 updated: 2026-11-12
+picks:
+  - label: "Best for: Healthy adult Yorkies"
+    name: "Royal Canin Yorkshire Terrier Adult"
+    url: "https://amzn.to/4jwnsEm"
+    image: "https://m.media-amazon.com/images/I/71hKPUkWkXL._AC_SX679_.jpg"
+  - label: "Best for: A conservative, vet-familiar pick"
+    name: "Hill's Science Diet Small & Mini Adult"
+    url: "https://amzn.to/4jxMd2X"
+    image: "https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg"
+  - label: "Best for: A mid-priced everyday option"
+    name: "Blue Buffalo Life Protection Small Breed"
+    url: "https://amzn.to/4ho3L0g"
+    image: "https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg"
+  - label: "Best for: Owners who want a protein-forward, grain-free recipe"
+    name: "Wellness CORE Small Breed"
+    url: "https://amzn.to/3Tu5V5m"
+    image: "https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg"
 ---
 
 **The best dog food for a Yorkie is a complete-and-balanced small-breed (or Yorkie-specific) formula with tiny, easy-to-grip kibble, moderate fat and precise portions — most adult Yorkies eat roughly 140–350 calories a day, depending on weight.** For a Yorkie puppy, pick a puppy or all-life-stages small-breed food and feed it in several small meals, because very small puppies are prone to low blood sugar.

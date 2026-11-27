@@ -17,6 +17,25 @@ description: "What to feed a Chihuahua: small kibble, hypoglycemia in puppies, d
 minutes: 11
 published: 2026-11-12
 updated: 2026-11-12
+picks:
+  - label: "Best for: Breed-specific adult food"
+    name: "Royal Canin Breed Health Nutrition Chihuahua Adult"
+    url: "https://www.amazon.com/dp/B00IK5SPHM?tag=dogtur0f-20"
+  - label: "Best for: Conservative, vet-familiar pick"
+    name: "Hill's Science Diet Small & Mini Adult"
+    url: "https://amzn.to/4jxMd2X"
+    image: "https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg"
+  - label: "Best for: Mid-priced everyday option"
+    name: "Blue Buffalo Life Protection Small Breed"
+    url: "https://amzn.to/4ho3L0g"
+    image: "https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg"
+  - label: "Best for: Budget or multi-dog homes"
+    name: "Diamond Naturals Small Breed"
+    url: "https://amzn.to/4jxMiDN"
+    image: "https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg"
+  - label: "Best for: Chihuahua puppies"
+    name: "Royal Canin Breed Health Nutrition Chihuahua Puppy"
+    url: "https://www.amazon.com/dp/B0074JN35Y?tag=dogtur0f-20"
 ---
 
 The best dog food for a Chihuahua is a complete and balanced small-breed (or toy-breed) formula with small kibble, matched to your dog's life stage, fed in carefully measured portions. A healthy adult Chihuahua weighs only a few pounds, so kibble size, tooth care and tiny differences in portions matter more than in almost any other dog. This guide covers how to choose, which small-breed foods are worth considering, and how feeding changes from puppy to senior. It also works for Chihuahua mixes such as the Chi-Poo, with a note on that below.

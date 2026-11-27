@@ -19,6 +19,22 @@ minutes: 9
 updated: 2026-11-12
 hero: "/images/best-dog-foods-for-hypothyroidism.jpg"
 heroAlt: "Close-up portrait of a calm senior dog with graying fur"
+picks:
+  - label: "Best for: Vet-directed weight loss"
+    name: "Royal Canin Satiety Support (veterinary diet)"
+    url: "https://www.amazon.com/s?k=Royal+Canin+Satiety+Support+dog+food&tag=dogtur0f-20"
+  - label: "Best for: Over-the-counter starting point"
+    name: "Hill's Science Diet Adult Perfect Weight"
+    url: "https://amzn.to/4rGieYE"
+    image: "https://m.media-amazon.com/images/I/81IFILvsiVL._AC_SX679_.jpg"
+  - label: "Best for: Widely available, mid-priced"
+    name: "Purina Pro Plan Weight Management"
+    url: "https://amzn.to/4jwnEDA"
+    image: "https://m.media-amazon.com/images/I/71AcAAWCgdL._AC_SX679_.jpg"
+  - label: "Best for: Premium-leaning label"
+    name: "Wellness CORE Healthy Weight"
+    url: "https://amzn.to/4s06YXD"
+    image: "https://m.media-amazon.com/images/I/61U3ZZ4GGgL._AC_SX679_.jpg"
 ---
 
 The best diet for a dog with hypothyroidism is a measured, high-protein, higher-fiber weight-management food fed to the dog's target weight, alongside daily thyroid hormone from your vet. No food treats hypothyroidism; levothyroxine does. Diet's real jobs are controlling the weight gain the condition causes, supporting the coat, and keeping meals and the pill on a consistent routine.

@@ -19,6 +19,21 @@ minutes: 10
 hero: "/images/best-dog-food-for-boston-terrier.jpg"
 heroAlt: "Close-up portrait of a Boston terrier"
 updated: 2026-11-12
+picks:
+  - label: "Best for: Gassy or sensitive-stomach Bostons"
+    name: "Purina Pro Plan Sensitive Skin & Stomach (Salmon & Rice)"
+    url: "https://www.amazon.com/dp/B01EY9KPZM?tag=dogtur0f-20"
+  - label: "Best for: Soft stools alongside gas"
+    name: "Hill's Science Diet Sensitive Stomach & Skin"
+    url: "https://www.amazon.com/dp/B003MW7790?tag=dogtur0f-20"
+  - label: "Best for: Budget-minded owners"
+    name: "Diamond Naturals Small Breed"
+    url: "https://amzn.to/4jxMiDN"
+    image: "https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg"
+  - label: "Best for: Dogs with a vet-identified protein trigger"
+    name: "Natural Balance L.I.D."
+    url: "https://amzn.to/3TssQhn"
+    image: "https://m.media-amazon.com/images/I/81JrgFqCJ9L._AC_SX679_.jpg"
 ---
 
 **The best dog food for a Boston Terrier is a highly digestible, small-bite formula with named animal protein and controlled calories — paired with a slow-feeder bowl, because much of the breed's gas is swallowed air rather than food.** For skin and itching, pick a complete diet your vet agrees with and use an elimination trial, not brand-hopping, to test for allergies.

@@ -19,6 +19,21 @@ description: "Dog-proof and pet-proof trash cans with locking lids that stop kit
 minutes: 11
 hero: "/images/dog-proof-trash-cans.jpg"
 heroAlt: "Dog watching hopefully while its owner eats in a sunlit kitchen"
+picks:
+  - label: "Best for: Most kitchens, medium to large dogs"
+    name: "simplehuman 50-liter semi-round with slide lock"
+    url: "https://amzn.to/4AJkkv7"
+    image: "https://m.media-amazon.com/images/I/41irVoMtywL._AC_SX679_.jpg"
+  - label: "Best for: Dogs that wave noses at sensors"
+    name: "iTouchless 13-gallon sensor can with PetGuard"
+    url: "https://amzn.to/4ywx472"
+    image: "https://m.media-amazon.com/images/I/71IWTM+sFML._AC_SX679_.jpg"
+  - label: "Best for: Nose-lifters; small to medium dogs"
+    name: "Tramontina 13-gallon step can"
+    url: "https://www.amazon.com/s?k=Tramontina+13+gallon+step+trash+can&tag=dogtur0f-20"
+  - label: "Best for: Tight budgets"
+    name: "Sterilite 12.6-gallon locking-lid step can"
+    url: "https://www.amazon.com/s?k=Sterilite+12.6+gallon+locking+lid+step+can&tag=dogtur0f-20"
 ---
 
 A dog-proof trash can is one with a lid your dog can't lift, push, step open or tip over: in practice, a locking lid on a heavy, wide-based can, or a bin hidden in a latched cabinet. A pet-proof garbage can matters because trash holds cooked bones, corn cobs and xylitol, and dogs that win once keep trying. Scavenging is one of the most deeply wired canine behaviors, and any dog that has ever scored chicken bones from the bin has been rewarded for trying again. The fix is two-part: make the trash physically inaccessible, and train an alternative. The can does the heavy lifting while training catches up. If you're assembling a home that works for an aging dog, our [essential senior-dog products guide](/senior-dog-gear/essential-products-senior-dogs/) covers the rest of the kit — a dog-proof can is one of the quietest safety wins on the list.

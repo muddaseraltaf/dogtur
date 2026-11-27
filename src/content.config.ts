@@ -56,6 +56,8 @@ const articles = defineCollection({
     published: z.coerce.date().optional(),
     /** Last meaningful content update (YYYY-MM-DD) — shown on page + dateModified */
     updated: z.coerce.date().optional(),
+    /** Top-picks comparison box above the content (buying guides only) */
+    picks: z.array(z.object({ label: z.string(), name: z.string(), url: z.string().url(), image: z.string().url().optional() })).max(6).default([]),
   })
   // Derive the URL section slug from the section id (s1..s7)
   .transform((data) => ({

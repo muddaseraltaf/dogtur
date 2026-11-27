@@ -19,6 +19,24 @@ description: "Waterproof collars don't absorb water or stink like nylon. Compare
 minutes: 11
 hero: "/images/best-waterproof-dog-collars.jpg"
 heroAlt: "Chocolate Labrador shaking water off in a swimming pool"
+picks:
+  - label: "Best for: Everyday wear and swimming"
+    name: "Fable Pets Signature"
+    url: "https://www.amazon.com/s?k=Fable+Pets+Signature+dog+collar&tag=dogtur0f-20"
+  - label: "Best for: Serious water dogs, travel"
+    name: "Ruffwear waterproof collars (Headwater, Confluence)"
+    url: "https://www.amazon.com/s?k=Ruffwear+Headwater+dog+collar&tag=dogtur0f-20"
+  - label: "Best for: Larger dogs; custom-style Biothane"
+    name: "LupinePet Splash (Biothane)"
+    url: "https://www.amazon.com/s?k=Lupine+Pet+waterproof+dog+collar&tag=dogtur0f-20"
+  - label: "Best for: Strong pullers"
+    name: "Tuff Pupper Classic Heavy Duty"
+    url: "https://www.amazon.com/dp/B0863X178G?tag=dogtur0f-20"
+    image: "https://m.media-amazon.com/images/I/71p-kAhn3VL._AC_SX679_.jpg"
+  - label: "Best for: Budget spare"
+    name: "CollarDirect waterproof"
+    url: "https://amzn.to/3VdfFS3"
+    image: "https://m.media-amazon.com/images/I/7190mHaooUL._AC_SX679_.jpg"
 ---
 
 The best waterproof dog collar is one made from coated webbing (Biothane, TPU-coated or PVC-coated), because the coating means the collar doesn't soak up water, dries in minutes, wipes clean and doesn't stink. A "water-resistant" collar only sheds surface water, so for a dog that swims or lives in mud, choose waterproof. A standard nylon collar on a dog that swims is a slow-motion disaster: it stays damp for hours, breeds bacteria in the weave, and develops a sour smell that no washing fully removes. A perpetually wet collar against the skin can also irritate it, especially in older dogs with thinning skin. A waterproof collar — coated webbing that sheds water instead of absorbing it — solves all of this: it dries in minutes, doesn't stink, and wipes clean. For a senior dog's everyday comfort, it's one of the simplest gear upgrades in our [essential senior-dog products guide](/senior-dog-gear/essential-products-senior-dogs/).

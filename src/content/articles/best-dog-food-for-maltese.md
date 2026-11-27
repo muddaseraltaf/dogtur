@@ -17,6 +17,23 @@ description: "What to feed a Maltese: small kibble, dental care, honest facts on
 minutes: 10
 published: 2026-11-07
 updated: 2026-11-12
+picks:
+  - label: "Best for: Healthy adults, a conservative choice"
+    name: "Hill's Science Diet Small & Mini Adult"
+    url: "https://amzn.to/4jxMd2X"
+    image: "https://m.media-amazon.com/images/I/811D-qkHlyL._AC_SX679_.jpg"
+  - label: "Best for: A mid-priced everyday option"
+    name: "Blue Buffalo Life Protection Small Breed"
+    url: "https://amzn.to/4ho3L0g"
+    image: "https://m.media-amazon.com/images/I/81FqFTJg0IL._AC_SX679_.jpg"
+  - label: "Best for: Budget-minded owners or multi-dog homes"
+    name: "Diamond Naturals Small Breed"
+    url: "https://amzn.to/4jxMiDN"
+    image: "https://m.media-amazon.com/images/I/71LghGv3R9L._AC_SX679_.jpg"
+  - label: "Best for: Owners wanting a protein-forward, grain-free recipe"
+    name: "Wellness CORE Small Breed"
+    url: "https://amzn.to/3Tu5V5m"
+    image: "https://m.media-amazon.com/images/I/812FyqTEygL._AC_SX679_.jpg"
 ---
 
 **The best dog food for a Maltese is a complete-and-balanced small-breed formula with small, easy-to-chew kibble for the dog's life stage, fed in measured portions: most adult Maltese need only about 140–270 calories a day.** For wet versus dry, dry is a reasonable default for many adults, while wet food or a wet topper suits seniors, sore mouths and picky eaters.

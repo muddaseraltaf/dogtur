@@ -20,6 +20,26 @@ description: "Senior dog joint supplement reviews with the evidence behind each 
 minutes: 14
 hero: "/images/best-joint-supplements-senior-dogs.jpg"
 heroAlt: "Brown-and-white dog running across a grassy field"
+picks:
+  - label: "Best for: Dogs whose vet suggested a supplement"
+    name: "Nutramax Dasuquin with ASU / with MSM"
+    url: "https://amzn.to/4hnVKs5"
+    image: "https://m.media-amazon.com/images/I/61qaIflpy3L._AC_SX679_.jpg"
+  - label: "Best for: Longest-established, affordable start"
+    name: "Nutramax Cosequin DS + MSM"
+    url: "https://amzn.to/4houcD3"
+    image: "https://m.media-amazon.com/images/I/71FSaprWLyL._AC_SX679_.jpg"
+  - label: "Best for: Dogs already on Dasuquin"
+    name: "Nutramax Dasuquin for Senior Dogs"
+    url: "https://amzn.to/4iYaGyo"
+    image: "https://m.media-amazon.com/images/I/71Arvn6Oi3L._AC_SX679_.jpg"
+  - label: "Best for: Vet wants a broader approach"
+    name: "Nutramax Dasuquin Advanced"
+    url: "https://www.amazon.com/s?k=Nutramax+Dasuquin+Advanced&tag=dogtur0f-20"
+  - label: "Best for: Dogs that did not respond to glucosamine products"
+    name: "Vetoquinol Flexadin Advanced with UC-II"
+    url: "https://amzn.to/4jrZBFW"
+    image: "https://m.media-amazon.com/images/I/61B+i0h49nL._AC_SX679_.jpg"
 ---
 
 The best joint supplement for a senior dog is one your vet agrees fits, with omega-3 (EPA/DHA) the best-supported ingredient and Nutramax's Dasuquin and Cosequin the vet-clinic standards. Glucosamine and chondroitin, the most popular pair, have weak evidence for pain in dogs. This guide reviews the main products, grades each ingredient by the strength of its evidence, adds signal from more than 30,000 verified owner ratings, and says where the evidence ends. For the full mobility picture — exercise, pain signs, and vet-prescribed options — start with our [Senior Dog Mobility Guide](/senior-dog-mobility/senior-dog-mobility-guide/).
